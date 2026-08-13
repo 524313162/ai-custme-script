@@ -1,0 +1,203 @@
+{
+  "episode_id": "ep12",
+  "scenes": [
+    {
+      "scene_id": "ep12_s01",
+      "scene_title": "村口石阶（黄昏·夕阳）",
+      "shots": [
+        {
+          "shot_id": "ep12_s01_sh01",
+          "shot_type": "wide",
+          "narration": [
+            { "text": "旺财沿着田埂一路狂奔回家，浑身是泥，毛结成一绺一绺，瘦得皮包骨，只有那双眼睛还是亮的。它喘着气停在门口石阶下，一眼就看见石阶上的甜甜。", "duration_sec": 5.4 }
+          ],
+          "sfx": [
+            { "description": "风过稻浪，虫鸣渐起", "timing": "0.0s, 2.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep12_s01_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "tian_tian", "line": "旺财！旺财真的是你！我以为……我以为再也见不到你了！", "type": "speech", "emotion": "激动", "tempo": "fast", "duration_sec": 5.7 },
+            { "char_id": "wang_cai", "line": "呜……呜……", "type": "speech", "emotion": "委屈", "tempo": "normal", "duration_sec": 0.9 }
+          ]
+        },
+        {
+          "shot_id": "ep12_s01_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "甜甜，我回来了。过了河，翻过山，摔过好多次。可只要想着你，再远也要回家。", "type": "inner_monolog", "emotion": "温柔", "tempo": "slow", "duration_sec": 7.7 }
+          ],
+          "narration": [
+            { "text": "旺财抬起头，轻轻舔掉甜甜脸上的泪。", "duration_sec": 4.0 }
+          ],
+          "sfx": [
+            { "description": "夕阳把一人一狗的影子镀成金色", "timing": "1.5s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep12_s02",
+      "scene_title": "甜甜家门口（黄昏）",
+      "shots": [
+        {
+          "shot_id": "ep12_s02_sh01",
+          "shot_type": "mid",
+          "narration": [
+            { "text": "妈妈听见动静跑出来，看见门口抱成一团的景象，鼻子一酸，背过身擦了擦眼睛，才转回来，声音故意硬邦邦的。", "duration_sec": 4.0 }
+          ]
+        },
+        {
+          "shot_id": "ep12_s02_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "mom", "line": "瘦成这样……回来就好。锅里还给你留着骨头汤。", "type": "speech", "emotion": "心疼", "tempo": "slow", "duration_sec": 4.9 },
+            { "char_id": "tian_tian", "line": "妈！我就说旺财会回来的！它答应过我的！", "type": "speech", "emotion": "得意", "tempo": "normal", "duration_sec": 4.4 }
+          ]
+        },
+        {
+          "shot_id": "ep12_s02_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "neighbor_apo", "line": "哟，旺财真回来了？这狗认家，是个好孩子！", "type": "speech", "emotion": "乐呵", "tempo": "normal", "duration_sec": 4.4 },
+            { "char_id": "mom", "line": "……先进屋。风大，别冻着它。", "type": "speech", "emotion": "温柔", "tempo": "slow", "duration_sec": 2.7 }
+          ]
+        },
+        {
+          "shot_id": "ep12_s02_sh04",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "呜！", "type": "speech", "emotion": "开心", "tempo": "normal", "duration_sec": 0.7 }
+          ],
+          "sfx": [
+            { "description": "灶台上，骨头汤咕嘟咕嘟冒着热气", "timing": "0.8s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep12_s03",
+      "scene_title": "院子里·给旺财洗澡（黄昏→夜）",
+      "shots": [
+        {
+          "shot_id": "ep12_s03_sh01",
+          "shot_type": "mid",
+          "narration": [
+            { "text": "甜甜打来热水，坐在小板凳上给旺财洗澡，混着泥的水顺着它的毛淌下来；擦干、吹风之后，它又蓬松了一圈。", "duration_sec": 4.2 }
+          ],
+          "sfx": [
+            { "description": "水声哗啦", "timing": "0.0s, 1.5s, 3.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep12_s03_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "tian_tian", "line": "你看你，脏得都快认不出来了……这一路，你到底是怎么走回来的呀？", "type": "speech", "emotion": "心疼", "tempo": "normal", "duration_sec": 6.9 },
+            { "char_id": "wang_cai", "line": "过了河，翻过山，夜里又冷又怕。可只要想起你，我就想，再远也要回家。", "type": "inner_monolog", "emotion": "温柔", "tempo": "slow", "duration_sec": 7.2 }
+          ]
+        },
+        {
+          "shot_id": "ep12_s03_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "tian_tian", "line": "以后我再也不让你离开我半步了。", "type": "speech", "emotion": "认真", "tempo": "slow", "duration_sec": 3.7 },
+            { "char_id": "wang_cai", "line": "汪！", "type": "speech", "emotion": "欢快", "tempo": "normal", "duration_sec": 0.7 }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep12_s04",
+      "scene_title": "院子里·晚餐（夜）",
+      "shots": [
+        {
+          "shot_id": "ep12_s04_sh01",
+          "shot_type": "wide",
+          "narration": [
+            { "text": "妈妈在院子里摆好饭桌，端出一大碗热腾腾的骨头汤，阿婆也端来一碟自家做的酱菜。一家人围坐，旺财把头埋进碗里吃得香甜。", "duration_sec": 4.2 }
+          ]
+        },
+        {
+          "shot_id": "ep12_s04_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "mom", "line": "别光看着，吃吧。你俩都瘦了。", "type": "speech", "emotion": "温柔", "tempo": "slow", "duration_sec": 3.2 },
+            { "char_id": "tian_tian", "line": "旺财，多吃点，这是妈妈特意给你炖的！", "type": "speech", "emotion": "开心", "tempo": "normal", "duration_sec": 4.2 }
+          ]
+        },
+        {
+          "shot_id": "ep12_s04_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "呜……呜……", "type": "speech", "emotion": "满足", "tempo": "normal", "duration_sec": 0.9 },
+            { "char_id": "neighbor_apo", "line": "这狗啊，赶了多少里路，全村的狗就数它最争气！", "type": "speech", "emotion": "赞赏", "tempo": "normal", "duration_sec": 5.2 }
+          ]
+        },
+        {
+          "shot_id": "ep12_s04_sh04",
+          "shot_type": "mid",
+          "dialogue": [
+            { "char_id": "tian_tian", "line": "傻瓜，你吃你吃，明天还有好多好多骨头汤呢！", "type": "speech", "emotion": "宠溺", "tempo": "normal", "duration_sec": 4.7 }
+          ],
+          "sfx": [
+            { "description": "碗筷轻响，夜风送来稻香", "timing": "0.0s, 2.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep12_s05",
+      "scene_title": "石阶上·看旺财星（夜）",
+      "shots": [
+        {
+          "shot_id": "ep12_s05_sh01",
+          "shot_type": "wide",
+          "dialogue": [
+            { "char_id": "tian_tian", "line": "旺财你看，那颗星星！你说过它叫旺财星的对不对？", "type": "speech", "emotion": "温柔", "tempo": "slow", "duration_sec": 5.4 }
+          ],
+          "sfx": [
+            { "description": "夜空虫鸣，风轻轻吹过", "timing": "0.0s, 2.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep12_s05_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "甜甜，那不是星星。那是家的方向——也是我永远要回到你身边的方向。", "type": "inner_monolog", "emotion": "温柔", "tempo": "slow", "duration_sec": 7.2 }
+          ]
+        },
+        {
+          "shot_id": "ep12_s05_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "mom", "line": "……以后，咱们再也不分开了。", "type": "speech", "emotion": "温柔", "tempo": "slow", "duration_sec": 2.9 },
+            { "char_id": "wang_cai", "line": "呜……", "type": "speech", "emotion": "安心", "tempo": "slow", "duration_sec": 0.7 }
+          ]
+        },
+        {
+          "shot_id": "ep12_s05_sh04",
+          "shot_type": "wide",
+          "narration": [
+            { "text": "画面渐暖定格，旺财把头靠在甜甜肩头，耳朵轻轻抖了一下——它又听见了风里的稻香。只是这一次，它知道，自己已经回家了。", "duration_sec": 4.0 }
+          ],
+          "sfx": [
+            { "description": "音乐收在最后一声温柔的钢琴音上", "timing": "0.0s, 3.0s" }
+          ]
+        }
+      ]
+    }
+  ],
+  "opening_theme": {
+    "title": "片头曲·回家的路",
+    "style": "温暖钢琴，稻香与夕阳，圆满的前奏",
+    "duration_sec": 10
+  },
+  "ending_theme": {
+    "title": "片尾曲·团圆",
+    "style": "舒缓钢琴，温馨圆满，全片情感的落点",
+    "duration_sec": 10
+  }
+}

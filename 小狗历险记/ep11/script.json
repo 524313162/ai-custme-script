@@ -1,0 +1,205 @@
+{
+  "episode_id": "ep11",
+  "scenes": [
+    {
+      "scene_id": "ep11_s01",
+      "scene_title": "镇子青石街（清晨）",
+      "shots": [
+        {
+          "shot_id": "ep11_s01_sh01",
+          "shot_type": "wide",
+          "narration": [
+            { "text": "天刚蒙蒙亮，镇子的青石街还半睡半醒。旺财拖着疲惫的身体从省道拐进来，耷拉的耳朵忽然竖起——风里飘来一丝甜香。", "duration_sec": 4.0 }
+          ],
+          "sfx": [
+            { "description": "清晨的风把炊烟和甜香一起送来", "timing": "0.0s, 2.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep11_s01_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "这个味道……是花生糖……甜甜奶奶糖摊的味道……没错，就是这儿！", "type": "inner_monolog", "emotion": "惊喜", "tempo": "normal", "duration_sec": 6.2 }
+          ]
+        },
+        {
+          "shot_id": "ep11_s01_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "就是这条街……上次甜甜牵着我，一颗一颗给我买糖的那条街……", "type": "inner_monolog", "emotion": "怀念", "tempo": "slow", "duration_sec": 6.4 }
+          ]
+        },
+        {
+          "shot_id": "ep11_s01_sh04",
+          "shot_type": "mid",
+          "dialogue": [
+            { "char_id": "vendor_veg", "line": "哎，小黄狗，是不是走丢了？饿不饿？来来来，大婶这儿有油条……", "type": "speech", "emotion": "热心", "tempo": "normal", "duration_sec": 6.2 },
+            { "char_id": "wang_cai", "line": "不饿……我不饿……我要回家……甜甜在等我……", "type": "inner_monolog", "emotion": "坚定", "tempo": "normal", "duration_sec": 3.9 }
+          ],
+          "sfx": [
+            { "description": "旺财的小爪子踩在青石板上，嗒嗒作响", "timing": "2.5s, 5.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep11_s02",
+      "scene_title": "镇口早点摊（清晨）",
+      "shots": [
+        {
+          "shot_id": "ep11_s02_sh01",
+          "shot_type": "close",
+          "narration": [
+            { "text": "老板娘蹲下身，仔细端详旺财右耳那道缺口，又看看它脏兮兮的爪子，眼圈慢慢红了。", "duration_sec": 4.0 }
+          ],
+          "sfx": [
+            { "description": "蒸笼白气升腾", "timing": "0.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep11_s02_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "vendor_wang", "line": "这不是村头甜甜家的小黄狗吗？右耳缺了个口，错不了！你怎么会跑到镇上来了？", "type": "speech", "emotion": "惊喜", "tempo": "normal", "duration_sec": 8.4 },
+            { "char_id": "wang_cai", "line": "汪！汪！", "type": "speech", "emotion": "激动", "tempo": "fast", "duration_sec": 0.9 }
+          ],
+          "sfx": [
+            { "description": "尾巴摇动的沙沙声", "timing": "3.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep11_s02_sh03",
+          "shot_type": "mid",
+          "narration": [
+            { "text": "老板娘掰了半块花生糖递到它嘴边。旺财闻了闻，却把糖轻轻推到一旁，转头望向出村的方向。", "duration_sec": 4.0 }
+          ],
+          "dialogue": [
+            { "char_id": "vendor_wang", "line": "你不吃糖……是想回家，对不对？", "type": "speech", "emotion": "心疼", "tempo": "slow", "duration_sec": 3.2 },
+            { "char_id": "wang_cai", "line": "呜……", "type": "speech", "emotion": "委屈", "tempo": "slow", "duration_sec": 0.7 }
+          ]
+        },
+        {
+          "shot_id": "ep11_s02_sh04",
+          "shot_type": "mid",
+          "dialogue": [
+            { "char_id": "vendor_wang", "line": "走，姨这就送你回去。甜甜那丫头，上回还来我这儿买花生糖，说要带给家里的小狗吃呢。你呀，就是那只小狗，对不对？", "type": "speech", "emotion": "动情", "tempo": "normal", "duration_sec": 11.9 }
+          ],
+          "sfx": [
+            { "description": "三轮车发动机突突响起", "timing": "5.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep11_s03",
+      "scene_title": "三轮车回乡路（上午）",
+      "shots": [
+        {
+          "shot_id": "ep11_s03_sh01",
+          "shot_type": "wide",
+          "narration": [
+            { "text": "三轮车突突地驶出镇子，沿着省道往青禾村的方向走。风把稻香灌进车斗，旺财趴在车沿上，眼睛盯着越来越近的远山。", "duration_sec": 4.0 }
+          ],
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "快到家了……甜甜……我马上就能见到你了……再跑快一点，再快一点……", "type": "inner_monolog", "emotion": "急切", "tempo": "fast", "duration_sec": 6.4 }
+          ],
+          "sfx": [
+            { "description": "风呼啸而过，路边的稻田沙沙响", "timing": "0.0s, 2.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep11_s03_sh02",
+          "shot_type": "mid",
+          "narration": [
+            { "text": "路过清水河老桥时，旺财忽然支棱起耳朵——桥下流水的声音，和那晚它差点被冲走的声音一模一样。它把脸埋进前爪里，想起每一步，都是靠“回家”两个字撑过来的。", "duration_sec": 4.4 }
+          ]
+        },
+        {
+          "shot_id": "ep11_s03_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "vendor_wang", "line": "小黄狗，再忍忍，翻过前面那座坡，就是你们村了。你看，稻子都黄了，正是回家的时候啊。", "type": "speech", "emotion": "温和", "tempo": "normal", "duration_sec": 8.9 },
+            { "char_id": "wang_cai", "line": "汪……", "type": "speech", "emotion": "感动", "tempo": "slow", "duration_sec": 0.7 }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep11_s04",
+      "scene_title": "村口石板路（黄昏·夕阳）",
+      "shots": [
+        {
+          "shot_id": "ep11_s04_sh01",
+          "shot_type": "wide",
+          "narration": [
+            { "text": "三轮车在村口大槐树下停稳。旺财没有回头，撒开腿沿着熟悉的石板路狂奔——跑过晒谷场，跑过老槐树。它看见了，村口那座二层小楼，还有石阶上那个穿红色连衣裙的小小身影。", "duration_sec": 4.4 }
+          ],
+          "sfx": [
+            { "description": "脚步声急促，越来越快，越来越近", "timing": "0.0s, 2.0s, 4.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep11_s04_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "vendor_wang", "line": "去吧，小黄狗，到家了！", "type": "speech", "emotion": "欣慰", "tempo": "normal", "duration_sec": 2.4 },
+            { "char_id": "wang_cai", "line": "甜甜……我回来了……我真的回来了……这一次，我再也不走了……", "type": "inner_monolog", "emotion": "激动", "tempo": "normal", "duration_sec": 5.7 }
+          ]
+        },
+        {
+          "shot_id": "ep11_s04_sh03",
+          "shot_type": "point_of_view",
+          "dialogue": [
+            { "char_id": "tian_tian", "line": "旺财——回家吃饭啦——快回来，我等你呢！", "type": "speech", "emotion": "温暖", "tempo": "normal", "duration_sec": 3.9 }
+          ],
+          "sfx": [
+            { "description": "回忆闪回：甜甜张开双臂的画面，阳光很暖", "timing": "1.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep11_s04_sh04",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "那个背影……是甜甜……一定是甜甜……", "type": "inner_monolog", "emotion": "期盼", "tempo": "slow", "duration_sec": 3.4 }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep11_s05",
+      "scene_title": "石阶前（黄昏·夕阳）",
+      "shots": [
+        {
+          "shot_id": "ep11_s05_sh01",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "汪……", "type": "speech", "emotion": "紧张", "tempo": "slow", "duration_sec": 0.7 }
+          ],
+          "sfx": [
+            { "description": "夕阳下，整个世界安静下来，只听见风吹过稻浪", "timing": "0.0s, 2.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep11_s05_sh02",
+          "shot_type": "wide",
+          "narration": [
+            { "text": "就在一步之遥的地方，旺财忽然停住了。它不敢再往前，怕眼前是梦，怕一碰就碎。那个红色的小小身影，慢慢转了过来……会是她吗？", "duration_sec": 4.6 }
+          ],
+          "sfx": [
+            { "description": "音乐渐起，画面定格", "timing": "2.5s" }
+          ]
+        }
+      ]
+    }
+  ],
+  "opening_theme": {
+    "title": "片头曲·归途",
+    "style": "轻快民谣风，晨光与甜香，带着回家的雀跃",
+    "duration_sec": 10
+  },
+  "ending_theme": {
+    "title": "片尾曲·就在前方",
+    "style": "温柔弦乐，渐暖旋律，悬念悬在夕阳里",
+    "duration_sec": 10
+  }
+}

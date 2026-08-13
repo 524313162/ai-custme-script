@@ -1,0 +1,401 @@
+{
+  "episode_id": "ep05",
+  "scenes": [
+    {
+      "scene_id": "ep05_s01",
+      "scene_title": "放学田埂（傍晚·斜阳）",
+      "shots": [
+        {
+          "shot_id": "ep05_s01_sh01",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "villager_li",
+              "char_name": "李大爷",
+              "line": "甜甜，路上当心，这两天镇上来了收狗的，专盯着咱们村的狗。",
+              "type": "speech",
+              "emotion": "担忧",
+              "tempo": "slow",
+              "duration_sec": 6.4
+            }
+          ],
+          "sfx": [
+            { "description": "斜阳下的田埂，牛铃声叮当", "timing": "0.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep05_s01_sh02",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "知道啦！旺财可聪明了，谁也抓不住它。",
+              "type": "speech",
+              "emotion": "信赖",
+              "tempo": "fast",
+              "duration_sec": 4.2
+            },
+            {
+              "char_id": "villager_li",
+              "char_name": "李大爷",
+              "line": "前年咱村就丢过一回，唉，都是往那个方向去的。",
+              "type": "speech",
+              "emotion": "忧虑",
+              "tempo": "slow",
+              "duration_sec": 5.2
+            }
+          ]
+        },
+        {
+          "shot_id": "ep05_s01_sh03",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "嗯！旺财，咱们走快点儿回家。",
+              "type": "speech",
+              "emotion": "认真",
+              "tempo": "normal",
+              "duration_sec": 3.2
+            },
+            {
+              "char_id": "tian_tian",
+              "line": "旺财，明天放学，咱们还来田里看蝴蝶。",
+              "type": "speech",
+              "emotion": "温柔",
+              "tempo": "normal",
+              "duration_sec": 4.2
+            }
+          ]
+        },
+        {
+          "shot_id": "ep05_s01_sh04",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "汪！",
+              "type": "speech",
+              "emotion": "精神",
+              "tempo": "normal",
+              "duration_sec": 0.7
+            }
+          ],
+          "sfx": [
+            { "description": "蝴蝶的翅膀在斜阳里闪了闪，旺财追了两步又跑回甜甜身边", "timing": "0.5s, 2.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep05_s02",
+      "scene_title": "田埂转弯处（傍晚）",
+      "shots": [
+        {
+          "shot_id": "ep05_s02_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "拐过一片稻田，甜甜的笑容还挂在脸上。那辆灰色面包车静静停在路口，车窗漆黑，像一只闭着眼的大野兽。",
+              "duration_sec": 6.5
+            }
+          ],
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜！呜！汪！",
+              "type": "speech",
+              "emotion": "警觉",
+              "tempo": "fast",
+              "duration_sec": 1.2
+            }
+          ],
+          "sfx": [
+            { "description": "背毛唰地炸开，旺财冲到甜甜身前，挡在她和车之间", "timing": "1.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep05_s02_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "旺财？怎么啦？那不是张叔的车呀……奇怪。",
+              "type": "speech",
+              "emotion": "茫然",
+              "tempo": "slow",
+              "duration_sec": 4.2
+            }
+          ]
+        },
+        {
+          "shot_id": "ep05_s02_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "汪汪！汪汪汪！",
+              "type": "speech",
+              "emotion": "焦急",
+              "tempo": "fast",
+              "duration_sec": 1.7
+            },
+            {
+              "char_id": "tian_tian",
+              "line": "旺财你轻点儿，裙子要扯破啦！",
+              "type": "speech",
+              "emotion": "着急",
+              "tempo": "fast",
+              "duration_sec": 3.4
+            }
+          ],
+          "sfx": [
+            { "description": "面包车的车门吱呀一声开了一条缝", "timing": "2.5s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep05_s03",
+      "scene_title": "田埂边（傍晚）",
+      "shots": [
+        {
+          "shot_id": "ep05_s03_sh01",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "dog_thief",
+              "char_name": "狗贩子",
+              "line": "小东西，可算等到你了。",
+              "type": "speech",
+              "emotion": "阴冷",
+              "tempo": "normal",
+              "duration_sec": 2.7,
+              "voice_only": true
+            }
+          ],
+          "sfx": [
+            { "description": "斜阳把网兜的影子拉得长长的，兜头罩下来", "timing": "0.0s, 1.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep05_s03_sh02",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "旺财！把旺财还给我！",
+              "type": "shout",
+              "emotion": "惊恐",
+              "tempo": "fast",
+              "duration_sec": 2.4
+            },
+            {
+              "char_id": "dog_thief",
+              "char_name": "狗贩子",
+              "line": "别叫唤，上车就有你的好日子。",
+              "type": "speech",
+              "emotion": "冷漠",
+              "tempo": "normal",
+              "duration_sec": 3.4,
+              "voice_only": true
+            }
+          ]
+        },
+        {
+          "shot_id": "ep05_s03_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "救命！谁来救救旺财！",
+              "type": "shout",
+              "emotion": "绝望",
+              "tempo": "fast",
+              "duration_sec": 2.4
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜——呜——",
+              "type": "speech",
+              "emotion": "挣扎",
+              "tempo": "fast",
+              "duration_sec": 0.9
+            }
+          ],
+          "sfx": [
+            { "description": "网兜收紧的窸窣声，车门砰地关上，引擎轰然发动", "timing": "1.0s, 2.5s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep05_s04",
+      "scene_title": "村口石板路（夜·雨）",
+      "shots": [
+        {
+          "shot_id": "ep05_s04_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "面包车扬起尘土冲出去。甜甜追着车跑，追过晒谷场，追到石板路口，脚下一绊，整个人摔倒在地，膝盖磕破。雨点跟着落下来，越下越大。",
+              "duration_sec": 7.5
+            }
+          ],
+          "sfx": [
+            { "description": "雷声闷响，雨点砸在石板上", "timing": "0.0s, 3.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep05_s04_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "旺财！旺财你回来！你答应过要一直陪着我的！",
+              "type": "shout",
+              "emotion": "崩溃",
+              "tempo": "fast",
+              "duration_sec": 4.9
+            }
+          ],
+          "sfx": [
+            { "description": "石板路被雨水打湿，映出她小小的影子", "timing": "1.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep05_s04_sh03",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "甜甜！甜甜你别这样……妈妈在呢。",
+              "type": "speech",
+              "emotion": "心疼",
+              "tempo": "fast",
+              "duration_sec": 3.4
+            },
+            {
+              "char_id": "tian_tian",
+              "line": "我不回家！我要旺财！妈妈我要旺财！",
+              "type": "shout",
+              "emotion": "哭喊",
+              "tempo": "fast",
+              "duration_sec": 3.9
+            }
+          ],
+          "sfx": [
+            { "description": "妈妈从家里冲出来，一把抱住浑身湿透的甜甜", "timing": "0.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep05_s04_sh04",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "乖，先回家，妈妈明天就帮你想办法，啊？",
+              "type": "speech",
+              "emotion": "哽咽",
+              "tempo": "slow",
+              "duration_sec": 4.2
+            },
+            {
+              "char_id": "tian_tian",
+              "line": "妈妈……他们……他们为什么要抓旺财……",
+              "type": "speech",
+              "emotion": "无助",
+              "tempo": "slow",
+              "duration_sec": 3.7
+            }
+          ],
+          "sfx": [
+            { "description": "哭声和雨声混在一起，远处面包车的尾灯越来越远", "timing": "2.0s, 4.5s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep05_s05",
+      "scene_title": "面包车内（夜·雨）",
+      "shots": [
+        {
+          "shot_id": "ep05_s05_sh01",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜……呜……",
+              "type": "speech",
+              "emotion": "呜咽",
+              "tempo": "slow",
+              "duration_sec": 0.9
+            }
+          ],
+          "sfx": [
+            { "description": "笼门哐当撞上，雨珠敲打车窗", "timing": "0.0s, 1.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep05_s05_sh02",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "甜甜……别追了……会摔的……我会回来的。我一定会回来的，不管多远。",
+              "type": "inner_monolog",
+              "emotion": "悲伤",
+              "tempo": "slow",
+              "duration_sec": 6.4
+            }
+          ],
+          "sfx": [
+            { "description": "车窗外，雨珠连成线，把整个村庄都挡在了外面", "timing": "0.5s, 3.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep05_s05_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "家……甜甜……我得记住家的味道。",
+              "type": "inner_monolog",
+              "emotion": "坚定",
+              "tempo": "slow",
+              "duration_sec": 3.2
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "别怕……甜甜……我答应你的，我一定会做到。",
+              "type": "inner_monolog",
+              "emotion": "坚定",
+              "tempo": "slow",
+              "duration_sec": 4.2
+            }
+          ],
+          "sfx": [
+            { "description": "旺财的爪子扒着铁栏，指甲磨得发白", "timing": "1.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep05_s05_sh04",
+          "shot_type": "point_of_view",
+          "sfx": [
+            { "description": "引擎声、雨声，车轮碾过积水的声音", "timing": "0.0s" }
+          ]
+        }
+      ]
+    }
+  ],
+  "opening_theme": {
+    "title": "片头曲·分离",
+    "style": "压抑的弦乐，雨声渐起",
+    "duration_sec": 10
+  },
+  "ending_theme": {
+    "title": "片尾曲·我会回来",
+    "style": "忧伤钢琴，旋律渐弱",
+    "duration_sec": 10
+  }
+}

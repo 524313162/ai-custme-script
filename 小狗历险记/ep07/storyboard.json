@@ -1,0 +1,445 @@
+{
+  "episode_id": "ep07",
+  "shots": [
+    {
+      "shot_id": "ep07_s01_sh01",
+      "scene_id": "ep07_s01",
+      "sequence": 1,
+      "description": "黑爷卧在阴影里，隔着铁栏打量旺财，眼神像看透了一切。旺财在对面新笼中警觉地回望。深夜屠狗场，昏黄吊灯下成排锈红铁笼。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong", "prop_tielian"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_cold_dim",
+      "emotion": "审视",
+      "duration_sec": 4.4,
+      "transition_in": "淡入",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑色大土狗黑爷（左眼一道旧疤、毛发灰白）卧在阴影铁笼里，隔着铁栏沉静打量对面笼中的小黄狗旺财，眼神像看透了一切；旺财（黄色短毛、垂耳、右耳有缺口）在笼中警觉回望；背景：屠狗场深夜，漏光屋顶，一盏昏黄吊灯，成排锈红铁笼伸向黑暗，铁链拖地；构图与镜头：广角全景、两笼相对中间隔着昏暗走廊、三分法构图、35mm广角侧面机位静止 wide_shot；光线：深夜冷调、吊灯昏黄与月光冷白分层、暗部吞噬四周；情绪：审视与对峙、平静下的暗流；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s01_sh02",
+      "scene_id": "ep07_s01",
+      "sequence": 2,
+      "description": "黑爷冷硬地开口：别盯着我，看见墙上那爪印没，都想跑，都没成。旺财隔着铁栏竖耳听着。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_jiuzhuayin", "prop_tielong"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_cold_dim",
+      "emotion": "冷硬",
+      "duration_sec": 5.3,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷侧脸冷硬特写，左眼疤痕在昏暗中清晰，目光斜斜示意墙上的旧爪印，语气低沉不带温度；旺财在画面边缘隔着铁栏竖耳倾听；背景：屠狗场深夜，墙上密布旧痕叠新痕的爪印，昏黄灯光斜照，铁笼锈红；构图与镜头：特写、黑爷居右、旧爪印在背景墙面、三分法构图、85mm长焦侧面机位静态 close_up；光线：昏黄吊灯斜射在爪印与黑爷脸上，明暗交界分明；情绪：冷硬如铁、对命运的麻木与告诫；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s01_sh03",
+      "scene_id": "ep07_s01",
+      "sequence": 3,
+      "description": "旺财急切地呜叫两声。黑爷低沉回应：你也有要回去的人？哼，谁没有。回了的，我一个都没见过。两只狗隔着铁栏对望，夜风从漏顶灌进来。",
+      "visual_elements": {
+        "characters": ["wang_cai", "hei_ye"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_cold_dim",
+      "emotion": "低沉",
+      "duration_sec": 7.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财急切地前爪扒着铁栏低呜，眼神急切；黑爷在对面笼中抬起灰白的头，眼神低垂而深沉，仿佛看穿所有挣扎；背景：屠狗场深夜，两笼之间昏暗走廊，漏顶处透进一线冷风与月光，锈红铁栏将画面切割；构图与镜头：双狗隔栏对视的中景、铁栏作前景分隔线、三分法构图、50mm中焦正面机位静态 mid_shot；光线：深夜冷调，月光从漏顶倾泻成一线光带，四周沉黑；情绪：急切与低沉的碰撞、同病相怜的试探；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s01_sh04",
+      "scene_id": "ep07_s01",
+      "sequence": 4,
+      "description": "旺财固执地呜了一声。黑爷愣了一瞬，声音松动：倔得像当年我。夜风从屋顶漏进来，铁锁在月光下泛着锈色。",
+      "visual_elements": {
+        "characters": ["wang_cai", "hei_ye"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tiesuo", "prop_tielong"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_cold_moonlight",
+      "emotion": "松动",
+      "duration_sec": 3.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财固执地抬头，眼神倔强湿润；黑爷垂下的眼皮微微抬起，灰白胡须的嘴角似有一丝松动，低声说出倔得像当年我；背景：屠狗场深夜，笼门上一把锈黄铁锁在月光下泛着锈色，夜风从漏顶灌入吹动尘埃；构图与镜头：特写、旺财居左黑爷居右、铁锁在画面上方微光、中心构图、85mm长焦正面机位静态 close_up；光线：冷白月光勾出轮廓，铁锁反着锈色微光，四周沉入墨黑；情绪：固执撬动冷硬、老狗心底被触动的一瞬；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s02_sh01",
+      "scene_id": "ep07_s02",
+      "sequence": 5,
+      "description": "夜深了，狗都睡了。旺财趴着，鼻尖贴着笼门，想起甜甜家屋檐下那盏暖灯。夜风低低呜咽，铁笼在暗处泛着冷光。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_cold_with_warm_point",
+      "emotion": "思念",
+      "duration_sec": 4.9,
+      "transition_in": "叠化",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：小黄狗旺财趴在铁笼中，鼻尖贴着笼门，眼睛望向笼外黑暗，神情思念；画面远方浮现甜甜家屋檐下的一盏暖黄灯光（回忆虚影）；背景：屠狗场深夜，成排铁笼寂静，漏光屋顶，夜风低鸣，铁笼在暗处泛冷光；构图与镜头：广角全景、旺财的笼居前景、远处暖灯是视觉焦点、三分法构图、35mm广角高位俯拍静止 wide_shot；光线：深夜冷蓝色调为主，远处一点暖黄灯光形成冷暖对比；情绪：思念、孤独中攥着一缕家的暖；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s02_sh02",
+      "scene_id": "ep07_s02",
+      "sequence": 6,
+      "description": "旺财内心独白：甜甜……她一定还在等我。要是我回不去，谁陪她看星星。画面一角浮现甜甜家屋顶上一起看星星的回忆虚影。",
+      "visual_elements": {
+        "characters": ["wang_cai", "tian_tian"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_cold_with_warm_point",
+      "emotion": "思念",
+      "duration_sec": 6.1,
+      "transition_in": "叠化",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：小黄狗旺财的特写，湿润的眼睛望向笼外，眼中有水光；画面一角浮现回忆虚影：红裙小女孩甜甜坐在屋顶，身边空着一个位置，头顶繁星点点；背景：屠狗场深夜铁笼内，冷暗色调，回忆区域泛着柔和暖光，两重色调交融；构图与镜头：特写、旺财眼睛居左下、甜甜回忆虚影在右上、三分法构图、85mm长焦正面机位静态 close_up；光线：笼内冷暗，回忆区域暖橙微光，冷暖对比强烈；情绪：深沉的思念、怕回不去的心情；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s02_sh03",
+      "scene_id": "ep07_s02",
+      "sequence": 7,
+      "description": "黑爷沧桑地讲起头一年的伴儿灰毛狗：说好一起逃，墙根都刨了一半，第二天它就被拖走了。旺财惊愕地呜了一声。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong", "prop_jiuzhuayin"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_cold_dim",
+      "emotion": "沧桑",
+      "duration_sec": 10.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷侧脸特写，眼神望向黑暗深处（仿佛看着回忆里的灰毛狗），神情沧桑灰败；旺财在画面边缘竖耳惊愕地低呜；背景：屠狗场深夜，墙根旧爪印与一道只刨了一半的痕迹在阴影中隐约可辨，昏黄灯光微弱；构图与镜头：特写、黑爷沧桑侧脸为主、墙根刨痕在画面下部、三分法构图、85mm长焦侧面机位静态 close_up；光线：灯光压暗，黑爷的疤眼泛着微光，回忆感十足；情绪：沧桑的往事、深埋多年的愧疚与警惕；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s02_sh04",
+      "scene_id": "ep07_s02",
+      "sequence": 8,
+      "description": "黑爷低哑地说：那年它跑得比我快，是我先怕了；你要是真想走，别学我。旺财心酸地想：老爷爷，你也想回家吧。远处传来狗贩子翻身打呼噜的声响，又被夜风吞掉。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong", "prop_tielian"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_cold_dim",
+      "emotion": "心酸",
+      "duration_sec": 9.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷伏在笼角，脖子上的铁链拖在地上，低哑地诉说往事，眼神低垂；旺财隔着铁栏静静望着它，眼神心酸柔软；背景：屠狗场深夜，铁笼角落，铁链在昏黄灯光下泛着冷光，远处隐约传来鼾声又被夜风吞没；构图与镜头：双狗隔栏的中景、黑爷居右旺财居左、铁栏横在中间、三分法构图、50mm中焦正面机位静态 mid_shot；光线：深夜冷调，昏黄灯光只照亮两狗之间的一小片地面；情绪：心酸、老狗深藏的回家渴望被旺财一句话戳中；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s03_sh01",
+      "scene_id": "ep07_s03",
+      "sequence": 9,
+      "description": "清晨，天光从破屋顶漏下来，铁锁锈得发黄，绳结磨得松垮。旺财贴着笼子，用爪子轻轻挠了两下锁。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong", "prop_tiesuo", "prop_shengjie"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "dawn_leak_light",
+      "emotion": "希望微光",
+      "duration_sec": 4.4,
+      "transition_in": "叠化",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：小黄狗旺财贴着自己的铁笼，前爪轻轻挠了两下笼门上那把锈黄的旧铁锁，神情专注认真；背景：屠狗场清晨，天光从破屋顶漏下一束微光，照在锈黄铁锁与磨松的绳结上，笼内尘埃在光柱里浮动；构图与镜头：广角全景、漏光光柱形成对角线、旺财居画面中心偏下、三分法构图、35mm广角高位俯拍静止 wide_shot；光线：清晨冷白微光从漏顶倾泻，锁与绳结被照亮，四周仍暗；情绪：绝望里生出的一线希望、观察与盘算；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s03_sh02",
+      "scene_id": "ep07_s03",
+      "sequence": 10,
+      "description": "旺财发现锁和绳结都旧了，兴奋地低呜两声，眼睛发亮。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tiesuo", "prop_tielong"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "dawn_leak_light",
+      "emotion": "兴奋",
+      "duration_sec": 1.3,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：小黄狗旺财的特写，耳朵竖起，眼睛亮起兴奋的光，喉间低低呜了两声，鼻尖几乎贴着笼门上那把锈锁；背景：屠狗场清晨铁笼门，锈黄铁锁与松散绳结清晰入画，天光从漏顶斜照；构图与镜头：特写、旺财的眼睛与铁锁形成视线连线、中心构图、85mm长焦正面机位静态 close_up；光线：清晨漏光在眼睛里折出亮点，锈锁泛着微光；情绪：发现希望的兴奋、心跳加速的雀跃；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s03_sh03",
+      "scene_id": "ep07_s03",
+      "sequence": 11,
+      "description": "黑爷压低声音提醒：锁是旧了，可就算出去，外面还有大门，还有守夜的人。旺财坚定地呜了一声，目光倔强。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong", "prop_tiesuo"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "dawn_leak_light",
+      "emotion": "坚定",
+      "duration_sec": 7.2,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷压低声音告诫，灰白胡须微动，眼神冷静地望向远处的场门方向；旺财挺直背脊，坚定地呜了一声，目光倔强；背景：屠狗场清晨，漏光斜照，远处的大门与守夜人的凳子隐约在阴影里，锈红铁笼排开；构图与镜头：中景、黑爷居左旺财居右、远处大门在画面深处形成威胁点、三分法构图、50mm中焦正面机位静态 mid_shot；光线：清晨漏光照亮前景，远处大门沉在暗处，明暗拉开纵深；情绪：冷静的警告与倔强的决心交锋；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s03_sh04",
+      "scene_id": "ep07_s03",
+      "sequence": 12,
+      "description": "黑爷郑重地自我介绍并交代后路：我叫黑爷，在这儿待了三年；小子，记住，出门往西，围墙底下有个狗洞，杂草盖着。旺财认真听着，画面一角浮现围墙下杂草盖着狗洞的想象。铁锁被爪子拨动，发出细碎响声。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai"],
+        "locations": ["loc_tugou_chang", "loc_dog_dong"],
+        "props": ["prop_tielong", "prop_tiesuo", "prop_zacao"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "dawn_leak_light",
+      "emotion": "郑重",
+      "duration_sec": 8.6,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷侧脸郑重开口，眼神认真得像托付；旺财竖起耳朵认真听；画面一角浮现想象虚影：屠狗场西墙根下，杂草盖着的一个狗洞；背景：屠狗场清晨，锈黄铁锁被爪子拨动微微晃动，漏光洒落，想象虚影泛着微微暖光；构图与镜头：特写、黑爷侧脸为主、狗洞想象虚影在画面右上角、三分法构图、85mm长焦侧面机位静态 close_up；光线：清晨漏光勾勒黑爷轮廓，想象区域透出一点暖亮；情绪：郑重、把最后的希望托付给年轻者的庄严；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s04_sh01",
+      "scene_id": "ep07_s04",
+      "sequence": 13,
+      "description": "傍晚，狗群在各自笼前围拢。黑爷低声部署：守夜的人子时打瞌睡、灯灭得最早，墙根那堆破筐正好垫脚；别一窝蜂，一个一个走。几只狗喉咙里滚出低低的呜声，像是替彼此壮胆。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai", "dog_huang", "dog_white"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong", "prop_pokuang"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "dusk_dim_blue",
+      "emotion": "谋划",
+      "duration_sec": 9.3,
+      "transition_in": "叠化",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷在笼前低声部署，神情冷静；旺财、大黄狗、小白狗在各自笼前围拢，耳朵竖起，眼睛在暮色里发亮，喉咙里滚出低低的壮胆呜声；背景：屠狗场傍晚，暮色从漏顶透入，墙根一堆破筐在暗处，锈红铁笼排开；构图与镜头：中景、狗群环绕黑爷形成围拢感、破筐在画面角落、三分法构图、35mm广角侧面机位静止 mid_shot；光线：傍晚冷蓝暮色，暮光从漏顶斜斜漏入，铁笼轮廓半明半暗；情绪：谋划的紧张、黑暗中凝聚的同盟勇气；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s04_sh02",
+      "scene_id": "ep07_s04",
+      "sequence": 14,
+      "description": "大黄狗又惊又怕地问：黑爷，真的能行吗？黑爷沙哑而笃定地回答：总得试试，三年了，也该轮到我试试了。",
+      "visual_elements": {
+        "characters": ["dog_huang", "hei_ye"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "dusk_dim_blue",
+      "emotion": "又惊又怕",
+      "duration_sec": 7.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：大黄狗探着头，眼神又惊又怕，喉间低呜着问黑爷真的能行吗；黑爷抬眼回望，疤眼下神情沙哑而笃定，仿佛下了三年的决心；背景：屠狗场傍晚，铁笼栏影交错，暮光微弱；构图与镜头：特写、大黄狗居左黑爷居右、铁栏在前景虚化、三分法构图、85mm长焦正面机位静态 close_up；光线：傍晚冷蓝暮光，两狗脸上明暗交界；情绪：又惊又怕的试探与沙哑笃定的决心；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s04_sh03",
+      "scene_id": "ep07_s04",
+      "sequence": 15,
+      "description": "小白狗蜷着发抖，呜咽说自己腿软、跑不动。旺财隔着铁栏低呜两声鼓励它。笼子外的月光，一寸一寸爬过走廊。",
+      "visual_elements": {
+        "characters": ["dog_white", "wang_cai"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_moonlight_creeping",
+      "emotion": "鼓励",
+      "duration_sec": 4.1,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：瘦小白狗蜷在笼角，浑身发抖，呜咽着说自己腿软跑不动；旺财隔着铁栏压低身子，眼神鼓励地低呜两声；背景：屠狗场傍晚转夜，笼外的月光一寸一寸爬过走廊地面，铁笼影影绰绰；构图与镜头：特写、小白狗蜷缩在左、旺财隔着铁栏在右、月光爬过走廊形成光带、三分法构图、85mm长焦侧面机位静态 close_up；光线：月光冷白贴着地面流淌，笼内暗影厚重；情绪：怯懦与鼓励、同伴之间传递的勇气；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s05_sh01",
+      "scene_id": "ep07_s05",
+      "sequence": 16,
+      "description": "夜里，狗群头挨着头围拢在黑暗里，低声谋划出一条秘密路线，几只狗的眼睛在暗处微微发亮。",
+      "visual_elements": {
+        "characters": ["wang_cai", "hei_ye", "dog_huang", "dog_white"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "centered",
+      "lighting": "night_cold_dim",
+      "emotion": "同盟",
+      "duration_sec": 4.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财、黑爷、大黄狗、小白狗头挨着头围拢在黑暗里，低声商议，几只狗的眼睛在暗处微微发亮，耳朵警觉地转动；背景：屠狗场深夜，成排铁笼在暗处，唯一光源是漏顶的一线冷月光，照亮围拢的狗头；构图与镜头：俯拍中景、狗头围成圆圈居于画面中心、中心构图、35mm广角高位俯拍静止 mid_shot；光线：一线冷月光从漏顶洒下，正好罩住围拢的狗群，四周沉黑；情绪：同盟的默契、黑暗中拧成一股绳的希望；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s05_sh02",
+      "scene_id": "ep07_s05",
+      "sequence": 17,
+      "description": "旺财在黑暗中抬头，内心坚定地想：明晚，月光最亮的时候，我们一起跑出去。甜甜，等我回家。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong"]
+      },
+      "camera": {
+        "angle": "low_angle",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_moonlight",
+      "emotion": "坚定",
+      "duration_sec": 6.3,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：小黄狗旺财在黑暗中仰起头，眼睛望着漏顶外那轮将满的月亮，眼神坚定发亮，仿佛在心里立下誓言；背景：屠狗场深夜，漏光屋顶外月色清亮，成排铁笼在下方沉入黑暗；构图与镜头：低角度仰拍中景、旺财抬头剪影居画面下方、月亮在画面上方、三分法构图、35mm广角低机位静止 mid_shot；光线：冷白月光从漏顶泻下，旺财轮廓被月光勾勒，四周暗影厚重；情绪：坚定的决心、明晚就走的孤注一掷；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep07_s05_sh03",
+      "scene_id": "ep07_s05",
+      "sequence": 18,
+      "description": "黑爷郑重叮嘱：跑起来就别回头。小白狗怯怯地应了一声。所有笼子都安静下来，只有风在黑暗里穿行。",
+      "visual_elements": {
+        "characters": ["hei_ye", "dog_white"],
+        "locations": ["loc_tugou_chang"],
+        "props": ["prop_tielong"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_cold_dim",
+      "emotion": "郑重",
+      "duration_sec": 4.7,
+      "transition_in": "硬切",
+      "transition_out": "淡出",
+      "drawing_prompt": "主体：黑爷特写，灰白毛发在暗光中清晰，眼神郑重地叮嘱跑起来就别回头；小白狗在画面边缘怯怯地应声，耳朵微颤；背景：屠狗场深夜，所有笼子都安静下来，只有风在黑暗里穿行，月光微弱；构图与镜头：特写、黑爷居右小白狗在左前景、三分法构图、85mm长焦正面机位静态 close_up；光线：月光微弱地勾勒轮廓，整体压暗，风感由吹动的尘屑表现；情绪：郑重的托付、临行前的屏息与紧张，结尾情绪钩子（同盟已定，决战在明晚）；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    }
+  ],
+  "ip_summary": {
+    "characters": ["wang_cai", "hei_ye", "dog_huang", "dog_white", "tian_tian"],
+    "scenes": ["ep07_s01", "ep07_s02", "ep07_s03", "ep07_s04", "ep07_s05"],
+    "locations": ["loc_tugou_chang", "loc_dog_dong"],
+    "props": ["prop_tielong", "prop_tielian", "prop_tiesuo", "prop_shengjie", "prop_jiuzhuayin", "prop_pokuang", "prop_zacao"],
+    "bgm": ["bgm_ep07_opening", "bgm_ep07_ending"],
+    "music": []
+  }
+}

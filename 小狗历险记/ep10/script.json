@@ -1,0 +1,203 @@
+{
+  "episode_id": "ep10",
+  "scenes": [
+    {
+      "scene_id": "ep10_s01",
+      "scene_title": "清水河边（深夜）",
+      "shots": [
+        {
+          "shot_id": "ep10_s01_sh01",
+          "shot_type": "wide",
+          "narration": [
+            { "text": "河水暴涨，白浪翻滚，水声震得人心慌。旺财站在岸边，前爪探进水里又缩回来，望着河面直打哆嗦。", "duration_sec": 4.2 }
+          ],
+          "sfx": [
+            { "description": "河水轰鸣，闷雷滚滚", "timing": "0.0s, 1.5s, 3.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep10_s01_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "hei_ye", "line": "天亮前不过这条河，狗贩子的车就到了。你难道想再被抓回那个铁笼子吗？", "type": "speech", "emotion": "严肃", "tempo": "normal", "duration_sec": 7.9 },
+            { "char_id": "wang_cai", "line": "水好急……黑爷说……过了河就是家的方向……可这河，好可怕……我……有点怕水……", "type": "inner_monolog", "emotion": "恐惧", "tempo": "slow", "duration_sec": 6.9 }
+          ]
+        },
+        {
+          "shot_id": "ep10_s01_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "呜……", "type": "speech", "emotion": "害怕", "tempo": "slow", "duration_sec": 0.7 },
+            { "char_id": "hei_ye", "line": "跟上我！踩着我的脚印走，别回头！", "type": "speech", "emotion": "坚决", "tempo": "fast", "duration_sec": 3.7 }
+          ]
+        },
+        {
+          "shot_id": "ep10_s01_sh04",
+          "shot_type": "point_of_view",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "甜甜……等我！", "type": "inner_monolog", "emotion": "决心", "tempo": "slow", "duration_sec": 1.4 }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep10_s02",
+      "scene_title": "急流中（深夜）",
+      "shots": [
+        {
+          "shot_id": "ep10_s02_sh01",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "咕……甜甜……救……救命……", "type": "inner_monolog", "emotion": "恐慌", "tempo": "fast", "duration_sec": 1.9 },
+            { "char_id": "hei_ye", "line": "别慌！别扑腾！把头抬起来！跟住我！", "type": "speech", "emotion": "急切", "tempo": "fast", "duration_sec": 3.7 }
+          ],
+          "sfx": [
+            { "description": "浪声轰鸣，呛水声，扑腾的水花声", "timing": "0.0s, 1.0s, 2.2s" }
+          ]
+        },
+        {
+          "shot_id": "ep10_s02_sh02",
+          "shot_type": "mid",
+          "narration": [
+            { "text": "旺财被拖回浅滩，趴在湿漉漉的沙地上大口喘气，浑身发抖，望着湍急的河水，眼神里第一次有了惧意。", "duration_sec": 4.2 }
+          ],
+          "dialogue": [
+            { "char_id": "hei_ye", "line": "咳……你这小子……把命当什么了！就为过条河，值吗！", "type": "speech", "emotion": "后怕", "tempo": "normal", "duration_sec": 4.9 }
+          ]
+        },
+        {
+          "shot_id": "ep10_s02_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "呜……", "type": "speech", "emotion": "委屈", "tempo": "slow", "duration_sec": 0.7 },
+            { "char_id": "hei_ye", "line": "雨要来了。前面有座桥，先躲躲——快走！", "type": "speech", "emotion": "催促", "tempo": "fast", "duration_sec": 3.9 }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep10_s03",
+      "scene_title": "桥洞下（雨夜）",
+      "shots": [
+        {
+          "shot_id": "ep10_s03_sh01",
+          "shot_type": "wide",
+          "narration": [
+            { "text": "暴雨倾盆，雨点砸在河面上溅起白雾。旺财和黑爷挤进桥洞的干角落。忽然，一群流浪狗从暗处围过来，嗅着陌生的气味，低声咆哮，眼睛在雨夜里发着冷光。", "duration_sec": 4.6 }
+          ],
+          "sfx": [
+            { "description": "暴雨声，此起彼伏的低吼声", "timing": "0.0s, 1.5s, 3.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep10_s03_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "stray_dog_leader", "line": "这儿是我们的地盘。滚出去。", "type": "speech", "emotion": "敌意", "tempo": "fast", "duration_sec": 3.2 },
+            { "char_id": "wang_cai", "line": "呜……", "type": "speech", "emotion": "畏惧", "tempo": "slow", "duration_sec": 0.7 }
+          ]
+        },
+        {
+          "shot_id": "ep10_s03_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "hei_ye", "line": "别理它们。我们躲完这场雨……就走。", "type": "speech", "emotion": "沉稳", "tempo": "slow", "duration_sec": 3.7 },
+            { "char_id": "stray_dog_leader", "line": "窝囊废，带个崽子还敢过河？天亮前，别让我再看见你们！", "type": "speech", "emotion": "轻蔑", "tempo": "fast", "duration_sec": 5.9 }
+          ]
+        },
+        {
+          "shot_id": "ep10_s03_sh04",
+          "shot_type": "mid",
+          "dialogue": [
+            { "char_id": "hei_ye", "line": "旺财，我老了，走不动了。前面就是你惦记的家——替我，好好活着。", "type": "speech", "emotion": "深沉", "tempo": "slow", "duration_sec": 6.4 }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep10_s04",
+      "scene_title": "雨中泥泞处（深夜·雨未停）",
+      "shots": [
+        {
+          "shot_id": "ep10_s04_sh01",
+          "shot_type": "mid",
+          "narration": [
+            { "text": "雨越下越大。黑爷一瘸一拐地走进雨里，再也没有回头。旺财的腿像灌了铅，走几步就栽一下，终于趴在泥水里，把脸埋进前爪，再也迈不动一步。", "duration_sec": 4.8 }
+          ],
+          "sfx": [
+            { "description": "暴雨声不止", "timing": "0.0s, 2.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep10_s04_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "好累……好想回家……可是家……还有多远呢……我……真的还能见到甜甜吗……她一定……等急了……", "type": "inner_monolog", "emotion": "疲惫", "tempo": "slow", "duration_sec": 7.9 }
+          ]
+        },
+        {
+          "shot_id": "ep10_s04_sh03",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            { "char_id": "wang_cai", "line": "要是甜甜在……她一定会摸摸我的头……说……别怕……", "type": "inner_monolog", "emotion": "虚弱", "tempo": "slow", "duration_sec": 4.7 }
+          ],
+          "sfx": [
+            { "description": "雨声渐小，风里隐隐传来一个声音", "timing": "0.0s, 2.5s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep10_s05",
+      "scene_title": "回忆·村口（闪回·暖色）",
+      "shots": [
+        {
+          "shot_id": "ep10_s05_sh01",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "tian_tian", "line": "小狗狗，你别怕……以后，我来保护你，好不好？我们拉钩！", "type": "speech", "emotion": "温柔", "tempo": "slow", "duration_sec": 5.4 }
+          ],
+          "sfx": [
+            { "description": "记忆中的雨声，带着暖意", "timing": "0.0s, 1.2s" }
+          ]
+        },
+        {
+          "shot_id": "ep10_s05_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            { "char_id": "tian_tian", "line": "妈妈不让我养你……可我有办法！我偷偷省下早饭钱给你买肉骨头！", "type": "speech", "emotion": "坚定", "tempo": "normal", "duration_sec": 6.9 },
+            { "char_id": "wang_cai", "line": "汪！", "type": "speech", "emotion": "欢喜", "tempo": "normal", "duration_sec": 0.7 }
+          ]
+        },
+        {
+          "shot_id": "ep10_s05_sh03",
+          "shot_type": "mid",
+          "dialogue": [
+            { "char_id": "tian_tian", "line": "那就说定了，拉钩！旺财……回来……我等你……", "type": "speech", "emotion": "期盼", "tempo": "slow", "duration_sec": 3.9 }
+          ]
+        },
+        {
+          "shot_id": "ep10_s05_sh04",
+          "shot_type": "wide",
+          "narration": [
+            { "text": "画面碎裂，回到现实。旺财的耳朵猛地竖起来，眼眶湿了，摇摇晃晃地站起来。天边泛起鱼肚白，风里除了雨后的泥腥味，还有一丝熟悉的稻香。旺财拖着湿透的身子，一步一步，向稻香的方向走去。", "duration_sec": 5.6 }
+          ],
+          "sfx": [
+            { "description": "记忆中的温暖雨声与现实冰凉的雨声交叠", "timing": "0.0s, 2.0s, 4.0s" },
+            { "description": "晨光渐亮，风过稻田", "timing": "4.5s" }
+          ]
+        }
+      ]
+    }
+  ],
+  "opening_theme": {
+    "title": "片头曲·风雨归途",
+    "style": "低沉弦乐，雨声与心跳节拍，紧张中带着一线希望",
+    "duration_sec": 10
+  },
+  "ending_theme": {
+    "title": "片尾曲·向前走",
+    "style": "悠远钢琴，留白悬念，稻香飘向未知的方向",
+    "duration_sec": 10
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "episode_id": "ep01",
+  "scenes": [
+    {
+      "scene_id": "ep01_s01",
+      "scene_title": "村口石板路（雨天·傍晚）",
+      "shots": [
+        {
+          "shot_id": "ep01_s01_sh01",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "今天雨怎么这么大呀",
+              "type": "whisper",
+              "emotion": "无奈",
+              "tempo": "normal",
+              "duration_sec": 2.7
+            }
+          ],
+          "narration": [
+            {
+              "text": "灰蒙蒙的雨幕笼罩着青禾村，石板路被雨水洗得发亮，远处的炊烟连成一片水汽。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "雨声沙沙，远处几声犬吠", "timing": "0.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep01_s01_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "小狗狗？你怎么在这里？",
+              "type": "speech",
+              "emotion": "惊讶",
+              "tempo": "normal",
+              "duration_sec": 2.7
+            }
+          ],
+          "narration": [
+            {
+              "text": "小黄狗抬起头，耳朵耷拉着，浑身泥水，往后退了半步，眼神里藏不住害怕。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "旺财低低的呜咽声", "timing": "0.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep01_s01_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "别怕别怕……我不是坏人。",
+              "type": "speech",
+              "emotion": "温柔",
+              "tempo": "slow",
+              "duration_sec": 2.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep01_s01_sh04",
+          "shot_type": "wide",
+          "sfx": [
+            { "description": "雷声从远处滚过", "timing": "0.0s, 1.2s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep01_s02",
+      "scene_title": "路边屋檐下（雨天·傍晚）",
+      "shots": [
+        {
+          "shot_id": "ep01_s02_sh01",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "饿坏了吧？你也没有家吗？",
+              "type": "speech",
+              "emotion": "怜惜",
+              "tempo": "slow",
+              "duration_sec": 2.9
+            }
+          ],
+          "narration": [
+            {
+              "text": "甜甜把小黄狗抱到屋檐下，从书包里翻出一块花生糖，掰成两半，一半放在手心递了过去。",
+              "duration_sec": 4.0
+            }
+          ]
+        },
+        {
+          "shot_id": "ep01_s02_sh02",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜。",
+              "type": "speech",
+              "emotion": "试探",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            }
+          ],
+          "sfx": [
+            { "description": "雨渐渐变小，屋檐滴水声", "timing": "0.0s, 1.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep01_s02_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "那……你跟我回家吧。我养你！",
+              "type": "speech",
+              "emotion": "期待",
+              "tempo": "normal",
+              "duration_sec": 2.9
+            }
+          ],
+          "narration": [
+            {
+              "text": "甜甜伸手摸了摸它湿漉漉的头，小黄狗没有躲，反而轻轻蹭了蹭她的手指。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "雨声在这一刻仿佛都安静下来", "timing": "1.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep01_s02_sh04",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "给你起个名字……就叫旺财！旺财，我们走！",
+              "type": "speech",
+              "emotion": "欢喜",
+              "tempo": "fast",
+              "duration_sec": 4.2
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "旺财……这是我的名字。她给我取的名字。",
+              "type": "inner_monolog",
+              "emotion": "感动",
+              "tempo": "slow",
+              "duration_sec": 4.2
+            }
+          ],
+          "sfx": [
+            { "description": "轻快的前奏音乐起", "timing": "3.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep01_s03",
+      "scene_title": "回家路上·晒谷场（雨停·暮色）",
+      "shots": [
+        {
+          "shot_id": "ep01_s03_sh01",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "嘘——到家了。妈妈在做饭，我们悄悄从后院进去。",
+              "type": "whisper",
+              "emotion": "紧张",
+              "tempo": "slow",
+              "duration_sec": 4.9
+            }
+          ],
+          "narration": [
+            {
+              "text": "雨停了，甜甜抱着旺财绕到晒谷场边，远远看见自家堂屋亮着灯，厨房里飘出炒菜的香味。",
+              "duration_sec": 4.0
+            }
+          ]
+        },
+        {
+          "shot_id": "ep01_s03_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "第一次……有人护着我回家。",
+              "type": "inner_monolog",
+              "emotion": "温暖",
+              "tempo": "slow",
+              "duration_sec": 2.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep01_s03_sh03",
+          "shot_type": "mid",
+          "narration": [
+            {
+              "text": "晚风把厨房的香气吹过来，旺财安静地缩在甜甜怀里，觉得冷意一点点退去了。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "远处传来妈妈炒菜的锅铲声", "timing": "0.8s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep01_s04",
+      "scene_title": "甜甜家后院（夜·雨后）",
+      "shots": [
+        {
+          "shot_id": "ep01_s04_sh01",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "这里以后就是你的家了。不许叫哦，妈妈会发现的。",
+              "type": "whisper",
+              "emotion": "温柔",
+              "tempo": "slow",
+              "duration_sec": 5.4
+            }
+          ],
+          "narration": [
+            {
+              "text": "甜甜把旺财带进后院，用旧毛巾把它擦干，放进铺了小毯子的纸箱里。",
+              "duration_sec": 4.0
+            }
+          ]
+        },
+        {
+          "shot_id": "ep01_s04_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜。",
+              "type": "speech",
+              "emotion": "乖巧",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            },
+            {
+              "char_id": "tian_tian",
+              "line": "旺财真聪明！",
+              "type": "speech",
+              "emotion": "开心",
+              "tempo": "normal",
+              "duration_sec": 1.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep01_s04_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "旺财，以后你就是我最好的朋友了。我们永远在一起，好不好？",
+              "type": "speech",
+              "emotion": "认真",
+              "tempo": "slow",
+              "duration_sec": 6.4
+            }
+          ]
+        },
+        {
+          "shot_id": "ep01_s04_sh04",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "月光洒进后院，旺财把头轻轻靠在甜甜的手心里，夜虫声温柔地响着。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "舒缓温馨的钢琴音乐，夜虫声", "timing": "0.0s, 2.0s" },
+            { "description": "月亮从云后露出", "timing": "4.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep01_s05",
+      "scene_title": "甜甜家堂屋（夜·画外音切入）",
+      "shots": [
+        {
+          "shot_id": "ep01_s05_sh01",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "甜甜？你在后院做什么？天这么晚了还不进来？",
+              "type": "speech",
+              "emotion": "疑惑",
+              "tempo": "normal",
+              "duration_sec": 4.9
+            }
+          ],
+          "narration": [
+            {
+              "text": "屋内灯光明亮，妈妈端着碗从厨房出来，发现后门开着，皱起了眉头。",
+              "duration_sec": 4.0
+            }
+          ]
+        },
+        {
+          "shot_id": "ep01_s05_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "没、没什么！我马上进来！",
+              "type": "speech",
+              "emotion": "慌张",
+              "tempo": "fast",
+              "duration_sec": 2.7
+            },
+            {
+              "char_id": "mom",
+              "line": "……那是什么？",
+              "type": "speech",
+              "emotion": "警觉",
+              "tempo": "slow",
+              "duration_sec": 1.4
+            }
+          ],
+          "sfx": [
+            { "description": "音乐骤停，只剩风吹后院的声音", "timing": "1.8s" }
+          ]
+        },
+        {
+          "shot_id": "ep01_s05_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "妈……我捡了一只小狗。",
+              "type": "speech",
+              "emotion": "心虚",
+              "tempo": "slow",
+              "duration_sec": 2.4
+            },
+            {
+              "char_id": "mom",
+              "line": "捡什么狗？咱家不能养狗，明天送走。",
+              "type": "speech",
+              "emotion": "严厉",
+              "tempo": "normal",
+              "duration_sec": 3.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep01_s05_sh04",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "我不！旺财没有家，我答应了要养它！",
+              "type": "shout",
+              "emotion": "倔强",
+              "tempo": "fast",
+              "duration_sec": 3.9
+            }
+          ],
+          "narration": [
+            {
+              "text": "夜风里，旺财轻轻呜了一声，仿佛在说：别赶我走。",
+              "duration_sec": 4.8
+            }
+          ],
+          "sfx": [
+            { "description": "画面定格音效，夜风低鸣", "timing": "3.2s" },
+            { "description": "旺财轻轻一声呜咽", "timing": "6.5s" }
+          ]
+        }
+      ]
+    }
+  ],
+  "opening_theme": {
+    "title": "片头曲·相遇",
+    "style": "轻快钢琴，雨声渐起，清新治愈",
+    "duration_sec": 10
+  },
+  "ending_theme": {
+    "title": "片尾曲·回家的约定",
+    "style": "舒缓钢琴，温馨旋律",
+    "duration_sec": 10
+  }
+}

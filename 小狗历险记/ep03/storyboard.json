@@ -1,0 +1,469 @@
+{
+  "episode_id": "ep03",
+  "shots": [
+    {
+      "shot_id": "ep03_s01_sh01",
+      "scene_id": "ep03_s01",
+      "sequence": 1,
+      "description": "晨雾还没散尽，田埂两边的稻穗挂着露水，甜甜开心地说旺财真漂亮！走，我们上学去！旺财一蹦一跳跟在甜甜脚边，尾巴摇得飞快。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_school_road"],
+        "props": ["prop_school_bag", "prop_red_umbrella"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "35mm",
+        "movement": "tracking",
+        "framing": "wide_shot"
+      },
+      "composition": "leading_lines",
+      "lighting": "morning_mist",
+      "emotion": "开心",
+      "duration_sec": 7.2,
+      "transition_in": "淡入",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜背着书包走在田埂上，红色连衣裙，回头开心地招呼小黄狗旺财；旺财一蹦一跳跟在她脚边，尾巴摇得飞快；背景：清晨上学的田埂路，晨雾未散尽，两边稻穗挂着露水，远处村小若隐若现；构图与镜头：侧面大全景跟拍（35mm，wide_shot，镜头跟随前行）；光线：清晨雾光，暖阳将升，通透清新；情绪：开心、轻快、上学的日常幸福；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s01_sh02",
+      "scene_id": "ep03_s01",
+      "sequence": 2,
+      "description": "旺财顶着花，昂首挺胸走在最前头，一回头冲甜甜叫了一声。清脆的鸟鸣，脚踩泥路的声响。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_school_road"],
+        "props": ["prop_flower"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "centered",
+      "lighting": "morning_light",
+      "emotion": "兴奋",
+      "duration_sec": 4.7,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财头顶插着一朵小花，昂首挺胸走在田埂最前面，神气地回头朝甜甜汪了一声，尾巴高高翘起；背景：晨雾渐散的田埂路，稻穗挂着露珠，阳光洒满小路；构图与镜头：正面中景（50mm，mid_shot，镜头静止）；光线：清晨明亮柔光，露珠闪烁；情绪：兴奋、神气、护送小主人上学的小骄傲；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s01_sh03",
+      "scene_id": "ep03_s01",
+      "sequence": 3,
+      "description": "甜甜蹲下来认真叮嘱旺财：今天要乖乖的，不许追鸡，不许乱跑，不许跟别的狗打架哦。旺财认真汪了一声。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_school_road"],
+        "props": ["prop_school_bag"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "morning_light",
+      "emotion": "叮嘱",
+      "duration_sec": 7.3,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜蹲在田埂上，双手扶着旺财的毛茸茸脑袋，认真又可爱地一条条叮嘱；旺财端正坐好，竖起耳朵，认真汪了一声表示答应；背景：清晨田埂路，稻穗露珠，晨光柔和；构图与镜头：正面特写（85mm，close_up，镜头静止）；光线：清晨柔光，两双认真的眼睛被点亮；情绪：叮嘱、认真、日常的默契与爱；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s01_sh04",
+      "scene_id": "ep03_s01",
+      "sequence": 4,
+      "description": "旺财在心里幸福地想：每天送她上学……是我最开心的事。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_school_road"],
+        "props": ["prop_flower"]
+      },
+      "camera": {
+        "angle": "low_angle",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "morning_light",
+      "emotion": "幸福",
+      "duration_sec": 3.7,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：低角度拍旺财，小黄狗头顶小花走在晨光里，眼睛弯弯、嘴角带笑，神情幸福满足，身后是逆光中的田埂与晨雾；背景：晨光中虚化的稻田小路；构图与镜头：低角度仰拍特写（85mm，close_up，镜头静止）；光线：清晨逆光，金色轮廓光；情绪：幸福、满足、平淡日常里最珍贵的时刻；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s02_sh01",
+      "scene_id": "ep03_s02",
+      "sequence": 5,
+      "description": "校门口，学生们三三两两往里走，甜甜蹲下来，认真地看着旺财说：旺财，就到这儿啦。我不能带你进去，你乖乖在树下等我，放学我就出来。旺财乖巧呜了一声。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_village_school"],
+        "props": ["prop_school_bag"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "morning_light",
+      "emotion": "温柔",
+      "duration_sec": 9.5,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：村小校门口，甜甜蹲下认真地看着旺财叮嘱它乖乖等自己放学，身后有学生三三两两走进校门；旺财端正坐着仰头听她说话，乖巧呜了一声；背景：村口小学校门，老树与砖墙，清晨阳光，操场的轮廓；构图与镜头：正面中景（50mm，mid_shot，镜头静止）；光线：清晨明亮阳光，校门投下长长的影；情绪：温柔、依依不舍、小小的约定；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s02_sh02",
+      "scene_id": "ep03_s02",
+      "sequence": 6,
+      "description": "旺财看着甜甜跑进校门的背影，在心里坚定地想：我会一直等你的。上课铃响起，孩子们跑进校门。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_village_school"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "morning_light",
+      "emotion": "坚定",
+      "duration_sec": 2.2,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财蹲在校门口树下，目光追着甜甜远去的背影，眼神坚定而温柔，仿佛在心里许下等待的誓言；背景：虚化的校门与清晨阳光，奔跑的学生身影；构图与镜头：正面特写（85mm，close_up，镜头静止）；光线：清晨逆光，旺财轮廓泛金；情绪：坚定、忠诚、我会一直等你；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s02_sh03",
+      "scene_id": "ep03_s02",
+      "sequence": 7,
+      "description": "太阳从东边移到头顶，又慢慢往西边斜，旺财始终守在树下，耳朵一直朝着校门的方向。操场上隐约传来读书声、下课铃。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_village_school"],
+        "props": []
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "pan_right",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "day_progression",
+      "emotion": "守望",
+      "duration_sec": 4.0,
+      "transition_in": "叠化",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财始终趴在村小门口的老树下，耳朵一直朝着校门方向，树影从一边移到另一边；背景：时间流逝的校门口，太阳从东移到西，光与影随之变换，操场上人影绰绰；构图与镜头：俯拍大全景（35mm，wide_shot，镜头缓慢横摇跟随光影移动）；光线：从清晨到午后的自然光变化；情绪：守望、忠诚、时间被爱拉长；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s02_sh04",
+      "scene_id": "ep03_s02",
+      "sequence": 8,
+      "description": "放学铃响，旺财看见甜甜冲出校门，雀跃地汪！汪汪！叫起来。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_village_school"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "handheld",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "golden_hour",
+      "emotion": "雀跃",
+      "duration_sec": 1.2,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财看到甜甜冲出校门，瞬间从树下蹦起来，尾巴狂摇，开心地汪汪叫，神情雀跃；背景：午后暖光中的校门口，甜甜的小身影在远处奔跑；构图与镜头：正面特写（85mm，close_up，轻微手持动感）；光线：午后金色阳光；情绪：雀跃、等待终于结束的喜悦；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s03_sh01",
+      "scene_id": "ep03_s03",
+      "sequence": 9,
+      "description": "放学铃一响，甜甜第一个冲出校门，旺财像一颗黄色的小炮弹一样冲上去，两个人在田埂上撒欢狂奔，甜甜笑着喊旺财慢点！等等我呀！",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_school_road"],
+        "props": ["prop_school_bag"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "35mm",
+        "movement": "tracking",
+        "framing": "wide_shot"
+      },
+      "composition": "leading_lines",
+      "lighting": "golden_hour",
+      "emotion": "欢喜",
+      "duration_sec": 7.5,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜背着书包在田埂上笑着奔跑，红裙扬起；旺财像黄色小炮弹冲在前面，回头等她，两个身影在夕阳下撒欢；背景：放学后的田埂路，稻浪金黄，傍晚暖光，影子被拉得又长又活泼；构图与镜头：侧面大全景跟拍（35mm，wide_shot，镜头跟随奔跑）；光线：傍晚金色逆光，画面热烈明亮；情绪：欢喜、撒欢、自由奔跑的快乐；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s03_sh02",
+      "scene_id": "ep03_s03",
+      "sequence": 10,
+      "description": "甜甜追上来一把抱住旺财，一起滚进田埂边的草垛里，幸福地说奶奶说，好东西要分给最亲的人。你一半，我一半！夕阳把两个影子拉得长长的。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_school_road"],
+        "props": ["prop_haystack"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "golden_hour",
+      "emotion": "幸福",
+      "duration_sec": 9.2,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜一把抱住旺财滚进田埂边的草垛里，两人笑闹成一团，甜甜举起一块点心分给旺财，你一半我一半；旺财趴在草垛里仰头开心地接过；背景：田埂边金黄草垛，夕阳把两个影子拉得长长的，稻浪在风里起伏；构图与镜头：侧面中景（50mm，mid_shot，镜头静止）；光线：夕阳橙金，暖到发亮；情绪：幸福、分享、最亲的人；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s03_sh03",
+      "scene_id": "ep03_s03",
+      "sequence": 11,
+      "description": "旺财满足地呜了一声，清脆的笑声响起，风吹稻浪沙沙响。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_school_road"],
+        "props": ["prop_haystack"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "golden_hour",
+      "emotion": "满足",
+      "duration_sec": 0.7,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财趴在草垛里的特写，嘴里还叼着半块点心，眼睛弯弯地发出满足的呜声，尾巴在身后轻轻摇；背景：虚化的金黄稻浪与夕阳；构图与镜头：正面特写（85mm，close_up，镜头静止）；光线：夕阳暖光，毛发泛金；情绪：满足、幸福、被爱的饱足；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s04_sh01",
+      "scene_id": "ep03_s04",
+      "sequence": 12,
+      "description": "炊烟从屋顶升起来，厨房飘出排骨汤的香味，旺财的鼻尖动了动，脚步快了起来。妈妈在门口喊甜甜！别疯跑了，洗手吃饭！",
+      "visual_elements": {
+        "characters": ["mom", "tian_tian", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "dusk_warm",
+      "emotion": "归家",
+      "duration_sec": 6.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜带着旺财跑回家门口，妈妈站在门口招手喊她们洗手吃饭；旺财鼻尖动了动嗅着饭香，脚步加快；背景：甜甜家傍晚，炊烟从屋顶升起，厨房暖光透出，门口石阶与晒谷场，暮色温柔；构图与镜头：正面全景（35mm，wide_shot，镜头静止）；光线：暮色暖光与厨房灯光交映，炊烟被染成金色；情绪：归家、被等待的温暖；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s04_sh02",
+      "scene_id": "ep03_s04",
+      "sequence": 13,
+      "description": "甜甜边跑边开心地喊来啦来啦！旺财也有份哦！",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "tracking",
+        "framing": "close_up"
+      },
+      "composition": "leading_lines",
+      "lighting": "dusk_warm",
+      "emotion": "开心",
+      "duration_sec": 2.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜笑着跑过晒谷场冲进家门，红色裙摆带风，边跑边回头喊旺财也有份；旺财紧跟着她脚边，尾巴摇得飞快；背景：暮色中的家门前，暖黄灯光从屋里倾泻出来；构图与镜头：侧面近景跟拍（50mm，close_up，镜头跟随）；光线：暮色与室内暖光交界，画面温暖；情绪：开心、饥肠辘辘的期待、一家人的热闹；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s04_sh03",
+      "scene_id": "ep03_s04",
+      "sequence": 14,
+      "description": "饭桌前热气腾腾，妈妈嘴上嫌弃地说……骨头给你。别以为你吃白食，却把一块带肉的骨头夹进旺财的碗里。旺财满足地呜呜叫。",
+      "visual_elements": {
+        "characters": ["mom", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_bone", "prop_bowl"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_interior_warm",
+      "emotion": "别扭",
+      "duration_sec": 8.5,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：饭桌前热气腾腾，妈妈嘴上嫌弃地说着别以为你吃白食，手上却把一块带肉的骨头夹进旺财的碗里；旺财蹲在桌边，眼睛亮晶晶地看着骨头，满足地呜呜叫；背景：甜甜家堂屋饭桌，暖黄灯光，热汤冒着白气，一家人的晚餐；构图与镜头：俯拍近景（50mm，close_up，镜头静止）；光线：暖黄灯光下的温馨夜晚，热气氤氲；情绪：别扭、口是心非的爱、满足；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s04_sh04",
+      "scene_id": "ep03_s04",
+      "sequence": 15,
+      "description": "旺财埋头吃饭，在心里温暖地想：热汤的香味……这就是家的味道。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_bowl"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "slow_dolly_in",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_interior_warm",
+      "emotion": "温暖",
+      "duration_sec": 3.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财埋头在饭盆里吃骨头汤拌饭，鼻尖沾着米粒，抬头时眼睛湿润温暖，神情幸福；背景：虚化的暖黄堂屋饭桌，热气白烟上升；构图与镜头：正面特写（85mm，close_up，镜头缓慢推进）；光线：暖黄灯光笼罩，画面温暖；情绪：温暖、幸福、家的味道；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s05_sh01",
+      "scene_id": "ep03_s05",
+      "sequence": 16,
+      "description": "夜空清澈，星星密得像撒了一把碎银，甜甜靠在后院石阶上，旺财趴在她腿边，头搁在她膝盖上。甜甜温柔地说旺财你看，那颗最亮的，我给它取名叫旺财星。以后每天晚上，我们都一起看它，好不好？旺财依恋地呜了一声。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_stars"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "slow_dolly_back",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_starry",
+      "emotion": "温柔",
+      "duration_sec": 11.0,
+      "transition_in": "叠化",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜靠在后院石阶上仰头看星空，伸手指着天上最亮的那颗星；旺财趴在她腿边，头搁在她膝盖上，依恋地呜了一声；背景：清澈夜空星星密得像碎银，后院屋檐与狗屋轮廓，月光与星光洒落；构图与镜头：俯拍大全景（35mm，wide_shot，镜头缓慢后拉），星空占画面上部；光线：深蓝夜色与冷白星光，地面有暖黄灯光点缀；情绪：温柔、依恋、星空下的约定；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s05_sh02",
+      "scene_id": "ep03_s05",
+      "sequence": 17,
+      "description": "甜甜温柔地看着旺财说：旺财，你不用变成最亮的那颗星。你呀，做你自己的星星就好。舒缓的钢琴曲，夜虫轻鸣。",
+      "visual_elements": {
+        "characters": ["tian_tian"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_stars"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "slow_dolly_in",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_starry",
+      "emotion": "温柔",
+      "duration_sec": 6.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜的正面特写，眼睛映着星光，温柔又认真地望着腿边的旺财说话，嘴角带着安心的笑；背景：虚化的星空与后院夜色，星光点点；构图与镜头：正面特写（85mm，close_up，镜头缓慢推进）；光线：星光冷白与暖黄夜灯交融，眼睛里有星光；情绪：温柔、治愈、被无条件接纳的安心；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s05_sh03",
+      "scene_id": "ep03_s05",
+      "sequence": 18,
+      "description": "旺财在心里感动地想：她的笑……比星星还亮。轻轻的鼾声混着夜虫声响起。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_stars"]
+      },
+      "camera": {
+        "angle": "low_angle",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_starry",
+      "emotion": "感动",
+      "duration_sec": 2.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财趴在甜甜腿边的特写，仰头看着她的笑脸，眼睛弯成月牙，神情感动又满足，渐渐响起轻轻的鼾声；背景：星光背景虚化，甜甜微笑的轮廓在上方；构图与镜头：低角度特写（85mm，close_up，镜头静止）；光线：星光与月光勾勒轮廓，暖色点缀；情绪：感动、满足、她的笑比星星还亮；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep03_s05_sh04",
+      "scene_id": "ep03_s05",
+      "sequence": 19,
+      "description": "夜深了，一辆灰色面包车的车灯缓缓滑过，停在晒谷场边的树影里。旺财警觉地抬起头，发出低低的呜声。面包车引擎低低地熄火声，车门咔一声开合。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_grey_van"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_dark",
+      "emotion": "警觉",
+      "duration_sec": 7.7,
+      "transition_in": "硬切",
+      "transition_out": "淡出",
+      "drawing_prompt": "主体：旺财在狗屋前警觉地抬起头，耳朵竖起，眼睛盯着晒谷场边；一辆灰色面包车停在树影里，车灯刚刚熄灭，只余树影里隐约的车身轮廓；背景：深夜的甜甜家院子与晒谷场，深蓝夜色，树影浓重，冷调压抑，远处只有一点微光；构图与镜头：俯拍大全景（35mm，wide_shot，镜头静止）；光线：深蓝冷夜色+月光冷白，面包车灯残留光点，画面由暖骤然转冷；情绪：警觉、不安、危险将至的暗示，结尾情绪钩子；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    }
+  ],
+  "ip_summary": {
+    "characters": ["tian_tian", "wang_cai", "mom"],
+    "scenes": ["ep03_s01", "ep03_s02", "ep03_s03", "ep03_s04", "ep03_s05"],
+    "locations": ["loc_school_road", "loc_village_school", "loc_tian_home"],
+    "props": ["prop_school_bag", "prop_red_umbrella", "prop_flower", "prop_haystack", "prop_bone", "prop_bowl", "prop_stars", "prop_grey_van"],
+    "bgm": ["bgm_ep03_opening", "bgm_ep03_ending", "bgm_ep03_warm_piano"],
+    "music": []
+  }
+}

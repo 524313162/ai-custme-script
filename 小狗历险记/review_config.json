@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "episode_target_sec": 120,
+  "duration_tolerance_sec": [108, 132],
+  "timing_estimation": {
+    "dialogue_pace_chars_per_sec": 4.0,
+    "dialogue_pause_sec": 0.4,
+    "action_beat_sec": 2.5,
+    "sfx_beat_sec": 1.5,
+    "scene_transition_sec": 1.5,
+    "opening_ending_sec": 10
+  },
+  "review_points": [
+    { "id": "R01", "stage": "writing", "name": "格式规范", "criteria": "Markdown格式；台词用>；动作/情绪用()；音效/特效用【】" },
+    { "id": "R02", "stage": "writing", "name": "场景数量", "criteria": "每集至少3个场景" },
+    { "id": "R03", "stage": "writing", "name": "角色一致性", "criteria": "行为符合 global.json 性格设定；旺财不开口（仅拟声/内心独白）" },
+    { "id": "R04", "stage": "writing", "name": "剧情连贯", "criteria": "场景间因果连贯；每集结尾有情绪钩子（最终集为团圆收尾）" },
+    { "id": "R05", "stage": "writing", "name": "时长达标", "criteria": "按 timing_estimation 估算，单集时长落在 [108s, 132s] 区间" },
+    { "id": "R06", "stage": "script", "name": "台词忠实", "criteria": "script.json 台词与 story.md 逐句一致，不增删、不改情节" },
+    { "id": "R07", "stage": "script", "name": "时间轴规范", "criteria": "每句台词 duration_sec=字数/4+0.4；narration 4~8s；总时长(台词+旁白+片头片尾20s)落在[108s,132s]" },
+    { "id": "R08", "stage": "script", "name": "标注齐全", "criteria": "每句 dialogue 必含 char_id/emotion/tempo；JSON 合法" },
+    { "id": "R09", "stage": "storyboard", "name": "镜头一致", "criteria": "storyboard.json 的 shots 与 script.json 一一对应，不增删不合并" },
+    { "id": "R10", "stage": "storyboard", "name": "绘画提示词完整", "criteria": "每个 shot 必含 drawing_prompt，含主体/背景/镜头/光线/情绪/美术风格六要素；camera 字段完整" },
+    { "id": "R11", "stage": "storyboard", "name": "时长达标", "criteria": "shots 合计时长 + 片头片尾20s 落在 [108s, 132s] 区间" }
+  ],
+  "review_gate": {
+    "max_rework": 2,
+    "escalate_to_user": "同一环节第3次评审不通过时，升级用户决策（修正方案/调整范围），不得无限打回"
+  }
+}

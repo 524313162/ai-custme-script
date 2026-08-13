@@ -1,0 +1,427 @@
+{
+  "episode_id": "ep09",
+  "scenes": [
+    {
+      "scene_id": "ep09_s01",
+      "scene_title": "省道公路(深夜)",
+      "shots": [
+        {
+          "shot_id": "ep09_s01_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "空旷的公路上,路灯稀疏,狗群压着身子贴边快跑。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "深夜风声,远处传来车灯的微光", "timing": "0.0s, 2.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep09_s01_sh02",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "过了这条大路……就是树林……过了树林……就有河……",
+              "type": "inner_monolog",
+              "emotion": "紧张",
+              "tempo": "slow",
+              "duration_sec": 4.7
+            },
+            {
+              "char_id": "dog_white",
+              "char_name": "小白狗",
+              "line": "呜……车……车来了……",
+              "type": "speech",
+              "emotion": "发抖",
+              "tempo": "fast",
+              "duration_sec": 1.7
+            }
+          ],
+          "sfx": [
+            { "description": "远处车灯扫过来,旺财带头钻进路边的排水沟", "timing": "2.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep09_s01_sh03",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "趴下!贴着沟底,别露头!",
+              "type": "speech",
+              "emotion": "急促",
+              "tempo": "fast",
+              "duration_sec": 2.7
+            }
+          ],
+          "sfx": [
+            { "description": "轮胎碾过路面的轰鸣声,光柱从头顶扫过", "timing": "0.8s" }
+          ]
+        },
+        {
+          "shot_id": "ep09_s01_sh04",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "走。趁车灯还没回。",
+              "type": "speech",
+              "emotion": "沉稳",
+              "tempo": "slow",
+              "duration_sec": 2.2
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呼……差点就被看见了。",
+              "type": "inner_monolog",
+              "emotion": "后怕",
+              "tempo": "slow",
+              "duration_sec": 2.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep09_s02",
+      "scene_title": "公路边·土坎下(深夜)",
+      "shots": [
+        {
+          "shot_id": "ep09_s02_sh01",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "dog_huang",
+              "char_name": "大黄狗",
+              "line": "呼……呼……跑得我四条腿都不是自己的了……",
+              "type": "speech",
+              "emotion": "疲惫",
+              "tempo": "slow",
+              "duration_sec": 4.2
+            },
+            {
+              "char_id": "hei_ye",
+              "line": "……没灯跟过来。歇一口气,马上走。",
+              "type": "speech",
+              "emotion": "沉稳",
+              "tempo": "slow",
+              "duration_sec": 3.4
+            }
+          ],
+          "sfx": [
+            { "description": "车灯彻底消失在路那头,同伴们呼哧呼哧喘气", "timing": "1.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep09_s02_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "dog_white",
+              "char_name": "小白狗",
+              "line": "呜……我脚上扎了刺,好疼……",
+              "type": "speech",
+              "emotion": "委屈",
+              "tempo": "slow",
+              "duration_sec": 2.7
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜……",
+              "type": "speech",
+              "emotion": "心疼",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            }
+          ],
+          "sfx": [
+            { "description": "旺财低下头,用舌头轻轻舔了舔小白狗的爪子", "timing": "2.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep09_s02_sh03",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "忍一忍。天亮前跑远些,就安全了。",
+              "type": "speech",
+              "emotion": "温和",
+              "tempo": "slow",
+              "duration_sec": 3.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep09_s03",
+      "scene_title": "夜林(深夜)",
+      "shots": [
+        {
+          "shot_id": "ep09_s03_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "杂木林里漆黑一片,风穿过树梢呜呜作响,猫头鹰低叫。",
+              "duration_sec": 4.5
+            }
+          ],
+          "sfx": [
+            { "description": "夜风穿过树梢呜呜作响,猫头鹰低叫", "timing": "0.0s, 2.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep09_s03_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "好黑……比屠狗场的夜还黑……",
+              "type": "inner_monolog",
+              "emotion": "不安",
+              "tempo": "slow",
+              "duration_sec": 2.9
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜……呜!",
+              "type": "speech",
+              "emotion": "焦躁",
+              "tempo": "fast",
+              "duration_sec": 0.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep09_s03_sh03",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "别乱跑。大黄走散了——它认得土坡,天亮会追上。",
+              "type": "speech",
+              "emotion": "沉稳",
+              "tempo": "slow",
+              "duration_sec": 4.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep09_s03_sh04",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "不要怕……甜甜说,迷路了就站在原地等大人。可这里没有大人……",
+              "type": "inner_monolog",
+              "emotion": "发慌",
+              "tempo": "slow",
+              "duration_sec": 6.4
+            }
+          ],
+          "sfx": [
+            { "description": "夜风穿过树梢,猫头鹰又低叫了一声", "timing": "3.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep09_s04",
+      "scene_title": "夜林深处(深夜→凌晨)",
+      "shots": [
+        {
+          "shot_id": "ep09_s04_sh01",
+          "shot_type": "close",
+          "narration": [
+            {
+              "text": "旺财趴在地上,鼻子贴着地面,越嗅越慌。",
+              "duration_sec": 4.0
+            }
+          ],
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜……不对……哪里都不对……",
+              "type": "speech",
+              "emotion": "慌张",
+              "tempo": "slow",
+              "duration_sec": 2.4
+            }
+          ]
+        },
+        {
+          "shot_id": "ep09_s04_sh02",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "别慌。闻土腥气——河在低处,家在平原那边。",
+              "type": "speech",
+              "emotion": "沉稳",
+              "tempo": "slow",
+              "duration_sec": 4.4
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "家……甜甜站在门口,喊我吃饭的样子……",
+              "type": "inner_monolog",
+              "emotion": "心酸",
+              "tempo": "slow",
+              "duration_sec": 3.9
+            }
+          ],
+          "sfx": [
+            { "description": "夜风里的稻香,混合着泥土和水的味道", "timing": "2.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep09_s04_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜!",
+              "type": "speech",
+              "emotion": "惊喜",
+              "tempo": "fast",
+              "duration_sec": 0.7
+            },
+            {
+              "char_id": "hei_ye",
+              "line": "……稻香?那是村子那边的味道。鼻子没骗你。",
+              "type": "speech",
+              "emotion": "温和",
+              "tempo": "slow",
+              "duration_sec": 4.4
+            }
+          ]
+        },
+        {
+          "shot_id": "ep09_s04_sh04",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "是稻香!是田埂那边的稻香!",
+              "type": "inner_monolog",
+              "emotion": "欣喜",
+              "tempo": "fast",
+              "duration_sec": 3.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep09_s05",
+      "scene_title": "林边空地(黎明)",
+      "shots": [
+        {
+          "shot_id": "ep09_s05_sh01",
+          "shot_type": "mid",
+          "narration": [
+            {
+              "text": "旺财睁开眼,朝着稻香的方向迈出第一步。它想起甜甜说过的话,心里又酸又暖。",
+              "duration_sec": 5.0
+            }
+          ],
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "甜甜说过……旺财的鼻子最灵了。只要还有这个味道,我就不会走丢。",
+              "type": "inner_monolog",
+              "emotion": "坚定",
+              "tempo": "slow",
+              "duration_sec": 6.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep09_s05_sh02",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "……河。过了河,就是大路,就能回家了。",
+              "type": "speech",
+              "emotion": "沉稳",
+              "tempo": "slow",
+              "duration_sec": 3.7
+            },
+            {
+              "char_id": "dog_white",
+              "char_name": "小白狗",
+              "line": "呜……水好急……",
+              "type": "speech",
+              "emotion": "怯怯",
+              "tempo": "slow",
+              "duration_sec": 1.4
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜——!",
+              "type": "speech",
+              "emotion": "坚定",
+              "tempo": "fast",
+              "duration_sec": 0.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep09_s05_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "dog_huang",
+              "char_name": "大黄狗",
+              "line": "汪!闻到稻香……一路追上来的!",
+              "type": "speech",
+              "emotion": "兴奋",
+              "tempo": "fast",
+              "duration_sec": 3.2
+            },
+            {
+              "char_id": "tian_tian",
+              "line": "旺财——等你回家!",
+              "type": "whisper",
+              "emotion": "温柔",
+              "tempo": "slow",
+              "duration_sec": 1.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep09_s05_sh04",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "天亮之前,别停。",
+              "type": "speech",
+              "emotion": "郑重",
+              "tempo": "slow",
+              "duration_sec": 1.9
+            }
+          ],
+          "sfx": [
+            { "description": "黎明前的第一缕微光,从树梢漏下来", "timing": "1.5s" }
+          ]
+        }
+      ]
+    }
+  ],
+  "opening_theme": {
+    "title": "片头曲·夜逃",
+    "style": "紧张弦乐,风声与轮胎声交织",
+    "duration_sec": 10
+  },
+  "ending_theme": {
+    "title": "片尾曲·稻香的方向",
+    "style": "舒缓钢琴,旋律渐亮渐暖",
+    "duration_sec": 10
+  }
+}

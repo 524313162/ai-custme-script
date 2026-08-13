@@ -1,0 +1,322 @@
+{
+  "episode_id": "ep04",
+  "scenes": [
+    {
+      "scene_id": "ep04_s01",
+      "scene_title": "村口晒谷场（午后）",
+      "shots": [
+        {
+          "shot_id": "ep04_s01_sh01",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "villager_wang",
+              "char_name": "王婶",
+              "line": "我家大黄养了五年，天天送我到大门口，说没就没了，连个影儿都找不着……",
+              "type": "speech",
+              "emotion": "悲痛",
+              "tempo": "slow",
+              "duration_sec": 7.7
+            }
+          ],
+          "sfx": [
+            { "description": "晒谷场风声，远处传来几声犬吠", "timing": "0.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep04_s01_sh02",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "villager_a",
+              "char_name": "村民甲",
+              "line": "听说镇上有收狗的，专挑夜里下手。张叔家的阿黄、老李家的黑子，都是这么没的。",
+              "type": "speech",
+              "emotion": "忧虑",
+              "tempo": "slow",
+              "duration_sec": 8.4
+            }
+          ],
+          "sfx": [
+            { "description": "村民们低低的议论声", "timing": "0.0s, 3.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep04_s01_sh03",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "villager_b",
+              "char_name": "村民乙",
+              "line": "这一只一只地丢，往后夜里，谁还敢放狗出门？",
+              "type": "speech",
+              "emotion": "无奈",
+              "tempo": "normal",
+              "duration_sec": 4.9
+            },
+            {
+              "char_id": "villager_wang",
+              "char_name": "王婶",
+              "line": "旺财啊，你可别学我家大黄，晚上一定待在家里。",
+              "type": "speech",
+              "emotion": "恳求",
+              "tempo": "slow",
+              "duration_sec": 5.2
+            }
+          ]
+        },
+        {
+          "shot_id": "ep04_s01_sh04",
+          "shot_type": "close",
+          "narration": [
+            {
+              "text": "旺财站在甜甜脚边，耳朵竖得笔直，鼻子不安地嗅着风里的味道，尾巴慢慢垂了下来。",
+              "duration_sec": 5.5
+            }
+          ],
+          "sfx": [
+            { "description": "低沉的犬吠，风刮过晒谷场", "timing": "0.0s, 2.5s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep04_s02",
+      "scene_title": "放学田埂路（傍晚）",
+      "shots": [
+        {
+          "shot_id": "ep04_s02_sh01",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "villager_li",
+              "char_name": "李大爷",
+              "line": "甜甜啊，这几天村里不太平，夜里一定把旺财关好，别让它乱跑。",
+              "type": "speech",
+              "emotion": "担忧",
+              "tempo": "slow",
+              "duration_sec": 6.7
+            }
+          ],
+          "sfx": [
+            { "description": "田埂晚风，远处牛铃叮当", "timing": "0.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep04_s02_sh02",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "villager_li",
+              "char_name": "李大爷",
+              "line": "这两天邻村又丢了两条狗，你可得上点心。",
+              "type": "speech",
+              "emotion": "沉重",
+              "tempo": "slow",
+              "duration_sec": 4.7
+            },
+            {
+              "char_id": "tian_tian",
+              "line": "知道啦李爷爷！旺财最乖了，不会乱跑的。",
+              "type": "speech",
+              "emotion": "信赖",
+              "tempo": "fast",
+              "duration_sec": 4.4
+            }
+          ]
+        },
+        {
+          "shot_id": "ep04_s02_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "嗯！我这就带旺财回家锁好门。",
+              "type": "speech",
+              "emotion": "笃定",
+              "tempo": "fast",
+              "duration_sec": 3.4
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜……",
+              "type": "speech",
+              "emotion": "警觉",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            }
+          ],
+          "sfx": [
+            { "description": "远处草丛传来窸窣声，旺财猛地竖起耳朵，背毛炸开一瞬", "timing": "1.5s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep04_s03",
+      "scene_title": "甜甜家后院（傍晚）",
+      "shots": [
+        {
+          "shot_id": "ep04_s03_sh01",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "旺财你怎么不吃呀？今天的肉骨头可香了，我特意留给你的。",
+              "type": "speech",
+              "emotion": "担心",
+              "tempo": "slow",
+              "duration_sec": 6.4
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜……呜……",
+              "type": "speech",
+              "emotion": "警戒",
+              "tempo": "slow",
+              "duration_sec": 0.9
+            }
+          ],
+          "sfx": [
+            { "description": "饭盆里的肉骨头几乎没动，晚风轻轻吹过", "timing": "0.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep04_s03_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "没事的旺财，别怕，有我在呢。晚上我给你留门。",
+              "type": "speech",
+              "emotion": "安抚",
+              "tempo": "slow",
+              "duration_sec": 4.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep04_s03_sh03",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "甜甜，快把旺财叫进来吃饭，天快黑了，别在外面待着。",
+              "type": "speech",
+              "emotion": "催促",
+              "tempo": "normal",
+              "duration_sec": 5.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep04_s03_sh04",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "这孩子，天天跟狗黏在一块儿，饭都顾不上吃了。",
+              "type": "speech",
+              "emotion": "宠溺",
+              "tempo": "normal",
+              "duration_sec": 5.2
+            }
+          ],
+          "sfx": [
+            { "description": "晚风里传来一声狗叫，又戛然而止", "timing": "2.5s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep04_s04",
+      "scene_title": "村口树影（深夜）",
+      "shots": [
+        {
+          "shot_id": "ep04_s04_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "月光下，旺财没有回狗屋，独自穿过晒谷场，一路小跑到村口。老槐树的阴影里，静静停着一辆灰色面包车，车窗漆黑。",
+              "duration_sec": 6.5
+            }
+          ],
+          "sfx": [
+            { "description": "夜风穿过树影，旺财的小跑脚步声", "timing": "0.0s, 2.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep04_s04_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "就是这个味道……害了它们的，就是车上的人。可它们谁都没来得及回家。",
+              "type": "inner_monolog",
+              "emotion": "恐惧",
+              "tempo": "slow",
+              "duration_sec": 7.4
+            }
+          ],
+          "sfx": [
+            { "description": "陌生的、令人发冷的气味弥漫在风里", "timing": "1.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep04_s04_sh03",
+          "shot_type": "point_of_view",
+          "sfx": [
+            { "description": "面包车的引擎声隐隐响起，又熄灭；车灯亮了一瞬，又灭掉", "timing": "0.0s, 2.0s, 4.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep04_s05",
+      "scene_title": "甜甜家门前（深夜）",
+      "shots": [
+        {
+          "shot_id": "ep04_s05_sh01",
+          "shot_type": "wide",
+          "sfx": [
+            { "description": "旺财蹿回院子的脚步声，夜虫低鸣", "timing": "0.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep04_s05_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "我不睡。我不能让坏东西靠近甜甜。谁要是敢碰她，我就跟谁拼命。",
+              "type": "inner_monolog",
+              "emotion": "坚定",
+              "tempo": "slow",
+              "duration_sec": 6.9
+            }
+          ],
+          "sfx": [
+            { "description": "屋里传来甜甜均匀的呼吸声，夜风卷着远处的引擎声忽远忽近", "timing": "1.0s, 3.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep04_s05_sh03",
+          "shot_type": "extreme_close",
+          "sfx": [
+            { "description": "旺财睁得又圆又亮的眼睛特写，夜风声", "timing": "0.5s" }
+          ]
+        }
+      ]
+    }
+  ],
+  "opening_theme": {
+    "title": "片头曲·不安的前奏",
+    "style": "低沉的弦乐，节奏渐紧，暗流涌动",
+    "duration_sec": 10
+  },
+  "ending_theme": {
+    "title": "片尾曲·守夜",
+    "style": "夜色钢琴，带着一点不安的宁静",
+    "duration_sec": 10
+  }
+}

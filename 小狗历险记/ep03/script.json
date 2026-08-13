@@ -1,0 +1,428 @@
+{
+  "episode_id": "ep03",
+  "scenes": [
+    {
+      "scene_id": "ep03_s01",
+      "scene_title": "上学的田埂路（清晨·晴）",
+      "shots": [
+        {
+          "shot_id": "ep03_s01_sh01",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "旺财真漂亮！走，我们上学去！",
+              "type": "speech",
+              "emotion": "开心",
+              "tempo": "fast",
+              "duration_sec": 3.2
+            }
+          ],
+          "narration": [
+            {
+              "text": "晨雾还没散尽，田埂两边的稻穗挂着露水，旺财一蹦一跳跟在甜甜脚边，尾巴摇得飞快。",
+              "duration_sec": 4.0
+            }
+          ]
+        },
+        {
+          "shot_id": "ep03_s01_sh02",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "汪！",
+              "type": "speech",
+              "emotion": "兴奋",
+              "tempo": "normal",
+              "duration_sec": 0.7
+            }
+          ],
+          "narration": [
+            {
+              "text": "旺财顶着花，昂首挺胸走在最前头，一回头冲甜甜叫了一声。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "清脆的鸟鸣，脚踩泥路的声响", "timing": "0.3s, 1.2s" }
+          ]
+        },
+        {
+          "shot_id": "ep03_s01_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "今天要乖乖的，不许追鸡，不许乱跑，不许跟别的狗打架哦。",
+              "type": "speech",
+              "emotion": "叮嘱",
+              "tempo": "normal",
+              "duration_sec": 6.2
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "汪！",
+              "type": "speech",
+              "emotion": "认真",
+              "tempo": "normal",
+              "duration_sec": 0.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep03_s01_sh04",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "每天送她上学……是我最开心的事。",
+              "type": "inner_monolog",
+              "emotion": "幸福",
+              "tempo": "slow",
+              "duration_sec": 3.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep03_s02",
+      "scene_title": "村口小学校门（清晨）",
+      "shots": [
+        {
+          "shot_id": "ep03_s02_sh01",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "旺财，就到这儿啦。我不能带你进去，你乖乖在树下等我，放学我就出来。",
+              "type": "speech",
+              "emotion": "温柔",
+              "tempo": "normal",
+              "duration_sec": 7.4
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜。",
+              "type": "speech",
+              "emotion": "乖巧",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            }
+          ],
+          "narration": [
+            {
+              "text": "校门口，学生们三三两两往里走，甜甜蹲下来，认真地看着旺财。",
+              "duration_sec": 4.0
+            }
+          ]
+        },
+        {
+          "shot_id": "ep03_s02_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "我会一直等你的。",
+              "type": "inner_monolog",
+              "emotion": "坚定",
+              "tempo": "slow",
+              "duration_sec": 2.2
+            }
+          ],
+          "sfx": [
+            { "description": "上课铃响起，孩子们跑进校门", "timing": "1.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep03_s02_sh03",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "太阳从东边移到头顶，又慢慢往西边斜，旺财始终守在树下，耳朵一直朝着校门的方向。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "操场上隐约传来读书声、下课铃", "timing": "0.0s, 3.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep03_s02_sh04",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "汪！汪汪！",
+              "type": "shout",
+              "emotion": "雀跃",
+              "tempo": "fast",
+              "duration_sec": 1.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep03_s03",
+      "scene_title": "放学后的田埂（傍晚）",
+      "shots": [
+        {
+          "shot_id": "ep03_s03_sh01",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "旺财慢点！等等我呀！",
+              "type": "speech",
+              "emotion": "欢喜",
+              "tempo": "fast",
+              "duration_sec": 2.4
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜~",
+              "type": "speech",
+              "emotion": "调皮",
+              "tempo": "normal",
+              "duration_sec": 0.7
+            }
+          ],
+          "narration": [
+            {
+              "text": "放学铃一响，甜甜第一个冲出校门，旺财像一颗黄色的小炮弹一样冲上去，两个人在田埂上撒欢狂奔。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "旺财奔跑时爪子哒哒落地的声音", "timing": "1.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep03_s03_sh02",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "奶奶说，好东西要分给最亲的人。你一半，我一半！",
+              "type": "speech",
+              "emotion": "幸福",
+              "tempo": "normal",
+              "duration_sec": 5.2
+            }
+          ],
+          "narration": [
+            {
+              "text": "甜甜追上来一把抱住旺财，一起滚进田埂边的草垛里，夕阳把两个影子拉得长长的。",
+              "duration_sec": 4.0
+            }
+          ]
+        },
+        {
+          "shot_id": "ep03_s03_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜！",
+              "type": "speech",
+              "emotion": "满足",
+              "tempo": "normal",
+              "duration_sec": 0.7
+            }
+          ],
+          "sfx": [
+            { "description": "清脆的笑声，风吹稻浪沙沙响", "timing": "0.2s, 1.8s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep03_s04",
+      "scene_title": "甜甜家门口（傍晚·炊烟升起）",
+      "shots": [
+        {
+          "shot_id": "ep03_s04_sh01",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "甜甜！别疯跑了，洗手吃饭！",
+              "type": "speech",
+              "emotion": "催促",
+              "tempo": "normal",
+              "duration_sec": 2.9
+            }
+          ],
+          "narration": [
+            {
+              "text": "炊烟从屋顶升起来，厨房飘出排骨汤的香味，旺财的鼻尖动了动，脚步快了起来。",
+              "duration_sec": 4.0
+            }
+          ]
+        },
+        {
+          "shot_id": "ep03_s04_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "来啦来啦！旺财也有份哦！",
+              "type": "speech",
+              "emotion": "开心",
+              "tempo": "fast",
+              "duration_sec": 2.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep03_s04_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "……骨头给你。别以为你吃白食。",
+              "type": "speech",
+              "emotion": "别扭",
+              "tempo": "slow",
+              "duration_sec": 3.2
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜呜！",
+              "type": "speech",
+              "emotion": "满足",
+              "tempo": "normal",
+              "duration_sec": 0.9
+            }
+          ],
+          "narration": [
+            {
+              "text": "饭桌前热气腾腾，妈妈嘴上嫌弃，却把一块带肉的骨头夹进旺财的碗里。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "旺财吧唧吧唧吃饭的声音", "timing": "0.6s" }
+          ]
+        },
+        {
+          "shot_id": "ep03_s04_sh04",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "热汤的香味……这就是家的味道。",
+              "type": "inner_monolog",
+              "emotion": "温暖",
+              "tempo": "slow",
+              "duration_sec": 3.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep03_s05",
+      "scene_title": "甜甜家院子（夜·满天星）",
+      "shots": [
+        {
+          "shot_id": "ep03_s05_sh01",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "旺财你看，那颗最亮的，我给它取名叫旺财星。以后每天晚上，我们都一起看它，好不好？",
+              "type": "speech",
+              "emotion": "温柔",
+              "tempo": "slow",
+              "duration_sec": 8.9
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜。",
+              "type": "speech",
+              "emotion": "依恋",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            }
+          ],
+          "narration": [
+            {
+              "text": "夜空清澈，星星密得像撒了一把碎银，甜甜靠在后院石阶上，旺财趴在她腿边，头搁在她膝盖上。",
+              "duration_sec": 4.0
+            }
+          ]
+        },
+        {
+          "shot_id": "ep03_s05_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "旺财，你不用变成最亮的那颗星。你呀，做你自己的星星就好。",
+              "type": "speech",
+              "emotion": "温柔",
+              "tempo": "slow",
+              "duration_sec": 6.4
+            }
+          ],
+          "sfx": [
+            { "description": "舒缓的钢琴曲，夜虫轻鸣", "timing": "0.0s, 2.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep03_s05_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "她的笑……比星星还亮。",
+              "type": "inner_monolog",
+              "emotion": "感动",
+              "tempo": "slow",
+              "duration_sec": 2.4
+            }
+          ],
+          "sfx": [
+            { "description": "轻轻的鼾声混着夜虫声", "timing": "1.5s, 3.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep03_s05_sh04",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜……",
+              "type": "speech",
+              "emotion": "警觉",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            }
+          ],
+          "narration": [
+            {
+              "text": "夜深了，一辆灰色面包车的车灯缓缓滑过，停在晒谷场边的树影里。",
+              "duration_sec": 7.0
+            }
+          ],
+          "sfx": [
+            { "description": "面包车引擎低低地熄火声，车门咔一声开合", "timing": "2.5s, 4.5s" }
+          ]
+        }
+      ]
+    }
+  ],
+  "opening_theme": {
+    "title": "片头曲·日常",
+    "style": "轻快钢琴，鸟鸣晨光，明朗治愈",
+    "duration_sec": 10
+  },
+  "ending_theme": {
+    "title": "片尾曲·旺财星",
+    "style": "舒缓钢琴，星空静谧，暗流不安",
+    "duration_sec": 10
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "episode_id": "ep06",
+  "scenes": [
+    {
+      "scene_id": "ep06_s01",
+      "scene_title": "屠狗场铁笼（夜·昏暗）",
+      "shots": [
+        {
+          "shot_id": "ep06_s01_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "一盏昏黄的灯从漏光的屋顶垂下来，照着锈红的铁笼。旺财醒来，鼻子撞上冰凉的铁栏。它甩甩头，环顾四周——全是笼子，阴影里趴着瑟瑟发抖的同类。",
+              "duration_sec": 7.0
+            }
+          ],
+          "sfx": [
+            { "description": "锈铁摇晃声，铁栏咣当一声", "timing": "0.0s, 1.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep06_s01_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "好黑……好冷……这不是家。甜甜……甜甜在哪？",
+              "type": "inner_monolog",
+              "emotion": "恐惧",
+              "tempo": "slow",
+              "duration_sec": 3.9
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜……",
+              "type": "speech",
+              "emotion": "害怕",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep06_s01_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "dog_white",
+              "char_name": "小白狗",
+              "line": "呜……呜……",
+              "type": "speech",
+              "emotion": "发抖",
+              "tempo": "slow",
+              "duration_sec": 0.9
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "别怕……别怕……我得看清楚这是哪儿。",
+              "type": "inner_monolog",
+              "emotion": "强撑镇定",
+              "tempo": "slow",
+              "duration_sec": 3.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep06_s01_sh04",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            {
+              "char_id": "dog_white",
+              "char_name": "小白狗",
+              "line": "呜……呜……",
+              "type": "speech",
+              "emotion": "发抖",
+              "tempo": "slow",
+              "duration_sec": 0.9
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "它……也在害怕。和我一样。",
+              "type": "inner_monolog",
+              "emotion": "触动",
+              "tempo": "slow",
+              "duration_sec": 2.7
+            }
+          ],
+          "sfx": [
+            { "description": "远处传来沉重的脚步声", "timing": "2.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep06_s02",
+      "scene_title": "铁笼内（深夜）",
+      "shots": [
+        {
+          "shot_id": "ep06_s02_sh01",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "笼门……旧铁锁，锁孔都锈黄了。门角的绳结，磨得松了。",
+              "type": "inner_monolog",
+              "emotion": "专注",
+              "tempo": "slow",
+              "duration_sec": 5.4
+            }
+          ],
+          "sfx": [
+            { "description": "旺财贴着笼子一寸一寸看过去", "timing": "0.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep06_s02_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "墙上还有爪印……它们都试过……都没能出去。",
+              "type": "inner_monolog",
+              "emotion": "沉重",
+              "tempo": "slow",
+              "duration_sec": 4.4
+            }
+          ],
+          "sfx": [
+            { "description": "墙上旧爪印特写：旧痕叠着新痕", "timing": "1.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep06_s02_sh03",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "那些笼子，一只挨着一只……它们都被困住了，和我一样。",
+              "type": "inner_monolog",
+              "emotion": "压抑",
+              "tempo": "slow",
+              "duration_sec": 5.7
+            }
+          ],
+          "sfx": [
+            { "description": "锈蚀的铁笼一排排码放，屋顶漏下冷光", "timing": "1.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep06_s02_sh04",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "屋顶漏下的光……只有巴掌大。这里的天，是被锁起来的。",
+              "type": "inner_monolog",
+              "emotion": "沉静",
+              "tempo": "slow",
+              "duration_sec": 5.7
+            }
+          ],
+          "sfx": [
+            { "description": "那一点漏下来的光，照着墙上的旧爪印", "timing": "1.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep06_s03",
+      "scene_title": "铁笼内（深夜）",
+      "shots": [
+        {
+          "shot_id": "ep06_s03_sh01",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜……",
+              "type": "speech",
+              "emotion": "用力",
+              "tempo": "normal",
+              "duration_sec": 0.7
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "顶不开……锁太牢了。绳结……够不着。",
+              "type": "inner_monolog",
+              "emotion": "焦急",
+              "tempo": "slow",
+              "duration_sec": 3.4
+            }
+          ],
+          "sfx": [
+            { "description": "笼门发出一声闷响，旺财立刻缩回脖子竖起耳朵", "timing": "0.8s" }
+          ]
+        },
+        {
+          "shot_id": "ep06_s03_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜……",
+              "type": "speech",
+              "emotion": "努力",
+              "tempo": "normal",
+              "duration_sec": 0.7
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "不行……会弄出声响。得等，等他们睡着。",
+              "type": "inner_monolog",
+              "emotion": "克制",
+              "tempo": "slow",
+              "duration_sec": 3.9
+            }
+          ],
+          "sfx": [
+            { "description": "爪子探出笼门，拼命去够那把旧锁，指尖差一点又差一点", "timing": "1.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep06_s03_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "嘘……轻一点……不能吵醒他们。",
+              "type": "inner_monolog",
+              "emotion": "谨慎",
+              "tempo": "slow",
+              "duration_sec": 2.9
+            }
+          ],
+          "sfx": [
+            { "description": "铁锁被爪子碰到，发出极轻的当啷一声", "timing": "1.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep06_s03_sh04",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "铁锁、绳结、门缝……我全都记住了。总有一天，我要一样一样咬开它们。",
+              "type": "inner_monolog",
+              "emotion": "坚定",
+              "tempo": "normal",
+              "duration_sec": 6.9
+            }
+          ],
+          "sfx": [
+            { "description": "磨红的爪尖特写，目光亮了一瞬", "timing": "2.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep06_s04",
+      "scene_title": "屠狗场（深夜·黑暗）",
+      "shots": [
+        {
+          "shot_id": "ep06_s04_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "铁门吱呀打开，脚步声由远及近。一只大狗被拖出去，哀嚎声在空荡的场子里回响，所有笼子都安静下来，连呼吸都屏住了。",
+              "duration_sec": 6.5
+            }
+          ],
+          "sfx": [
+            { "description": "铁门吱呀打开，哀嚎声在空荡的场子里回响", "timing": "0.0s, 2.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep06_s04_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "别……别过来……",
+              "type": "inner_monolog",
+              "emotion": "恐惧",
+              "tempo": "slow",
+              "duration_sec": 1.4
+            },
+            {
+              "char_id": "tian_tian",
+              "line": "旺财，我晚上给你留门，你早点回来呀！",
+              "type": "whisper",
+              "emotion": "温柔",
+              "tempo": "slow",
+              "duration_sec": 4.2
+            }
+          ],
+          "sfx": [
+            { "description": "黑暗中，甜甜的声音在记忆里响起，那么近，又那么远", "timing": "0.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep06_s04_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "是甜甜……是甜甜的声音……",
+              "type": "inner_monolog",
+              "emotion": "动容",
+              "tempo": "slow",
+              "duration_sec": 2.7
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "甜甜……你等我……我一定、一定要回去。",
+              "type": "inner_monolog",
+              "emotion": "坚定",
+              "tempo": "slow",
+              "duration_sec": 3.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep06_s04_sh04",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "等我出去……等我出去，我就能找到回家的路。甜甜说过，家在最亮的那颗星星下面。",
+              "type": "inner_monolog",
+              "emotion": "坚信",
+              "tempo": "slow",
+              "duration_sec": 8.4
+            }
+          ],
+          "sfx": [
+            { "description": "哀嚎声远去，一片死寂", "timing": "1.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep06_s05",
+      "scene_title": "铁笼角落（深夜）",
+      "shots": [
+        {
+          "shot_id": "ep06_s05_sh01",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "新来的？省点力气。这儿没有一个能活着出去。",
+              "type": "speech",
+              "emotion": "冷硬",
+              "tempo": "slow",
+              "duration_sec": 4.9
+            }
+          ],
+          "sfx": [
+            { "description": "黑暗中传来低沉沙哑的声音，冷得像夜里的铁", "timing": "0.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep06_s05_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜……",
+              "type": "speech",
+              "emotion": "试探",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            },
+            {
+              "char_id": "hei_ye",
+              "line": "我在这儿八年了。八年，没见一条狗活着走出去。",
+              "type": "speech",
+              "emotion": "沧桑",
+              "tempo": "slow",
+              "duration_sec": 5.2
+            }
+          ],
+          "sfx": [
+            { "description": "铁链哗啦一声", "timing": "2.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep06_s05_sh03",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "这个声音……是谁？",
+              "type": "inner_monolog",
+              "emotion": "警惕",
+              "tempo": "slow",
+              "duration_sec": 1.9
+            }
+          ],
+          "sfx": [
+            { "description": "阴影里，一双带着疤的眼睛慢慢睁开，望向旺财", "timing": "0.8s" }
+          ]
+        }
+      ]
+    }
+  ],
+  "opening_theme": {
+    "title": "片头曲·铁笼",
+    "style": "低沉的氛围音乐，铁链声点缀",
+    "duration_sec": 10
+  },
+  "ending_theme": {
+    "title": "片尾曲·星星的约定",
+    "style": "舒缓钢琴，温柔中带着坚定",
+    "duration_sec": 10
+  }
+}

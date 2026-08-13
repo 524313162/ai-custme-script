@@ -1,0 +1,451 @@
+{
+  "episode_id": "ep02",
+  "scenes": [
+    {
+      "scene_id": "ep02_s01",
+      "scene_title": "甜甜家堂屋（清晨）",
+      "shots": [
+        {
+          "shot_id": "ep02_s01_sh01",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "咱家不能养狗，说了多少遍。今天必须送走。",
+              "type": "speech",
+              "emotion": "坚决",
+              "tempo": "normal",
+              "duration_sec": 4.7
+            }
+          ],
+          "narration": [
+            {
+              "text": "晨光从门缝漏进来，妈妈把竹篮放在门口，弯腰去抱纸箱里的旺财。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "竹篮碰地的闷响", "timing": "0.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep02_s01_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "不要！旺财是我捡回来的，我要对它负责！",
+              "type": "speech",
+              "emotion": "着急",
+              "tempo": "fast",
+              "duration_sec": 4.4
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜……",
+              "type": "speech",
+              "emotion": "害怕",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep02_s01_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "那你自己去送。我可没工夫伺候一只狗。",
+              "type": "speech",
+              "emotion": "冷漠",
+              "tempo": "normal",
+              "duration_sec": 4.4
+            },
+            {
+              "char_id": "tian_tian",
+              "line": "我不送……我死都不送……",
+              "type": "speech",
+              "emotion": "委屈",
+              "tempo": "slow",
+              "duration_sec": 2.4
+            }
+          ],
+          "sfx": [
+            { "description": "门砰地带上了", "timing": "3.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep02_s01_sh04",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "别哭……别赶我走。",
+              "type": "inner_monolog",
+              "emotion": "心疼",
+              "tempo": "slow",
+              "duration_sec": 2.2
+            },
+            {
+              "char_id": "tian_tian",
+              "line": "我不会把你送走的，听到没有？",
+              "type": "speech",
+              "emotion": "坚定",
+              "tempo": "normal",
+              "duration_sec": 3.4
+            }
+          ],
+          "narration": [
+            {
+              "text": "甜甜蹲在纸箱前，肩膀一抖一抖，旺财从纸箱里探出头，用湿漉漉的鼻尖轻轻蹭她的下巴。",
+              "duration_sec": 4.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep02_s02",
+      "scene_title": "甜甜家后院（白天）",
+      "shots": [
+        {
+          "shot_id": "ep02_s02_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "妈妈在后院晾衣服，旺财把耳朵压得低低的，不吵不闹，远远地趴着，目光却一直追着妈妈。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "一阵风把床单吹落的轻响", "timing": "0.0s, 1.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep02_s02_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "……还算有点眼色。",
+              "type": "speech",
+              "emotion": "别扭",
+              "tempo": "slow",
+              "duration_sec": 1.9
+            }
+          ],
+          "narration": [
+            {
+              "text": "一阵风把床单吹落在地，旺财立刻跑过去叼起床单，轻轻放回盆里，然后退后两步，乖乖坐好。",
+              "duration_sec": 4.0
+            }
+          ]
+        },
+        {
+          "shot_id": "ep02_s02_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "这样……她会喜欢我吗？",
+              "type": "inner_monolog",
+              "emotion": "期待",
+              "tempo": "slow",
+              "duration_sec": 2.4
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜？",
+              "type": "speech",
+              "emotion": "试探",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep02_s02_sh04",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "别套近乎。丑狗。",
+              "type": "speech",
+              "emotion": "别扭",
+              "tempo": "normal",
+              "duration_sec": 1.9
+            }
+          ],
+          "sfx": [
+            { "description": "轻快的音乐声", "timing": "0.8s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep02_s03",
+      "scene_title": "后院晒谷场（中午·日头正高）",
+      "shots": [
+        {
+          "shot_id": "ep02_s03_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "日头正高，妈妈把谷子摊在晒谷场上晒，几只家鸡闻着味儿溜进来，低头就要啄食。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "鸡群溜进晒谷场、低头啄食声", "timing": "0.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep02_s03_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "汪！汪汪！",
+              "type": "shout",
+              "emotion": "威吓",
+              "tempo": "fast",
+              "duration_sec": 1.2
+            }
+          ],
+          "narration": [
+            {
+              "text": "旺财一下子竖起耳朵，压低身子，喉咙里滚出低低的警告，鸡群被吓得咯咯叫着逃出院子。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "鸡群扑腾翅膀、咯咯乱叫", "timing": "0.5s, 1.8s" }
+          ]
+        },
+        {
+          "shot_id": "ep02_s03_sh03",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "……这狗，倒真会看家。",
+              "type": "speech",
+              "emotion": "惊讶",
+              "tempo": "normal",
+              "duration_sec": 2.2
+            }
+          ]
+        },
+        {
+          "shot_id": "ep02_s03_sh04",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "守住她的家……就是我的使命。",
+              "type": "inner_monolog",
+              "emotion": "坚定",
+              "tempo": "slow",
+              "duration_sec": 3.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep02_s04",
+      "scene_title": "院门口（傍晚）",
+      "shots": [
+        {
+          "shot_id": "ep02_s04_sh01",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "旺财！我回来啦！",
+              "type": "speech",
+              "emotion": "开心",
+              "tempo": "fast",
+              "duration_sec": 1.9
+            }
+          ],
+          "narration": [
+            {
+              "text": "傍晚的晒谷场铺满橘色的光，旺财乖乖趴在院门口，望着甜甜放学的路，影子被夕阳拉得很长。",
+              "duration_sec": 4.0
+            }
+          ]
+        },
+        {
+          "shot_id": "ep02_s04_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "汪！汪！",
+              "type": "speech",
+              "emotion": "兴奋",
+              "tempo": "fast",
+              "duration_sec": 0.9
+            }
+          ],
+          "narration": [
+            {
+              "text": "远远地，一个小小的身影跑过来，旺财腾地站起来，尾巴摇成小风车，窜了出去。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "旺财撒欢奔跑的哒哒脚步声", "timing": "0.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep02_s04_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "妈……旺财它真的很乖，留下它好不好？",
+              "type": "speech",
+              "emotion": "恳求",
+              "tempo": "normal",
+              "duration_sec": 3.9
+            },
+            {
+              "char_id": "mom",
+              "line": "留下可以。不许进堂屋，不许乱叫，看家守院。",
+              "type": "speech",
+              "emotion": "别扭",
+              "tempo": "normal",
+              "duration_sec": 4.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep02_s04_sh04",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜！",
+              "type": "speech",
+              "emotion": "欢喜",
+              "tempo": "normal",
+              "duration_sec": 0.7
+            },
+            {
+              "char_id": "tian_tian",
+              "line": "旺财！你听见了吗！",
+              "type": "speech",
+              "emotion": "激动",
+              "tempo": "fast",
+              "duration_sec": 2.2
+            }
+          ],
+          "sfx": [
+            { "description": "温馨的音乐，夜色渐浓", "timing": "1.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep02_s05",
+      "scene_title": "甜甜家后院（夜）",
+      "shots": [
+        {
+          "shot_id": "ep02_s05_sh01",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "mom",
+              "line": "木板是旧的……将就住吧。夜里别乱叫。",
+              "type": "speech",
+              "emotion": "别扭",
+              "tempo": "slow",
+              "duration_sec": 3.9
+            }
+          ],
+          "narration": [
+            {
+              "text": "夜里，妈妈搬来几块旧木板和钉子，在后院墙角叮叮当当搭起一间小木屋，嘴上没说什么，手却很稳。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "钉木板的声音", "timing": "0.0s, 1.8s" }
+          ]
+        },
+        {
+          "shot_id": "ep02_s05_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜……",
+              "type": "speech",
+              "emotion": "感激",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep02_s05_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "谢谢妈妈！旺财，这是你的新家啦！",
+              "type": "speech",
+              "emotion": "开心",
+              "tempo": "normal",
+              "duration_sec": 3.7
+            },
+            {
+              "char_id": "tian_tian",
+              "line": "从今天起，你就是这个家的一员啦。",
+              "type": "speech",
+              "emotion": "温柔",
+              "tempo": "slow",
+              "duration_sec": 3.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep02_s05_sh04",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "她的家人……也是我的家人了。",
+              "type": "inner_monolog",
+              "emotion": "温暖",
+              "tempo": "slow",
+              "duration_sec": 3.2
+            }
+          ],
+          "narration": [
+            {
+              "text": "望着堂屋亮起的暖黄灯光，旺财心里第一次有了一种叫家的东西。",
+              "duration_sec": 6.8
+            }
+          ],
+          "sfx": [
+            { "description": "夜虫声轻轻响起，狗屋的灯光暖融融", "timing": "0.5s, 3.5s" }
+          ]
+        }
+      ]
+    }
+  ],
+  "opening_theme": {
+    "title": "片头曲·磨合",
+    "style": "晨光钢琴，清新明亮，略带暖意",
+    "duration_sec": 10
+  },
+  "ending_theme": {
+    "title": "片尾曲·家的味道",
+    "style": "舒缓钢琴，温暖旋律",
+    "duration_sec": 10
+  }
+}

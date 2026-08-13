@@ -1,0 +1,27 @@
+{
+  "stage": "storyboard",
+  "episode_range": "ep01-ep12",
+  "reviewed_at": "2026-08-13",
+  "rework_round": 1,
+  "decision": "approved",
+  "previous_decision": "revision",
+  "summary": "第1次打回后复评通过:ep08两个并行镜头duration改max(133.4s→128.0s);全12集storyboard.json经脚本独立核算(shots合计+片头片尾20s)均落在[108,132]s;镜头数与script.json一一对应;drawing_prompt/camera零缺失。分镜环节通过,可进入绘画/作曲/配音环节。",
+  "per_episode_total_sec": {
+    "ep01": 124.9,
+    "ep02": 130.0,
+    "ep03": 126.4,
+    "ep04": 132.7,
+    "ep05": 132.0,
+    "ep06": 129.9,
+    "ep07": 130.0,
+    "ep08": 128.0,
+    "ep09": 132.1,
+    "ep10": 128.5,
+    "ep11": 129.3,
+    "ep12": 130.1
+  },
+  "target_sec": 120,
+  "tolerance_sec": [108, 132],
+  "issues": [],
+  "action": "分镜环节评审通过(approved)。下一步:并行调度绘画Agent(mj-illustrator)、作曲Agent(mj-composer)、配音Agent(mj-voice)制作 ep01~ep12 的画面/音乐/语音素材,再经视觉识别(mj-visual_checker)与调色(mj-colorist)后进入字幕环节。"
+}

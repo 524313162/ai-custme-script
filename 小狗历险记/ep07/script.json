@@ -1,0 +1,372 @@
+{
+  "episode_id": "ep07",
+  "scenes": [
+    {
+      "scene_id": "ep07_s01",
+      "scene_title": "屠狗场(夜)",
+      "shots": [
+        {
+          "shot_id": "ep07_s01_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "黑爷隔着笼子打量旺财,眼神像看透了一切。",
+              "duration_sec": 4.0
+            }
+          ]
+        },
+        {
+          "shot_id": "ep07_s01_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "别盯着我。看见墙上那爪印没?都想跑,都没成。",
+              "type": "speech",
+              "emotion": "冷硬",
+              "tempo": "slow",
+              "duration_sec": 4.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep07_s01_sh03",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜……呜!",
+              "type": "speech",
+              "emotion": "急切",
+              "tempo": "fast",
+              "duration_sec": 0.9
+            },
+            {
+              "char_id": "hei_ye",
+              "line": "……你也有要回去的人?哼,谁没有。回了的,我一个都没见过。",
+              "type": "speech",
+              "emotion": "低沉",
+              "tempo": "slow",
+              "duration_sec": 5.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep07_s01_sh04",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜。",
+              "type": "speech",
+              "emotion": "固执",
+              "tempo": "slow",
+              "duration_sec": 0.7
+            },
+            {
+              "char_id": "hei_ye",
+              "line": "……倔得像当年我。",
+              "type": "speech",
+              "emotion": "松动",
+              "tempo": "slow",
+              "duration_sec": 1.9
+            }
+          ],
+          "sfx": [
+            { "description": "夜风从屋顶漏进来,铁锁在月光下泛着锈色", "timing": "1.5s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep07_s02",
+      "scene_title": "屠狗场(夜·更深)",
+      "shots": [
+        {
+          "shot_id": "ep07_s02_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "夜深了,狗都睡了。旺财趴着,鼻尖贴着笼门,想起甜甜屋檐下那盏灯。",
+              "duration_sec": 4.5
+            }
+          ],
+          "sfx": [
+            { "description": "夜风低低呜咽,铁笼在暗处泛着冷光", "timing": "0.0s, 2.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep07_s02_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "甜甜……她一定还在等我。要是我回不去,谁陪她看星星……",
+              "type": "inner_monolog",
+              "emotion": "思念",
+              "tempo": "slow",
+              "duration_sec": 5.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep07_s02_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "那条灰毛狗,是我头一年的伴儿。我们说好一起逃,墙根都刨了一半——第二天,它就被拖走了。",
+              "type": "speech",
+              "emotion": "沧桑",
+              "tempo": "slow",
+              "duration_sec": 9.4
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜!",
+              "type": "speech",
+              "emotion": "惊愕",
+              "tempo": "fast",
+              "duration_sec": 0.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep07_s02_sh04",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "……那年它跑得比我快。是我先怕了。你要是真想走,别学我。",
+              "type": "speech",
+              "emotion": "低哑",
+              "tempo": "slow",
+              "duration_sec": 5.9
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "老爷爷……你也想回家吧。",
+              "type": "inner_monolog",
+              "emotion": "心酸",
+              "tempo": "slow",
+              "duration_sec": 2.7
+            }
+          ],
+          "sfx": [
+            { "description": "远处传来狗贩子翻身打呼噜的声响,又被夜风吞掉", "timing": "2.5s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep07_s03",
+      "scene_title": "屠狗场(清晨·漏光)",
+      "shots": [
+        {
+          "shot_id": "ep07_s03_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "天光从破屋顶漏下来,铁锁锈得发黄,绳结磨得松垮。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "旺财贴着笼子,用爪子轻轻挠了两下锁", "timing": "1.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep07_s03_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜!呜!",
+              "type": "speech",
+              "emotion": "兴奋",
+              "tempo": "fast",
+              "duration_sec": 0.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep07_s03_sh03",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "锁是旧了。可就算出去,外面还有大门,还有守夜的人。",
+              "type": "speech",
+              "emotion": "压低",
+              "tempo": "slow",
+              "duration_sec": 5.7
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜!",
+              "type": "speech",
+              "emotion": "坚定",
+              "tempo": "fast",
+              "duration_sec": 0.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep07_s03_sh04",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "……我叫黑爷,在这儿待了三年。小子,记住,出门往西,围墙底下有个狗洞,杂草盖着。",
+              "type": "speech",
+              "emotion": "郑重",
+              "tempo": "slow",
+              "duration_sec": 8.2
+            }
+          ],
+          "sfx": [
+            { "description": "铁锁被爪子拨动,发出细碎的响声", "timing": "3.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep07_s04",
+      "scene_title": "屠狗场(傍晚·狗群围拢)",
+      "shots": [
+        {
+          "shot_id": "ep07_s04_sh01",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "守夜的人子时打瞌睡,灯灭得最早。墙根那堆破筐,正好垫脚。别一窝蜂,一个一个走。",
+              "type": "speech",
+              "emotion": "低声",
+              "tempo": "slow",
+              "duration_sec": 8.9
+            }
+          ],
+          "sfx": [
+            { "description": "几只狗喉咙里滚出低低的呜声,像是替彼此壮胆", "timing": "0.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep07_s04_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "dog_huang",
+              "char_name": "大黄狗",
+              "line": "呜……黑爷,真的能行吗?",
+              "type": "speech",
+              "emotion": "又惊又怕",
+              "tempo": "slow",
+              "duration_sec": 2.4
+            },
+            {
+              "char_id": "hei_ye",
+              "line": "……总得试试。三年了,也该轮到我试试了。",
+              "type": "speech",
+              "emotion": "沙哑笃定",
+              "tempo": "slow",
+              "duration_sec": 4.2
+            }
+          ]
+        },
+        {
+          "shot_id": "ep07_s04_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "dog_white",
+              "char_name": "小白狗",
+              "line": "呜……我腿软……我跑不动……",
+              "type": "speech",
+              "emotion": "发抖",
+              "tempo": "slow",
+              "duration_sec": 2.4
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "呜!呜!",
+              "type": "speech",
+              "emotion": "鼓励",
+              "tempo": "fast",
+              "duration_sec": 0.9
+            }
+          ],
+          "sfx": [
+            { "description": "笼子外的月光,一寸一寸爬过走廊", "timing": "2.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep07_s05",
+      "scene_title": "屠狗场(夜·低声谋划)",
+      "shots": [
+        {
+          "shot_id": "ep07_s05_sh01",
+          "shot_type": "mid",
+          "narration": [
+            {
+              "text": "狗群头挨着头,在黑暗里谋划出一条秘密路线。",
+              "duration_sec": 4.5
+            }
+          ]
+        },
+        {
+          "shot_id": "ep07_s05_sh02",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "明晚,月光最亮的时候……我们一起跑出去。甜甜,等我回家。",
+              "type": "inner_monolog",
+              "emotion": "坚定",
+              "tempo": "fast",
+              "duration_sec": 5.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep07_s05_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "……记住,跑起来就别回头。",
+              "type": "speech",
+              "emotion": "郑重",
+              "tempo": "slow",
+              "duration_sec": 2.7
+            },
+            {
+              "char_id": "dog_white",
+              "char_name": "小白狗",
+              "line": "呜……嗯,好。",
+              "type": "speech",
+              "emotion": "怯怯",
+              "tempo": "slow",
+              "duration_sec": 1.2
+            }
+          ],
+          "sfx": [
+            { "description": "所有笼子都安静下来,只有风在黑暗里穿行", "timing": "0.0s, 1.8s" }
+          ]
+        }
+      ]
+    }
+  ],
+  "opening_theme": {
+    "title": "片头曲·同伴",
+    "style": "低沉氛围音乐,铁链轻响,透出希望的微光",
+    "duration_sec": 10
+  },
+  "ending_theme": {
+    "title": "片尾曲·月下的约定",
+    "style": "舒缓钢琴,黑暗中透出暖意",
+    "duration_sec": 10
+  }
+}

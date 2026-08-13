@@ -1,0 +1,469 @@
+{
+  "episode_id": "ep09",
+  "shots": [
+    {
+      "shot_id": "ep09_s01_sh01",
+      "scene_id": "ep09_s01",
+      "sequence": 1,
+      "description": "空旷的公路上，路灯稀疏，狗群压着身子贴边快跑。深夜风声，远处传来车灯的微光。",
+      "visual_elements": {
+        "characters": ["wang_cai", "hei_ye", "dog_white", "dog_huang"],
+        "locations": ["loc_shengdao"],
+        "props": ["prop_ludeng"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "wide_shot"
+      },
+      "composition": "leading_lines",
+      "lighting": "night_cold_highway",
+      "emotion": "紧张戒备",
+      "duration_sec": 4.4,
+      "transition_in": "淡入",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：狗群（旺财打头、黑爷殿后、大黄狗与小白狗在中间）压着身子贴着省道边快速奔跑，耳朵低伏、眼神警觉；背景：深夜空旷省道，路灯稀疏地立在路边，路面反射冷光，远处地平线透出微弱的车灯；构图与镜头：广角全景、公路纵深感形成引导线、狗群在画面下部贴边奔跑、35mm广角高位俯拍静止 wide_shot；光线：深夜冷蓝调，稀疏路灯的冷白光点与远处车灯微光；情绪：紧张戒备、在开阔地带的暴露感；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s01_sh02",
+      "scene_id": "ep09_s01",
+      "sequence": 2,
+      "description": "旺财内心独白：过了这条大路……就是树林……过了树林……就有河……小白狗发抖地提醒：车……车来了……远处车灯扫过来，旺财带头钻进路边的排水沟。",
+      "visual_elements": {
+        "characters": ["wang_cai", "dog_white"],
+        "locations": ["loc_shengdao"],
+        "props": ["prop_paishuigou"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "handheld",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_cold_highway",
+      "emotion": "紧张",
+      "duration_sec": 7.2,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财边跑边默念路线，眼神紧张；小白狗发抖地示警车来了；远处车灯的光柱扫过来，旺财带头纵身钻进路边排水沟，同伴紧随其后；背景：深夜省道，车灯光柱由远及近，路面被照得发白，排水沟沿路边延伸；构图与镜头：中景、旺财跃向排水沟的动作、车灯光柱在背景逼近、三分法构图、50mm中焦侧面机位手持晃动 mid_shot；光线：车灯由远及近的强光与深夜冷蓝夜色形成对比；情绪：紧张、躲避追光的本能反应；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s01_sh03",
+      "scene_id": "ep09_s01",
+      "sequence": 3,
+      "description": "黑爷急促地压低声音：趴下！贴着沟底，别露头！轮胎碾过路面的轰鸣声，光柱从头顶扫过。",
+      "visual_elements": {
+        "characters": ["hei_ye"],
+        "locations": ["loc_shengdao"],
+        "props": ["prop_paishuigou"]
+      },
+      "camera": {
+        "angle": "low_angle",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "extreme_close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_cold_highway",
+      "emotion": "急促",
+      "duration_sec": 3.1,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷伏在排水沟底的特写，眼神凌厉地示警趴下别露头，耳朵紧贴背脊；头顶路面上一道车灯光柱缓缓扫过沟沿；背景：深夜省道排水沟内，沟沿上方是公路路面与车轮边缘，光柱掠过时明时暗；构图与镜头：极特写、黑爷伏地警戒的脸居中、沟沿上方车灯光柱、中心构图、85mm长焦低机位静态 extreme_close_up；光线：车灯光柱从头顶掠过的强光与沟底阴影形成强烈明暗交替；情绪：命悬一线的急促、屏息等待车过去；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s01_sh04",
+      "scene_id": "ep09_s01",
+      "sequence": 4,
+      "description": "车灯远去。黑爷沉稳地说：走，趁车灯还没回。旺财后怕地内心独白：呼……差点就被看见了。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai"],
+        "locations": ["loc_shengdao"],
+        "props": ["prop_paishuigou"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_cold_highway",
+      "emotion": "后怕",
+      "duration_sec": 5.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：狗群从排水沟里探出头，黑爷率先起身催促快走；旺财趴在沟沿上回头望一眼远去的车灯，眼神后怕地喘了口气；背景：深夜省道，车灯在远处渐行渐远，路面重新归于冷蓝夜色；构图与镜头：中景、狗群从沟里爬出、远处车灯渐远、三分法构图、50mm中焦正面机位静态 mid_shot；光线：车灯远去后夜色恢复冷蓝，路面泛着清冷反光；情绪：逃过一劫的后怕、稍作喘息又继续前行；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s02_sh01",
+      "scene_id": "ep09_s02",
+      "sequence": 5,
+      "description": "公路边的土坎下，大黄狗疲惫地喘着：跑得我四条腿都不是自己的了……黑爷沉稳地说：没灯跟过来，歇一口气，马上走。车灯彻底消失在路那头。",
+      "visual_elements": {
+        "characters": ["dog_huang", "hei_ye", "wang_cai", "dog_white"],
+        "locations": ["loc_shengdao"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_cold_dim",
+      "emotion": "疲惫",
+      "duration_sec": 8.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：大黄狗瘫在土坎下大口喘气，舌头耷拉，疲惫不堪；黑爷卧在一旁沉稳地观察路那头，狗群围在一起短暂歇脚，呼哧呼哧喘气；背景：深夜省道边的土坎阴影下，远处车灯彻底消失在路那头，只剩冷蓝夜色与稀疏路灯；构图与镜头：中景、狗群在土坎阴影里围拢、远处公路在背景、三分法构图、50mm中焦侧面机位静态 mid_shot；光线：土坎阴影遮挡大部分光线，只有月光勾勒狗群轮廓，整体压暗；情绪：奔跑后的疲惫、短暂喘息的安全感；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s02_sh02",
+      "scene_id": "ep09_s02",
+      "sequence": 6,
+      "description": "小白狗委屈地呜咽：我脚上扎了刺，好疼……旺财低下头，用舌头轻轻舔了舔小白狗的爪子。",
+      "visual_elements": {
+        "characters": ["dog_white", "wang_cai"],
+        "locations": ["loc_shengdao"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_cold_dim",
+      "emotion": "心疼",
+      "duration_sec": 4.2,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：瘦小白狗蜷在土坎下，抬起扎了刺的爪子，委屈地呜咽；旺财低下头，温柔地用舌头轻轻舔它的爪子，眼神心疼；背景：深夜省道边土坎阴影下，月光从土坎边漏进来，两只狗的身影贴在一起；构图与镜头：特写、旺财舔爪的动作居中、小白狗抬爪的细节清晰、中心构图、85mm长焦正面机位静态 close_up；光线：月光从土坎边缘漏进，照亮两只狗依偎的轮廓，冷调中透着温柔；情绪：心疼、同伴之间无声的安抚；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s02_sh03",
+      "scene_id": "ep09_s02",
+      "sequence": 7,
+      "description": "黑爷温和地说：忍一忍，天亮前跑远些，就安全了。",
+      "visual_elements": {
+        "characters": ["hei_ye", "dog_white", "wang_cai"],
+        "locations": ["loc_shengdao"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_cold_dim",
+      "emotion": "温和",
+      "duration_sec": 4.1,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷温和地看着小白狗和旺财，语气放软地安慰忍一忍、天亮前就安全了；小白狗抬头望向黑爷，眼神渐渐安定；背景：深夜省道边土坎下，狗群歇脚，远处夜色深沉；构图与镜头：中景、黑爷居中、小白狗与旺财在两侧、三分法构图、50mm中焦正面机位静态 mid_shot；光线：月光冷白，勾勒出老狗温和的神态；情绪：温和、长者安抚幼小的暖意；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s03_sh01",
+      "scene_id": "ep09_s03",
+      "sequence": 8,
+      "description": "杂木林里漆黑一片，风穿过树梢呜呜作响，猫头鹰低叫。",
+      "visual_elements": {
+        "characters": ["wang_cai", "hei_ye", "dog_white"],
+        "locations": ["loc_yelin"],
+        "props": []
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "slow_pan_right",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_forest_dark",
+      "emotion": "不安",
+      "duration_sec": 4.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：狗群（旺财打头、黑爷随后、小白狗紧贴）缓缓走进漆黑的杂木林，身影在树影间若隐若现；背景：夜林深夜，树影幢幢，风穿过树梢呜呜作响，高处一只猫头鹰的眼睛泛着微光，地面落叶与土路模糊难辨；构图与镜头：广角全景、树干形成重复的竖线条制造压迫、狗群在画面下部行走、35mm广角高位缓慢右移摇摄 wide_shot；光线：几乎全黑的夜色，只有稀疏月光从树冠缝隙漏下；情绪：不安、走进未知黑暗的忐忑；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s03_sh02",
+      "scene_id": "ep09_s03",
+      "sequence": 9,
+      "description": "旺财内心独白：好黑……比屠狗场的夜还黑……它焦躁地呜了两声。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_yelin"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_forest_dark",
+      "emotion": "焦躁",
+      "duration_sec": 4.6,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：小黄狗旺财的特写，在漆黑的林间停下脚步，耳朵低垂，眼神不安地扫视四周，喉间焦躁地低呜；背景：夜林深处，几乎伸手不见五指，只有几缕月光从树冠缝隙漏下，树影在风里晃动；构图与镜头：特写、旺财的脸居中、背景树影虚化、中心构图、85mm长焦正面机位静态 close_up；光线：极暗，月光在旺财眼睛里折出一点微光；情绪：焦躁、被黑暗吞没的不安；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s03_sh03",
+      "scene_id": "ep09_s03",
+      "sequence": 10,
+      "description": "黑爷沉稳地说：别乱跑，大黄走散了——它认得土坡，天亮会追上。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai", "dog_white"],
+        "locations": ["loc_yelin"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_forest_dark",
+      "emotion": "沉稳",
+      "duration_sec": 5.3,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷在夜林中停下脚步，沉稳地回望来路，眼神平静地安抚大家别乱跑；旺财和小白狗停在它身边，竖耳听着；背景：夜林深夜，树干在黑暗中层层叠叠，来路已被夜色吞没；构图与镜头：中景、黑爷居左回望、旺财与小白狗在右侧、树干作背景、三分法构图、50mm中焦侧面机位静态 mid_shot；光线：月光稀疏，黑爷灰白的毛发在暗处泛着微光；情绪：沉稳的定海神针、迷路中的一丝安定；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s03_sh04",
+      "scene_id": "ep09_s03",
+      "sequence": 11,
+      "description": "旺财发慌地内心独白：不要怕……甜甜说，迷路了就站在原地等大人。可这里没有大人……夜风穿过树梢，猫头鹰又低叫了一声。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_yelin"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_forest_dark",
+      "emotion": "发慌",
+      "duration_sec": 6.8,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财独自停在夜林中，眼神发慌地望向四周，回忆里甜甜的话在耳边回响（画面一角浮现红裙小女孩的虚影，温柔又遥远）；背景：夜林深夜，树影幢幢，风穿过树梢，高处猫头鹰的眼睛又亮了一下；构图与镜头：特写、旺财发慌的脸为主、甜甜回忆虚影在右上角、三分法构图、85mm长焦正面机位静态 close_up；光线：极暗夜色中，回忆虚影泛着一点暖光，与冷暗林间对比；情绪：发慌、孤独无助中抓住一句甜甜的话当救命稻草；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s04_sh01",
+      "scene_id": "ep09_s04",
+      "sequence": 12,
+      "description": "旺财趴在地上，鼻子贴着地面，越嗅越慌。它慌张地呜咽：不对……哪里都不对……",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_yelin"],
+        "props": []
+      },
+      "camera": {
+        "angle": "low_angle",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_forest_dark",
+      "emotion": "慌张",
+      "duration_sec": 7.2,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：小黄狗旺财趴在地上，鼻尖贴着湿润的泥土一路嗅过去，越嗅越慌，耳朵紧贴，眼神惶恐地呜咽；背景：夜林深处，地面落叶与泥土，四周树影漆黑，月光微弱；构图与镜头：特写、旺财伏地嗅鼻的侧面、鼻尖贴着地面、三分法构图、85mm长焦低机位静态 close_up；光线：月光从树冠缝隙漏下一线，照在湿润的泥土与旺财的鼻尖上；情绪：慌张、气味全乱了的迷路恐惧；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s04_sh02",
+      "scene_id": "ep09_s04",
+      "sequence": 13,
+      "description": "黑爷沉稳地指点：别慌，闻土腥气——河在低处，家在平原那边。旺财心酸地想起：家……甜甜站在门口，喊我吃饭的样子……夜风里飘来稻香，混合着泥土和水的味道。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai", "tian_tian"],
+        "locations": ["loc_yelin"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_forest_dawn_hint",
+      "emotion": "心酸",
+      "duration_sec": 9.1,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷沉稳地抬头嗅风，指点河在低处、家在平原那边；旺财闭上眼睛回忆，画面一角浮现甜甜家门前暖光里的回忆虚影：红裙小女孩站在门口招手喊它吃饭；背景：夜林深夜转凌晨，风里仿佛飘着稻香，树梢间天色微微透亮；构图与镜头：中景、黑爷居左、旺财居中闭眼、甜甜回忆虚影在右上、三分法构图、50mm中焦侧面机位静态 mid_shot；光线：夜色渐微，回忆虚影泛着暖黄光，与冷蓝林间形成对比；情绪：心酸、家的味道钻进心里的刺痛与暖意；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s04_sh03",
+      "scene_id": "ep09_s04",
+      "sequence": 14,
+      "description": "旺财惊喜地呜了一声。黑爷温和地说：稻香？那是村子那边的味道，鼻子没骗你。",
+      "visual_elements": {
+        "characters": ["wang_cai", "hei_ye"],
+        "locations": ["loc_yelin"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_forest_dawn_hint",
+      "emotion": "惊喜",
+      "duration_sec": 5.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财猛地抬头，鼻尖朝着稻香飘来的方向，眼神亮起惊喜的光；黑爷在旁温和地看着它，确认鼻子没骗它；背景：夜林，风从村子方向吹来，树梢微动，天色开始出现极淡的亮意；构图与镜头：特写、旺财抬头嗅风的侧脸、黑爷在画面边缘、三分法构图、85mm长焦正面机位静态 close_up；光线：夜色未褪但透出一点点晨光，旺财的眼睛里有光；情绪：惊喜、黑暗中终于抓到方向的雀跃；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s04_sh04",
+      "scene_id": "ep09_s04",
+      "sequence": 15,
+      "description": "旺财欣喜地内心独白：是稻香！是田埂那边的稻香！",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_yelin"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_forest_dawn_hint",
+      "emotion": "欣喜",
+      "duration_sec": 3.6,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：小黄狗旺财的特写，鼻尖微扬，闭眼深深吸了一口气，神情从慌乱转为欣喜，尾巴轻轻摇动；背景：夜林，风把稻香送来，树梢间天色透出淡淡晨曦，林间浮起薄雾；构图与镜头：特写、旺财嗅稻香的陶醉神态居中、背景薄雾虚化、中心构图、85mm长焦正面机位静态 close_up；光线：晨光初现的微光从树梢漏下，勾出旺财的轮廓；情绪：欣喜、绝处逢生的方向感、回家的信念被点燃；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s05_sh01",
+      "scene_id": "ep09_s05",
+      "sequence": 16,
+      "description": "林边空地，旺财睁开眼，朝着稻香的方向迈出第一步。它想起甜甜说过的话，内心坚定：甜甜说过……旺财的鼻子最灵了。只要还有这个味道，我就不会走丢。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_yelin"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "50mm",
+        "movement": "slow_dolly_in",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "dawn_first_light",
+      "emotion": "坚定",
+      "duration_sec": 12.7,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财站在林边空地上，睁开眼，深吸一口气，朝着稻香飘来的方向迈出坚定的第一步，眼神明亮；背景：黎明前的林边空地，树梢上透出第一缕微光，薄雾在林间流动，远处地平线微亮；构图与镜头：中景、旺财迈步的侧身、身后是夜林、前方是微亮的空地、三分法构图、50mm中焦正面机位缓慢推近 mid_shot；光线：黎明第一缕微光从树梢漏下，画面由冷转暖的过渡；情绪：坚定、相信自己的鼻子、甜甜的话成为脚下的力量；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s05_sh02",
+      "scene_id": "ep09_s05",
+      "sequence": 17,
+      "description": "黑爷沉稳地说：河。过了河，就是大路，就能回家了。小白狗怯怯地说：水好急……旺财坚定地呜了一声。",
+      "visual_elements": {
+        "characters": ["hei_ye", "dog_white", "wang_cai"],
+        "locations": ["loc_yelin"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "dawn_first_light",
+      "emotion": "坚定",
+      "duration_sec": 7.0,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷望着林外远处的河面，沉稳地指点过了河就是大路；小白狗缩在旺财身边怯怯地说水好急；旺财挺直背脊，坚定地呜了一声，目光望向河的方向；背景：林边空地黎明，远处隐约可见河面的微光，薄雾未散，天色渐亮；构图与镜头：中景、黑爷居左指路、旺财居中、小白狗在右侧、三分法构图、50mm中焦侧面机位静态 mid_shot；光线：黎明微光渐亮，河面泛着淡淡天光；情绪：沉稳的指引与坚定的回应、过河的决心；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s05_sh03",
+      "scene_id": "ep09_s05",
+      "sequence": 18,
+      "description": "大黄狗从林间钻出，兴奋地叫：汪！闻到稻香……一路追上来的！回忆里甜甜温柔的声音响起：旺财——等你回家！",
+      "visual_elements": {
+        "characters": ["dog_huang", "tian_tian"],
+        "locations": ["loc_yelin"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "dawn_first_light",
+      "emotion": "兴奋",
+      "duration_sec": 5.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：大黄狗从林间枝叶间钻出来，鼻尖沾着露水，兴奋地吠叫报喜；画面一角浮现甜甜的回忆虚影：红裙小女孩站在晨光里的家门前，温柔地招手说等你回家；背景：黎明的林边空地，晨光渐亮，薄雾将散，枝叶上挂着露珠；构图与镜头：特写、大黄狗钻出林的兴奋神情、甜甜回忆虚影在右上角、三分法构图、85mm长焦正面机位静态 close_up；光线：晨光暖意渐起，回忆虚影与晨光融为一体；情绪：兴奋的归队、甜甜的声音在归途上陪伴；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    },
+    {
+      "shot_id": "ep09_s05_sh04",
+      "scene_id": "ep09_s05",
+      "sequence": 19,
+      "description": "黑爷郑重地说：天亮之前，别停。黎明前的第一缕微光，从树梢漏下来。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai", "dog_white", "dog_huang"],
+        "locations": ["loc_yelin"],
+        "props": []
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "slow_dolly_back",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "dawn_first_light",
+      "emotion": "郑重",
+      "duration_sec": 2.3,
+      "transition_in": "硬切",
+      "transition_out": "淡出",
+      "drawing_prompt": "主体：狗群（黑爷、旺财、小白狗、大黄狗）站在林边空地上，面朝黎明微亮的方向，黑爷郑重地说出天亮之前别停；旺财昂首向前；背景：黎明的林边空地，第一缕微光从树梢漏下，薄雾散开，前方的路隐约可见；构图与镜头：广角全景、狗群在画面下部排成一列、树梢漏下的光柱作背景、三分法构图、35mm广角高位缓慢后拉 wide_shot；光线：黎明微光渐亮，冷蓝夜色正在被暖意取代；情绪：郑重的嘱托、天快亮的希望，结尾情绪钩子（离家又近一步）；美术风格：手绘水彩治愈系日系动漫，柔和笔触，2D动画非真人，清透上色。"
+    }
+  ],
+  "ip_summary": {
+    "characters": ["wang_cai", "hei_ye", "dog_white", "dog_huang", "tian_tian"],
+    "scenes": ["ep09_s01", "ep09_s02", "ep09_s03", "ep09_s04", "ep09_s05"],
+    "locations": ["loc_shengdao", "loc_yelin"],
+    "props": ["prop_ludeng", "prop_paishuigou"],
+    "bgm": ["bgm_ep09_opening", "bgm_ep09_ending"],
+    "music": []
+  }
+}

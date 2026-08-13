@@ -1,0 +1,469 @@
+{
+  "episode_id": "ep01",
+  "shots": [
+    {
+      "shot_id": "ep01_s01_sh01",
+      "scene_id": "ep01_s01",
+      "sequence": 1,
+      "description": "灰蒙蒙的雨幕笼罩着青禾村，石板路被雨水洗得发亮，远处的炊烟连成一片水汽。甜甜撑着红伞走在村口石板路上，小声嘀咕今天雨怎么这么大，雨声沙沙，远处传来几声犬吠。",
+      "visual_elements": {
+        "characters": ["tian_tian"],
+        "locations": ["loc_qinghe_village"],
+        "props": ["prop_red_umbrella"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "separation_rain",
+      "emotion": "无奈",
+      "duration_sec": 6.7,
+      "transition_in": "淡入",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：8岁小女孩甜甜，齐刘海短发、圆脸、穿红色连衣裙和白色布鞋，撑着红色小伞走在雨中，表情有些无奈；背景：青禾村村口石板路，雨水把石板洗得发亮，远处炊烟连成水汽，灰蓝色调雨天傍晚；构图与镜头：正面平视广角全景（35mm，wide_shot，镜头静止）；光线：雨天冷灰调、光线柔和偏冷；情绪：清冷无奈中带一点寂寞；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s01_sh02",
+      "scene_id": "ep01_s01",
+      "sequence": 2,
+      "description": "甜甜惊讶地发现路边蜷着一只小黄狗，旺财抬起头，耳朵耷拉着，浑身泥水，往后退了半步，眼神里藏不住害怕，发出低低的呜咽声。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_qinghe_village"],
+        "props": ["prop_red_umbrella"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "separation_rain",
+      "emotion": "惊讶",
+      "duration_sec": 6.7,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：小黄狗旺财，黄色短毛土狗、垂耳、右耳有一个缺口，浑身泥水、耳朵耷拉、眼神害怕地往后退半步；甜甜撑着红伞蹲在雨里，惊讶地低头看着它；背景：雨天青禾村石板路，雨水溅起水花，灰蓝色调；构图与镜头：正面特写（85mm，close_up，镜头静止），狗与女孩占画面主体；光线：雨天冷灰逆光，雨点加重悲伤感；情绪：惊讶中透着怜惜，狗的眼神藏着恐惧；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s01_sh03",
+      "scene_id": "ep01_s01",
+      "sequence": 3,
+      "description": "甜甜蹲下身温柔地说别怕，我不是坏人。雨水顺着伞沿滴落，她慢慢向旺财伸出手。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_qinghe_village"],
+        "props": ["prop_red_umbrella"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "85mm",
+        "movement": "slow_dolly_in",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "separation_rain",
+      "emotion": "温柔",
+      "duration_sec": 2.7,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜蹲在雨中，红色连衣裙被雨打湿边角，她一边温柔地说着话一边缓缓伸出小手；旺财缩成一团抬头望着她，耳朵微颤；背景：屋檐与石板路，雨水拉成细线，灰蓝湿润的雨天傍晚；构图与镜头：俯拍柔和特写（85mm，close_up，镜头缓慢推进）；光线：雨天冷灰柔光，伞下的脸被微光点亮；情绪：温柔、安抚、试探着靠近；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s01_sh04",
+      "scene_id": "ep01_s01",
+      "sequence": 4,
+      "description": "雷声从远处滚过，旺财吓得缩了缩身子，甜甜忙把它往伞下护，雨幕里两个小小的身影靠在一起。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_qinghe_village"],
+        "props": ["prop_red_umbrella"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "wide_shot"
+      },
+      "composition": "centered",
+      "lighting": "separation_storm",
+      "emotion": "不安",
+      "duration_sec": 2.0,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜撑着红伞蹲在雨中护住小黄狗旺财，旺财被雷声吓得缩起身体；背景：青禾村雨天村口，石板路反着灰蓝水光，远处阴云滚动，雨幕斜织；构图与镜头：俯拍大全景（35mm，wide_shot，镜头静止），两个小小身影居画面中心；光线：雷雨前阴沉冷调，画面灰蒙；情绪：不安、紧张、相依为命；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s02_sh01",
+      "scene_id": "ep01_s02",
+      "sequence": 5,
+      "description": "甜甜把小黄狗抱到屋檐下，从书包里翻出一块花生糖，掰成两半，一半放在手心递了过去，怜惜地问它饿坏了吧、你也没有家吗。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_qinghe_village"],
+        "props": ["prop_school_bag", "prop_peanut_candy"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "separation_soft",
+      "emotion": "怜惜",
+      "duration_sec": 6.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜蹲在屋檐下，从书包里翻出花生糖掰成两半，把一半放在手心伸向旺财，眼神怜惜；旺财湿漉漉地望着她，鼻尖轻嗅；背景：青禾村路边屋檐下，雨势渐小，屋檐滴着水珠，灰蓝与微暖交错的雨天；构图与镜头：正面近景（50mm，close_up，镜头静止）；光线：雨后柔和的天光，屋檐水珠反着微光；情绪：怜惜、试探、小心翼翼的爱；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s02_sh02",
+      "scene_id": "ep01_s02",
+      "sequence": 6,
+      "description": "旺财试探着发出轻轻的一声呜，雨渐渐变小，屋檐滴水的声响变得清晰。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_qinghe_village"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "100mm",
+        "movement": "static",
+        "framing": "extreme_close_up"
+      },
+      "composition": "centered",
+      "lighting": "separation_soft",
+      "emotion": "试探",
+      "duration_sec": 1.2,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：小黄狗旺财的特写，黄色短毛、垂耳、右耳有缺口，睁着湿润的大眼睛，轻轻发出一声试探的呜咽，鼻尖挂着水珠；背景：虚化的屋檐与雨帘，屋檐水滴欲落未落；构图与镜头：正面极特写（100mm，extreme_close_up，镜头静止）；光线：雨天柔和的散射光，水珠微光；情绪：试探、警惕、一点点被触动；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s02_sh03",
+      "scene_id": "ep01_s02",
+      "sequence": 7,
+      "description": "甜甜期待地说你跟我回家吧，我养你。她伸手摸了摸旺财湿漉漉的头，旺财没有躲，反而轻轻蹭了蹭她的手指，雨声仿佛在这一刻安静下来。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_qinghe_village"],
+        "props": ["prop_red_umbrella"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "slow_dolly_in",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "dusk_soft_warm",
+      "emotion": "期待",
+      "duration_sec": 6.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜蹲着，红色连衣裙，伸手轻轻抚摸旺财湿漉漉的头，眼神期待发亮；旺财不躲反蹭，主动贴近她的小手；背景：屋檐下，雨渐渐停歇，暮色微光透进来，石板路上积水映着天光；构图与镜头：侧面近景（50mm，close_up，镜头缓慢推近）；光线：雨后暮色柔光，冷灰里透出一丝暖意；情绪：期待、温柔、信任正在建立；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s02_sh04",
+      "scene_id": "ep01_s02",
+      "sequence": 8,
+      "description": "甜甜欢喜地给小狗取名旺财，说旺财我们走。旺财心里感动地想：旺财……这是我的名字，她给我取的名字。轻快的前奏音乐响起。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_qinghe_village"],
+        "props": ["prop_red_umbrella", "prop_school_bag"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "35mm",
+        "movement": "tracking",
+        "framing": "mid_shot"
+      },
+      "composition": "leading_lines",
+      "lighting": "dusk_warm",
+      "emotion": "欢喜",
+      "duration_sec": 4.6,
+      "transition_in": "硬切",
+      "transition_out": "叠化",
+      "drawing_prompt": "主体：甜甜抱着或领着小黄狗旺财走在回家的石板路上，满脸欢喜地说着话，红色裙摆轻扬；旺财跟在她脚边，尾巴轻轻摇动，眼睛里闪着感动的光；背景：雨后青禾村暮色街道，石板路延伸向亮灯的村庄，天边透出暖橙色；构图与镜头：正面中景跟拍（35mm，mid_shot，镜头跟随人物前行）；光线：雨停后暮色暖光，橙与蓝交织；情绪：欢喜、感动、命运相连的瞬间；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s03_sh01",
+      "scene_id": "ep01_s03",
+      "sequence": 9,
+      "description": "雨停了，甜甜抱着旺财绕到晒谷场边，小声说嘘——到家了，妈妈在做饭，我们悄悄从后院进去。远远看见自家堂屋亮着灯，厨房飘出炒菜香味。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_red_umbrella"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "slow_dolly_back",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "golden_hour",
+      "emotion": "紧张",
+      "duration_sec": 8.9,
+      "transition_in": "叠化",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜抱着旺财猫着腰悄悄绕到晒谷场边，竖起手指做嘘声状，神情紧张又期待；旺财安静缩在她怀里；背景：青禾村甜甜家村口二层小楼，堂屋亮着暖黄灯光，厨房飘出炒菜的香气，雨后暮色天空，晒谷场石板泛着水光；构图与镜头：俯拍大全景（35mm，wide_shot，镜头缓慢后拉）；光线：雨停后的金色暮光，屋内暖黄灯光成为视觉暖点；情绪：紧张、偷偷摸摸的兴奋、归家的期待；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s03_sh02",
+      "scene_id": "ep01_s03",
+      "sequence": 10,
+      "description": "旺财在心里温暖地想：第一次……有人护着我回家。它把头往甜甜怀里埋了埋。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "golden_hour",
+      "emotion": "温暖",
+      "duration_sec": 2.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：小黄狗旺财被甜甜抱在怀里，特写它埋头的动作，黄色短毛上还带着水珠，右耳缺口清晰，眼睛微微湿润，神情温暖感动；背景：虚化的暮色村庄与暖黄灯光的家；构图与镜头：正面特写（85mm，close_up，镜头静止）；光线：金色暮光从侧面打来，毛发边缘泛暖光；情绪：温暖、安心、第一次被保护的感觉；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s03_sh03",
+      "scene_id": "ep01_s03",
+      "sequence": 11,
+      "description": "晚风把厨房的香气吹过来，旺财安静地缩在甜甜怀里，觉得冷意一点点退去了。远处传来妈妈炒菜的锅铲声。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_red_umbrella"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "slow_dolly_in",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "golden_hour",
+      "emotion": "安心",
+      "duration_sec": 4.0,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜抱着旺财站在晒谷场边，侧身望向亮灯的家，晚风拂过她的短发；旺财安静缩在她怀里，闭眼嗅着空气中的饭香；背景：雨后暮色的村口晒谷场，二层小楼窗口透出暖光，炊烟袅袅；构图与镜头：侧面中景（50mm，mid_shot，镜头缓慢推进）；光线：金色暮光与暖黄窗光交织，画面温暖；情绪：安心、归属感、家的味道；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s04_sh01",
+      "scene_id": "ep01_s04",
+      "sequence": 12,
+      "description": "甜甜把旺财带进后院，用旧毛巾把它擦干，放进铺了小毯子的纸箱里，小声说这里以后就是你的家了，不许叫哦，妈妈会发现的。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_towel", "prop_cardboard_box", "prop_blanket"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_warm",
+      "emotion": "温柔",
+      "duration_sec": 9.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜蹲在后院给旺财擦干身体，用旧毛巾轻轻擦拭它湿漉漉的黄毛，动作温柔；旺财乖乖坐着，眼睛望着她；背景：雨后夜晚的甜甜家后院，狗屋旁放着铺了小毯子的纸箱，堂屋窗户透出暖黄灯光，月光洒落；构图与镜头：俯拍中景（50mm，mid_shot，镜头静止）；光线：夜色中月光冷白与窗内暖黄灯光对比，主体被暖光笼罩；情绪：温柔、小心翼翼、安置一个家的郑重感；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s04_sh02",
+      "scene_id": "ep01_s04",
+      "sequence": 13,
+      "description": "旺财乖巧地轻轻呜了一声，甜甜开心地夸它旺财真聪明。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_cardboard_box"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_warm",
+      "emotion": "开心",
+      "duration_sec": 2.8,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：纸箱里的旺财乖乖坐着，歪着头轻轻呜了一声，眼神乖巧；甜甜蹲在旁边开心地拍手夸奖，圆脸笑成弯弯的月牙；背景：夜晚后院，纸箱旁暖黄灯光与月光交织，画面温馨；构图与镜头：正面特写（85mm，close_up，镜头静止）；光线：暖黄灯光为主光源，柔和温馨；情绪：开心、乖巧、初来乍到的信赖；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s04_sh03",
+      "scene_id": "ep01_s04",
+      "sequence": 14,
+      "description": "甜甜认真地对着旺财说：旺财，以后你就是我最好的朋友了，我们永远在一起，好不好？",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_cardboard_box"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "slow_dolly_in",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_warm",
+      "emotion": "认真",
+      "duration_sec": 6.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜与纸箱里的旺财四目相对，她伸出一根小手指，表情认真郑重，像在许下一个约定；旺财竖起耳朵认真听，鼻尖轻点她的手指；背景：夜晚后院，狗屋纸箱，暖黄灯光把两个身影圈在一起；构图与镜头：正面特写（85mm，close_up，镜头缓慢推进）；光线：暖黄灯光下的柔和夜色；情绪：认真、郑重、许下永远在一起的约定；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s04_sh04",
+      "scene_id": "ep01_s04",
+      "sequence": 15,
+      "description": "月光洒进后院，旺财把头轻轻靠在甜甜的手心里，夜虫声温柔地响着，月亮从云后露出。舒缓温馨的钢琴音乐响起。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_cardboard_box"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "slow_dolly_back",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_moonlight",
+      "emotion": "安宁",
+      "duration_sec": 4.0,
+      "transition_in": "叠化",
+      "transition_out": "叠化",
+      "drawing_prompt": "主体：甜甜蹲在纸箱边，旺财把头轻轻靠在她摊开的手心里，闭眼安心；月亮从云后露出，月光洒满后院；背景：雨后的夜晚后院，狗屋纸箱、小毯子，院墙边夜虫点点萤光，冷蓝夜色与暖黄窗光交融；构图与镜头：俯拍大全景（35mm，wide_shot，镜头缓慢后拉）；光线：冷白月光与暖黄灯光交织的静谧夜色；情绪：安宁、温馨、雨过天晴的归属感；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s05_sh01",
+      "scene_id": "ep01_s05",
+      "sequence": 16,
+      "description": "屋内灯光明亮，妈妈端着碗从厨房出来，发现后门开着，疑惑地喊甜甜你在后院做什么，天这么晚了还不进来。",
+      "visual_elements": {
+        "characters": ["mom"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_bowl"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_interior_warm",
+      "emotion": "疑惑",
+      "duration_sec": 8.9,
+      "transition_in": "叠化",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：妈妈扎低马尾、穿碎花围裙，端着碗从厨房走出来，发现后门开着，微微皱眉疑惑地朝门外喊话；背景：甜甜家堂屋，室内灯光温暖明亮，饭桌与灶台，后门外是夜色中的后院；构图与镜头：正面中景（50mm，mid_shot，镜头静止）；光线：室内暖黄灯光，门框处形成明暗对比；情绪：疑惑、隐隐察觉不对劲；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s05_sh02",
+      "scene_id": "ep01_s05",
+      "sequence": 17,
+      "description": "甜甜慌张地说没、没什么！我马上进来！妈妈警觉地问……那是什么？音乐骤停，只剩风吹后院的声音。",
+      "visual_elements": {
+        "characters": ["tian_tian", "mom"],
+        "locations": ["loc_tian_home"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "handheld",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_interior",
+      "emotion": "慌张",
+      "duration_sec": 4.5,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜站在门边，双手背在身后，表情慌张心虚，眼睛瞟向后院；妈妈站在堂屋灯光下，眉头微皱，目光警觉地看向她身后；背景：堂屋与后门交界处，室内灯光与门外夜色明暗交界；构图与镜头：正面特写（85mm，close_up，轻微手持晃动感）；光线：室内暖光与门外冷色形成对比，氛围骤紧；情绪：慌张、警觉、秘密要被发现的一瞬；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s05_sh03",
+      "scene_id": "ep01_s05",
+      "sequence": 18,
+      "description": "甜甜心虚地承认捡了一只小狗，妈妈严厉地说捡什么狗，咱家不能养狗，明天送走。",
+      "visual_elements": {
+        "characters": ["tian_tian", "mom"],
+        "locations": ["loc_tian_home"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_interior",
+      "emotion": "心虚",
+      "duration_sec": 6.7,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜低着头绞着手指，声音越来越小，神情心虚；妈妈双手叉腰站在灯光下，表情严厉，语气不容商量；背景：甜甜家堂屋，暖黄灯光下，饭桌与碗筷清晰；构图与镜头：正面双人特写（85mm，close_up，镜头静止）；光线：室内暖黄灯光，妈妈侧脸被灯光照得严厉；情绪：心虚、委屈与严厉的对抗；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep01_s05_sh04",
+      "scene_id": "ep01_s05",
+      "sequence": 19,
+      "description": "甜甜倔强地大喊我不！旺财没有家，我答应了要养它！夜风里旺财轻轻呜了一声，仿佛在说别赶我走。画面定格，夜风低鸣。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_cardboard_box"]
+      },
+      "camera": {
+        "angle": "low_angle",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "extreme_close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_cold",
+      "emotion": "倔强",
+      "duration_sec": 8.7,
+      "transition_in": "硬切",
+      "transition_out": "淡出",
+      "drawing_prompt": "主体：以旺财的视角仰拍，甜甜咬紧嘴唇、眼里含泪、倔强地大声喊出我不，红色连衣裙在夜风中轻轻晃动；前景是纸箱里旺财湿润的眼睛，含着不舍与害怕；背景：夜晚后院虚化的灯火与冷色夜色；构图与镜头：低角度极特写（85mm，extreme_close_up，镜头静止，画面定格感）；光线：冷调夜色，灯光在泪光中碎成光点；情绪：倔强、不舍、悲伤与守护的决心，结尾情绪钩子；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    }
+  ],
+  "ip_summary": {
+    "characters": ["tian_tian", "wang_cai", "mom"],
+    "scenes": ["ep01_s01", "ep01_s02", "ep01_s03", "ep01_s04", "ep01_s05"],
+    "locations": ["loc_qinghe_village", "loc_tian_home"],
+    "props": ["prop_red_umbrella", "prop_school_bag", "prop_peanut_candy", "prop_towel", "prop_cardboard_box", "prop_blanket", "prop_bowl"],
+    "bgm": ["bgm_ep01_opening", "bgm_ep01_ending", "bgm_ep01_warm_piano"],
+    "music": []
+  }
+}

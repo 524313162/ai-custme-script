@@ -1,0 +1,429 @@
+{
+  "episode_id": "ep08",
+  "scenes": [
+    {
+      "scene_id": "ep08_s01",
+      "scene_title": "屠狗场(深夜·月光)",
+      "shots": [
+        {
+          "shot_id": "ep08_s01_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "守夜人歪在椅子上打鼾,鼾声在空荡的场子里回荡。旺财的眼睛亮得像两粒火星。",
+              "duration_sec": 5.0
+            }
+          ],
+          "sfx": [
+            { "description": "守夜人打鼾声在空场子里回荡", "timing": "0.0s, 2.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep08_s01_sh02",
+          "shot_type": "extreme_close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "甜甜说过,越是怕的时候,越要把眼睛睁大。",
+              "type": "inner_monolog",
+              "emotion": "坚定",
+              "tempo": "slow",
+              "duration_sec": 4.7
+            }
+          ],
+          "sfx": [
+            { "description": "旺财牙齿一点点用力,纤维一根根崩断的细微声响", "timing": "2.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep08_s01_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "别出声……再坚持一下……就差一点了。",
+              "type": "inner_monolog",
+              "emotion": "紧张",
+              "tempo": "fast",
+              "duration_sec": 3.7
+            }
+          ],
+          "sfx": [
+            { "description": "锈锁脱落的闷响,守夜人鼾声一顿,又继续", "timing": "2.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep08_s01_sh04",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "……绳子断了!快!",
+              "type": "inner_monolog",
+              "emotion": "激动",
+              "tempo": "fast",
+              "duration_sec": 1.7
+            },
+            {
+              "char_id": "hei_ye",
+              "line": "绳结咬完了就咬锁,别停。我在这儿看着。",
+              "type": "speech",
+              "emotion": "沉稳",
+              "tempo": "slow",
+              "duration_sec": 4.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep08_s02",
+      "scene_title": "屠狗场走廊(深夜)",
+      "shots": [
+        {
+          "shot_id": "ep08_s02_sh01",
+          "shot_type": "mid",
+          "narration": [
+            {
+              "text": "旺财顶开自己的笼门,又一只接一只顶开同伴的笼门。",
+              "duration_sec": 4.0
+            }
+          ],
+          "sfx": [
+            { "description": "锈铁门发出刺耳的响声,旺财连忙用身体抵住,屏住呼吸", "timing": "1.2s" }
+          ]
+        },
+        {
+          "shot_id": "ep08_s02_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "轻点!守夜的人耳朵尖。先开那扇破笼门,锈得最狠。",
+              "type": "speech",
+              "emotion": "急促",
+              "tempo": "fast",
+              "duration_sec": 5.7
+            },
+            {
+              "char_id": "dog_white",
+              "char_name": "小白狗",
+              "line": "呜……我不敢……我腿一直在抖……",
+              "type": "speech",
+              "emotion": "发抖",
+              "tempo": "slow",
+              "duration_sec": 2.9
+            }
+          ]
+        },
+        {
+          "shot_id": "ep08_s02_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜!呜!",
+              "type": "speech",
+              "emotion": "鼓励",
+              "tempo": "fast",
+              "duration_sec": 0.9
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "别怕,别怕……我们这么多人,一定能出去。",
+              "type": "inner_monolog",
+              "emotion": "坚定",
+              "tempo": "slow",
+              "duration_sec": 4.2
+            }
+          ]
+        },
+        {
+          "shot_id": "ep08_s02_sh04",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "别管它们,出来一只是一只!",
+              "type": "speech",
+              "emotion": "果断",
+              "tempo": "fast",
+              "duration_sec": 3.2
+            },
+            {
+              "char_id": "dog_white",
+              "char_name": "小白狗",
+              "line": "呜……我……我试试。",
+              "type": "speech",
+              "emotion": "努力",
+              "tempo": "slow",
+              "duration_sec": 1.7
+            },
+            {
+              "char_id": "dog_huang",
+              "char_name": "大黄狗",
+              "line": "汪!我准备好了!",
+              "type": "speech",
+              "emotion": "紧张",
+              "tempo": "fast",
+              "duration_sec": 1.9
+            }
+          ],
+          "sfx": [
+            { "description": "狗爪踩在锈铁上的轻响,一点点靠近西墙", "timing": "4.0s" }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep08_s03",
+      "scene_title": "西墙·狗洞(深夜)",
+      "shots": [
+        {
+          "shot_id": "ep08_s03_sh01",
+          "shot_type": "close",
+          "narration": [
+            {
+              "text": "狗群一只接一只从杂草盖着的狗洞钻出去。",
+              "duration_sec": 4.0
+            }
+          ],
+          "dialogue": [
+            {
+              "char_id": "dog_huang",
+              "char_name": "大黄狗",
+              "line": "呜!呜——卡住了!我……我太胖了!",
+              "type": "speech",
+              "emotion": "慌乱",
+              "tempo": "fast",
+              "duration_sec": 2.9
+            }
+          ],
+          "sfx": [
+            { "description": "草叶被扯断的声音,大黄狗四条腿乱蹬", "timing": "2.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep08_s03_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜——!",
+              "type": "speech",
+              "emotion": "用力",
+              "tempo": "fast",
+              "duration_sec": 0.7
+            },
+            {
+              "char_id": "hei_ye",
+              "line": "收肚子!收肚子!小子,使劲!",
+              "type": "speech",
+              "emotion": "急切",
+              "tempo": "fast",
+              "duration_sec": 2.9
+            },
+            {
+              "char_id": "hei_ye",
+              "line": "别慌!咬住它的皮,一起拽!",
+              "type": "speech",
+              "emotion": "急促",
+              "tempo": "fast",
+              "duration_sec": 2.9
+            }
+          ],
+          "sfx": [
+            { "description": "一声闷响,大黄狗终于滚了出来", "timing": "3.5s" }
+          ]
+        },
+        {
+          "shot_id": "ep08_s03_sh03",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "dog_white",
+              "char_name": "小白狗",
+              "line": "呜——我出来了!",
+              "type": "speech",
+              "emotion": "欢喜",
+              "tempo": "fast",
+              "duration_sec": 1.7
+            },
+            {
+              "char_id": "hei_ye",
+              "line": "走。我垫后。别回头。",
+              "type": "speech",
+              "emotion": "沉稳",
+              "tempo": "slow",
+              "duration_sec": 2.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep08_s04",
+      "scene_title": "屠狗场外·杂草丛(深夜)",
+      "shots": [
+        {
+          "shot_id": "ep08_s04_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "屠狗场里传来椅子翻倒的声音,狗贩子惊醒的吼声炸开。",
+              "duration_sec": 4.5
+            }
+          ],
+          "sfx": [
+            { "description": "追灯的光柱猛地扫过来,脚步声、吼声混成一片", "timing": "0.5s, 2.0s" }
+          ]
+        },
+        {
+          "shot_id": "ep08_s04_sh02",
+          "shot_type": "mid",
+          "dialogue": [
+            {
+              "char_id": "dog_thief",
+              "line": "跑了!都给我追!往西边去了!",
+              "type": "shout",
+              "emotion": "气急败坏",
+              "tempo": "fast",
+              "duration_sec": 3.2,
+              "voice_only": true
+            },
+            {
+              "char_id": "hei_ye",
+              "line": "散开跑!别挤在一起!",
+              "type": "speech",
+              "emotion": "果决",
+              "tempo": "fast",
+              "duration_sec": 2.4
+            }
+          ]
+        },
+        {
+          "shot_id": "ep08_s04_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呜——!",
+              "type": "speech",
+              "emotion": "决绝",
+              "tempo": "fast",
+              "duration_sec": 0.7
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "跑!往草丛里跑!",
+              "type": "inner_monolog",
+              "emotion": "紧张",
+              "tempo": "fast",
+              "duration_sec": 1.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "ep08_s05",
+      "scene_title": "省道边·土坡(深夜)",
+      "shots": [
+        {
+          "shot_id": "ep08_s05_sh01",
+          "shot_type": "wide",
+          "narration": [
+            {
+              "text": "狗群压着身子,在土坡后面的沟里连滚带爬。追灯的光柱扫过土坡顶端,又朝另一个方向去了。",
+              "duration_sec": 4.5
+            }
+          ],
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "呼……呼……",
+              "type": "speech",
+              "emotion": "喘息",
+              "tempo": "slow",
+              "duration_sec": 0.9
+            }
+          ],
+          "sfx": [
+            { "description": "追灯的光柱扫过土坡顶端,停了停,又朝另一个方向去了", "timing": "0.8s, 2.6s" }
+          ]
+        },
+        {
+          "shot_id": "ep08_s05_sh02",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "hei_ye",
+              "line": "……过了今晚,就没人追得上了。小子,你做到了。",
+              "type": "speech",
+              "emotion": "欣慰",
+              "tempo": "slow",
+              "duration_sec": 4.7
+            },
+            {
+              "char_id": "wang_cai",
+              "line": "甜甜……等我,我就快到家了。谁也不能把我们分开。",
+              "type": "inner_monolog",
+              "emotion": "心酸",
+              "tempo": "slow",
+              "duration_sec": 5.2
+            }
+          ]
+        },
+        {
+          "shot_id": "ep08_s05_sh03",
+          "shot_type": "close",
+          "dialogue": [
+            {
+              "char_id": "tian_tian",
+              "line": "旺财——等你回家!",
+              "type": "whisper",
+              "emotion": "温柔",
+              "tempo": "slow",
+              "duration_sec": 1.9
+            },
+            {
+              "char_id": "hei_ye",
+              "line": "看见那排灯了吗?往亮处走,人越多,狗贩子越不敢追。",
+              "type": "speech",
+              "emotion": "沉稳",
+              "tempo": "slow",
+              "duration_sec": 5.7
+            }
+          ]
+        },
+        {
+          "shot_id": "ep08_s05_sh04",
+          "shot_type": "wide",
+          "dialogue": [
+            {
+              "char_id": "wang_cai",
+              "line": "跑了这么远……离甜甜,又近了一步。",
+              "type": "inner_monolog",
+              "emotion": "希望",
+              "tempo": "slow",
+              "duration_sec": 3.7
+            }
+          ],
+          "sfx": [
+            { "description": "远处的路灯一盏接一盏亮向远方,像一条回家的引线", "timing": "1.0s" }
+          ]
+        }
+      ]
+    }
+  ],
+  "opening_theme": {
+    "title": "片头曲·越狱",
+    "style": "低沉的鼓点,铁链轻响,紧张氛围渐起",
+    "duration_sec": 10
+  },
+  "ending_theme": {
+    "title": "片尾曲·路灯引线",
+    "style": "舒缓钢琴,夜色中透出暖光",
+    "duration_sec": 10
+  }
+}

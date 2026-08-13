@@ -1,0 +1,445 @@
+{
+  "episode_id": "ep12",
+  "shots": [
+    {
+      "shot_id": "ep12_s01_sh01",
+      "scene_id": "ep12_s01",
+      "sequence": 1,
+      "description": "旺财沿着田埂一路狂奔回家，浑身是泥，毛结成一绺一绺，瘦得皮包骨，只有那双眼睛还是亮的。它喘着气停在门口石阶下，一眼就看见石阶上的甜甜。风过稻浪，虫鸣渐起。",
+      "visual_elements": {
+        "characters": ["wang_cai", "tian_tian"],
+        "locations": ["loc_cunko"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "35mm",
+        "movement": "tracking",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "golden_hour",
+      "emotion": "激动",
+      "duration_sec": 5.4,
+      "transition_in": "淡入",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财浑身是泥、毛结成一绺一绺、瘦得皮包骨，沿田埂狂奔到村口石阶下，喘着气停住，眼睛发亮地望着石阶上的甜甜；甜甜站在石阶上，红色连衣裙被夕阳染成暖橙；背景：黄昏的青禾村村口，金色稻浪、二层小楼、夕阳低垂，虫鸣渐起；构图与镜头：侧面广角跟拍（35mm，wide_shot，镜头跟随奔跑后定格在石阶前），田埂形成引导线；光线：黄昏暖金，逆光把一人一狗镀成金边；情绪：激动、长途跋涉的终点就在眼前；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s01_sh02",
+      "scene_id": "ep12_s01",
+      "sequence": 2,
+      "description": "甜甜激动地喊：旺财！旺财真的是你！我以为……我以为再也见不到你了！旺财委屈地呜呜叫着。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_cunko"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "slow_dolly_in",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "golden_hour",
+      "emotion": "激动",
+      "duration_sec": 6.6,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜蹲在石阶下，泪流满面地抱住旺财，激动地喊它的名字；旺财委屈地呜呜叫，湿漉漉的泥毛贴着她；背景：黄昏村口石阶，夕阳金光洒落，稻浪与二层小楼虚化在暖色里；构图与镜头：正面特写（85mm，close_up，镜头缓慢推近），女孩与狗紧紧相拥；光线：黄昏暖金，逆光勾勒拥抱轮廓；情绪：激动、重逢的泪水、委屈与喜悦交织；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s01_sh03",
+      "scene_id": "ep12_s01",
+      "sequence": 3,
+      "description": "旺财心里温柔地说：甜甜，我回来了。过了河，翻过山，摔过好多次。可只要想着你，再远也要回家。旺财抬起头，轻轻舔掉甜甜脸上的泪。夕阳把一人一狗的影子镀成金色。",
+      "visual_elements": {
+        "characters": ["wang_cai", "tian_tian"],
+        "locations": ["loc_cunko"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "85mm",
+        "movement": "slow_dolly_in",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "golden_hour",
+      "emotion": "温柔",
+      "duration_sec": 11.7,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财轻轻抬起头，温柔地舔掉甜甜脸上的泪；甜甜闭着眼把脸贴在它头上，笑容与泪水一起滑落；背景：黄昏石阶前，夕阳把一人一狗的影子拉长镀成金色，稻浪在风里发光；构图与镜头：侧面特写（85mm，close_up，镜头缓慢推近），舔泪的瞬间成为画面中心；光线：黄昏暖金，全片最暖的色调之一；情绪：温柔、千言万语化作一个动作的安慰；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s02_sh01",
+      "scene_id": "ep12_s02",
+      "sequence": 4,
+      "description": "妈妈听见动静跑出来，看见门口抱成一团的景象，鼻子一酸，背过身擦了擦眼睛，才转回来，声音故意硬邦邦的。",
+      "visual_elements": {
+        "characters": ["mom", "tian_tian", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "golden_hour",
+      "emotion": "动容",
+      "duration_sec": 4.0,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：妈妈扎低马尾、穿碎花围裙跑出家门，看见门口抱成一团的甜甜和旺财，鼻子一酸，背过身悄悄擦了擦眼睛，再转回来时故作镇定；背景：黄昏的甜甜家门口，石阶、晒谷场、暖黄的窗灯已亮起；构图与镜头：侧面中景（50mm，mid_shot，镜头静止），妈妈背影与门前拥抱形成呼应；光线：黄昏暖金与窗内暖黄灯光交织；情绪：动容、刀子嘴豆腐心的母亲；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s02_sh02",
+      "scene_id": "ep12_s02",
+      "sequence": 5,
+      "description": "妈妈心疼地说：瘦成这样……回来就好。锅里还给你留着骨头汤。甜甜得意地说：妈！我就说旺财会回来的！它答应过我的！",
+      "visual_elements": {
+        "characters": ["mom", "tian_tian", "wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "golden_hour",
+      "emotion": "心疼",
+      "duration_sec": 9.3,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：妈妈蹲下，伸手轻轻摸了摸旺财瘦骨嶙峋的背，语气心疼又带着克制的温柔；甜甜在旁边得意地扬起下巴，眼睛还红着；旺财乖乖坐着，耳朵微垂；背景：黄昏甜甜家门口，暖黄灯光从门内透出，晒谷场泛着金光；构图与镜头：正面特写（85mm，close_up，镜头静止），三人一狗形成温暖三角；光线：黄昏暖金与门内暖黄灯光；情绪：心疼、克制的温柔、失而复得的踏实；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s02_sh03",
+      "scene_id": "ep12_s02",
+      "sequence": 6,
+      "description": "阿婆乐呵呵地说：哟，旺财真回来了？这狗认家，是个好孩子！妈妈温柔地说：……先进屋。风大，别冻着它。",
+      "visual_elements": {
+        "characters": ["neighbor_apo", "mom", "wang_cai", "tian_tian"],
+        "locations": ["loc_tian_home"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "evening_warm",
+      "emotion": "温馨",
+      "duration_sec": 7.1,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：邻居阿婆乐呵呵地站在院门口夸旺财认家是个好孩子；妈妈温柔地催促大家进屋，顺手拢了拢旺财的毛；旺财乖乖被甜甜护着；背景：黄昏甜甜家门口，邻里围拢，暖灯初上，炊烟与稻香；构图与镜头：正面特写（85mm，close_up，镜头静止），人物环抱旺财构成暖意；光线：黄昏暖金转夜，灯光渐亮；情绪：温馨、邻里的人情味、被接纳的归属；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s02_sh04",
+      "scene_id": "ep12_s02",
+      "sequence": 7,
+      "description": "旺财开心地呜了一声。灶台上，骨头汤咕嘟咕嘟冒着热气。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_tian_home"],
+        "props": ["prop_gutou_tang"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "pan_right",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_warm_interior",
+      "emotion": "开心",
+      "duration_sec": 0.7,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财仰起头开心地呜了一声，眼睛弯成月牙；画面向右摇到灶台，砂锅里骨头汤咕嘟咕嘟冒着热气；背景：黄昏转夜的甜甜家厨房，暖黄灯光，灶台烟火气；构图与镜头：正面特写接右摇（85mm，close_up，镜头向右摇），从狗脸摇向汤锅；光线：室内暖黄灯光，蒸汽在光里氤氲；情绪：开心、家的味道、被爱包围的踏实；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s03_sh01",
+      "scene_id": "ep12_s03",
+      "sequence": 8,
+      "description": "甜甜打来热水，坐在小板凳上给旺财洗澡，混着泥的水顺着它的毛淌下来；擦干、吹风之后，它又蓬松了一圈。水声哗啦。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_yuanzi"],
+        "props": ["prop_pen", "prop_towel"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "50mm",
+        "movement": "static",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "evening_warm",
+      "emotion": "温柔",
+      "duration_sec": 4.2,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜坐在小板凳上给旺财洗澡，搓出满盆泥水；旺财乖乖坐着，闭眼享受；旁边放着干毛巾，洗完吹风后毛蓬松了一圈；背景：黄昏转夜的甜甜家院子，水盆、晾衣绳、狗屋，暖黄灯光从屋里透出；构图与镜头：俯拍中景（50mm，mid_shot，镜头静止），女孩与狗居于画面中心；光线：暮色转夜，暖黄灯与天边余晖交织；情绪：温柔、照顾、回家的洗去一身风尘；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s03_sh02",
+      "scene_id": "ep12_s03",
+      "sequence": 9,
+      "description": "甜甜心疼地说：你看你，脏得都快认不出来了……这一路，你到底是怎么走回来的呀？旺财心里温柔地说：过了河，翻过山，夜里又冷又怕。可只要想起你，我就想，再远也要回家。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_yuanzi"],
+        "props": ["prop_pen"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "slow_dolly_in",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_warm",
+      "emotion": "心疼",
+      "duration_sec": 14.1,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜捧着旺财的脸，心疼地低声问它这一路怎么走回来的，眼里含着泪光；旺财洗得干干净净，抬着头温柔地望着她；背景：夜晚的院子，暖黄灯光，水盆反着光；构图与镜头：正面特写（85mm，close_up，镜头缓慢推近），女孩与狗额头相抵的距离；光线：夜晚暖黄灯光，柔和温馨；情绪：心疼、温柔、所有辛苦都有了回答；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s03_sh03",
+      "scene_id": "ep12_s03",
+      "sequence": 10,
+      "description": "甜甜认真地说：以后我再也不让你离开我半步了。旺财欢快地汪了一声！",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_yuanzi"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_warm",
+      "emotion": "认真",
+      "duration_sec": 4.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜竖起一根手指，认真郑重地对旺财说再也不分开；旺财竖起耳朵，欢快地汪了一声，尾巴摇得飞快；背景：夜晚院子，暖黄灯光把两个身影圈在一起；构图与镜头：正面特写（85mm，close_up，镜头静止），拉钩般的郑重氛围；光线：夜晚暖黄灯光；情绪：认真、许下永不分离的承诺、欢快；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s04_sh01",
+      "scene_id": "ep12_s04",
+      "sequence": 11,
+      "description": "妈妈在院子里摆好饭桌，端出一大碗热腾腾的骨头汤，阿婆也端来一碟自家做的酱菜。一家人围坐，旺财把头埋进碗里吃得香甜。",
+      "visual_elements": {
+        "characters": ["mom", "tian_tian", "wang_cai", "neighbor_apo"],
+        "locations": ["loc_yuanzi"],
+        "props": ["prop_gutou_tang", "prop_jiang_cai"]
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "35mm",
+        "movement": "slow_dolly_back",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_warm",
+      "emotion": "温馨",
+      "duration_sec": 4.2,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：院子里摆开饭桌，妈妈端出大碗热腾腾的骨头汤，阿婆端来一碟酱菜；一家人围坐吃饭，旺财把头埋进碗里吃得香甜，甜甜在旁边笑着看它；背景：夜晚的甜甜家院子，饭桌上方一盏暖灯，四周虫鸣，远处夜色温柔；构图与镜头：俯拍大全景（35mm，wide_shot，镜头缓慢后拉），一桌一狗一院的团圆画面；光线：夜晚暖黄灯光为主光源，画面温暖明亮；情绪：温馨、团圆、久违的一顿饭；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s04_sh02",
+      "scene_id": "ep12_s04",
+      "sequence": 12,
+      "description": "妈妈温柔地说：别光看着，吃吧。你俩都瘦了。甜甜开心地说：旺财，多吃点，这是妈妈特意给你炖的！",
+      "visual_elements": {
+        "characters": ["mom", "tian_tian", "wang_cai"],
+        "locations": ["loc_yuanzi"],
+        "props": ["prop_gutou_tang"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_warm",
+      "emotion": "温馨",
+      "duration_sec": 7.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：妈妈温柔地给旺财的碗里添骨头汤，嘴上说着别光看着吃吧；甜甜在旁边开心地让旺财多吃点；旺财抬头望着她们，眼睛亮晶晶；背景：夜晚院子饭桌，热气腾腾的汤碗，暖黄灯光；构图与镜头：正面特写（85mm，close_up，镜头静止），汤碗与笑脸同框；光线：夜晚暖黄灯光，蒸汽氤氲；情绪：温馨、被全家疼爱的满足；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s04_sh03",
+      "scene_id": "ep12_s04",
+      "sequence": 13,
+      "description": "旺财满足地呜呜叫着，阿婆赞赏地说：这狗啊，赶了多少里路，全村的狗就数它最争气！",
+      "visual_elements": {
+        "characters": ["wang_cai", "neighbor_apo"],
+        "locations": ["loc_yuanzi"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_warm",
+      "emotion": "满足",
+      "duration_sec": 6.1,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财从碗里抬起沾着汤渍的嘴，满足地呜呜叫；阿婆坐在桌边，竖起大拇指乐呵呵地夸它争气；背景：夜晚院子饭桌，灯火通明，碗碟与汤锅热气腾腾；构图与镜头：正面特写（85mm，close_up，镜头静止），狗脸与阿婆笑脸同框；光线：夜晚暖黄灯光；情绪：满足、被全村认可的自豪、圆满的烟火气；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s04_sh04",
+      "scene_id": "ep12_s04",
+      "sequence": 14,
+      "description": "甜甜宠溺地说：傻瓜，你吃你吃，明天还有好多好多骨头汤呢！碗筷轻响，夜风送来稻香。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_yuanzi"],
+        "props": ["prop_gutou_tang"]
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "slow_dolly_in",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_warm",
+      "emotion": "宠溺",
+      "duration_sec": 4.7,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜用手托着腮，宠溺地看着旺财吃饭，笑着说还有好多好多骨头汤；旺财埋头吃得香甜，尾巴轻轻摇动；背景：夜晚院子饭桌，暖灯下碗筷轻响，夜风送来稻香，远处星光初现；构图与镜头：侧面中景（50mm，mid_shot，镜头缓慢推近），女孩的笑脸与狗埋头的侧影；光线：夜晚暖黄灯光，柔和温馨；情绪：宠溺、平淡日子里最幸福的时刻；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s05_sh01",
+      "scene_id": "ep12_s05",
+      "sequence": 15,
+      "description": "石阶上，甜甜指着夜空温柔地说：旺财你看，那颗星星！你说过它叫旺财星的对不对？夜空虫鸣，风轻轻吹过。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_cunko"],
+        "props": ["prop_wangcai_xing"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "35mm",
+        "movement": "slow_dolly_in",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_star",
+      "emotion": "温柔",
+      "duration_sec": 5.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：夜晚石阶上，甜甜坐在旺财身边，伸手指着夜空里那颗最亮的星，轻声说那是旺财星；旺财顺着她的手指抬头望向星星；背景：村口石阶，夜空繁星，一颗最亮的星悬在二层小楼上空，虫鸣与夜风；构图与镜头：正面广角（35mm，wide_shot，镜头缓慢推近），一人一狗与星空构成画面；光线：夜晚深蓝星空，月光与星光冷白，地面泛着微光；情绪：温柔、安宁、把归途写成星星的约定；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s05_sh02",
+      "scene_id": "ep12_s05",
+      "sequence": 16,
+      "description": "旺财心里温柔地说：甜甜，那不是星星。那是家的方向——也是我永远要回到你身边的方向。",
+      "visual_elements": {
+        "characters": ["wang_cai", "tian_tian"],
+        "locations": ["loc_cunko"],
+        "props": ["prop_wangcai_xing"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "slow_dolly_in",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_star",
+      "emotion": "温柔",
+      "duration_sec": 7.2,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财仰望夜空的侧脸特写，眼里映着那颗星星的光，神情温柔而笃定；甜甜的头轻轻靠在它身边，发丝被夜风拂动；背景：夜空繁星，最亮的那颗星映在旺财眼睛里，石阶上两人影子相依；构图与镜头：正面特写（85mm，close_up，镜头缓慢推近），星光成为眼睛里的高光；光线：夜晚深蓝星空，星光冷白柔和；情绪：温柔、笃定、家与方向的信念；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s05_sh03",
+      "scene_id": "ep12_s05",
+      "sequence": 17,
+      "description": "妈妈温柔地说：……以后，咱们再也不分开了。旺财安心地轻轻呜了一声。",
+      "visual_elements": {
+        "characters": ["mom", "wang_cai", "tian_tian"],
+        "locations": ["loc_cunko"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_warm",
+      "emotion": "安心",
+      "duration_sec": 3.6,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：妈妈也坐到石阶上，把手轻轻放在旺财背上，温柔地说以后再不分开了；旺财安心地把头靠在甜甜肩头，轻轻呜了一声；背景：夜晚石阶，家门口暖黄灯光与星光交织，画面温暖；构图与镜头：侧面特写（85mm，close_up，镜头静止），一家人的手与狗相依；光线：夜晚暖黄灯光为主，星光点缀；情绪：安心、圆满、再也不分离的承诺；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep12_s05_sh04",
+      "scene_id": "ep12_s05",
+      "sequence": 18,
+      "description": "画面渐暖定格，旺财把头靠在甜甜肩头，耳朵轻轻抖了一下——它又听见了风里的稻香。只是这一次，它知道，自己已经回家了。音乐收在最后一声温柔的钢琴音上。",
+      "visual_elements": {
+        "characters": ["wang_cai", "tian_tian"],
+        "locations": ["loc_cunko"],
+        "props": ["prop_wangcai_xing"]
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "wide_shot"
+      },
+      "composition": "centered",
+      "lighting": "night_warm_fade",
+      "emotion": "圆满",
+      "duration_sec": 4.0,
+      "transition_in": "叠化",
+      "transition_out": "淡出",
+      "drawing_prompt": "主体：旺财把头靠在甜甜肩头，耳朵轻轻抖了一下，闭眼嗅着风里的稻香，神情安然；甜甜轻轻环着它，嘴角带笑；背景：夜晚村口石阶，星空下二层小楼亮着暖灯，稻浪在夜色里温柔起伏，画面渐暖定格；构图与镜头：正面广角（35mm，wide_shot，镜头静止），一人一狗居中，星空与家构成全片最终画面；光线：夜晚暖黄灯光渐亮，星光柔化，画面收在温暖明亮；情绪：圆满、治愈、终于回到家的安定——全片最终定格，不设悬念；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    }
+  ],
+  "ip_summary": {
+    "characters": ["wang_cai", "tian_tian", "mom", "neighbor_apo"],
+    "scenes": ["ep12_s01", "ep12_s02", "ep12_s03", "ep12_s04", "ep12_s05"],
+    "locations": ["loc_cunko", "loc_tian_home", "loc_yuanzi"],
+    "props": ["prop_gutou_tang", "prop_jiang_cai", "prop_pen", "prop_towel", "prop_wangcai_xing"],
+    "bgm": ["bgm_ep12_opening", "bgm_ep12_ending", "bgm_ep12_reunion_warm"],
+    "music": []
+  }
+}

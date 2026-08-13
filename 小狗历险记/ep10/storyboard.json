@@ -1,0 +1,445 @@
+{
+  "episode_id": "ep10",
+  "shots": [
+    {
+      "shot_id": "ep10_s01_sh01",
+      "scene_id": "ep10_s01",
+      "sequence": 1,
+      "description": "深夜，清水河暴涨，白浪翻滚，水声震得人心慌。旺财站在岸边，前爪探进水里又缩回来，望着河面直打哆嗦。河水轰鸣，闷雷滚滚。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_qingshui_he"],
+        "props": []
+      },
+      "camera": {
+        "angle": "low_angle",
+        "lens": "35mm",
+        "movement": "static",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_rain_cold",
+      "emotion": "恐惧",
+      "duration_sec": 4.2,
+      "transition_in": "淡入",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：小黄狗旺财站在深夜暴涨的清水河边，黄色短毛土狗、垂耳、右耳有缺口、瘦削单薄，前爪探进河水又缩回，浑身发抖望着河面；背景：深夜清水河，白浪翻滚，水汽弥漫，对岸在夜色里模糊不清，黑云低垂、闷雷隐隐；构图与镜头：低角度广角全景（35mm，wide_shot，镜头静止），河面占画面大部，旺财渺小身影在岸边；光线：深夜冷蓝调，河面泛白浪花，雨前闷暗；情绪：恐惧、犹豫、对水的畏惧；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s01_sh02",
+      "scene_id": "ep10_s01",
+      "sequence": 2,
+      "description": "黑爷严肃地说天亮前不过这条河，狗贩子的车就到了，你难道想再被抓回那个铁笼子吗？旺财心里发怵：水好急……黑爷说过了河就是家的方向……可这河好可怕……我有点怕水。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai"],
+        "locations": ["loc_qingshui_he"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "85mm",
+        "movement": "slow_dolly_in",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_rain_cold",
+      "emotion": "恐惧",
+      "duration_sec": 14.8,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：老黑狗黑爷（黑色大土狗、左眼有道疤、毛发灰白）站在旺财身边，神情严肃地望向河面；旺财（瘦削小黄狗、右耳缺口）缩着身子，望着河水直发抖，眼神里满是恐惧；背景：深夜清水河边，白浪翻涌，两岸暗影，雨前乌云低压；构图与镜头：侧面双狗特写（85mm，close_up，镜头缓慢推近）；光线：深夜冷蓝调，河面反着暗白光；情绪：恐惧、压迫、面对险境的紧张；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s01_sh03",
+      "scene_id": "ep10_s01",
+      "sequence": 3,
+      "description": "旺财害怕地发出低低一声呜。黑爷坚决地说：跟上我！踩着我的脚印走，别回头！",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai"],
+        "locations": ["loc_qingshui_he"],
+        "props": []
+      },
+      "camera": {
+        "angle": "low_angle",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_rain_cold",
+      "emotion": "坚决",
+      "duration_sec": 4.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷（黑色大土狗、左眼有道疤）目光坚定地回望旺财，迈步走向河水；旺财害怕地缩在岸上，发出低低的呜咽；背景：深夜清水河边，浪花翻涌，黑爷脚下已踩出第一串脚印；构图与镜头：低角度特写（85mm，close_up，镜头静止），黑爷身姿占画面主体；光线：深夜冷蓝调，浪花泛白微光；情绪：坚决、勇气与畏惧的对比；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s01_sh04",
+      "scene_id": "ep10_s01",
+      "sequence": 4,
+      "description": "旺财望向河对岸，心里默念：甜甜……等我！画面以旺财的视角望向河水与对岸夜色。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_qingshui_he"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "35mm",
+        "movement": "handheld",
+        "framing": "wide_shot"
+      },
+      "composition": "centered",
+      "lighting": "night_rain_cold",
+      "emotion": "决心",
+      "duration_sec": 1.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：主观视角镜头，旺财视角望向湍急的清水河对岸，河对岸隐没在夜色与雨雾中，仿佛家的方向；前景是河面翻涌的白浪；背景：深夜河流全景，雨丝横斜，对岸漆黑朦胧；构图与镜头：第一视角平视广角（35mm，wide_shot，镜头轻微手持晃动，模拟旺财颤抖的视线）；光线：深夜冷蓝，浪花与雨丝泛着微弱冷光；情绪：决心、思念、把害怕压下去的勇气；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s02_sh01",
+      "scene_id": "ep10_s02",
+      "sequence": 5,
+      "description": "急流中，旺财呛水，心里恐慌地喊：咕……甜甜……救命……黑爷急切地喊：别慌！别扑腾！把头抬起来！跟住我！浪声轰鸣，呛水声、扑腾水花声不断。",
+      "visual_elements": {
+        "characters": ["wang_cai", "hei_ye"],
+        "locations": ["loc_qingshui_he"],
+        "props": []
+      },
+      "camera": {
+        "angle": "high_angle",
+        "lens": "100mm",
+        "movement": "handheld",
+        "framing": "extreme_close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_rain_cold",
+      "emotion": "恐慌",
+      "duration_sec": 5.6,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财半个头露出湍急水面，黄色短毛湿透贴在身上，眼睛瞪圆、张嘴呛水，拼命扑腾；黑爷在前方回头大喊，水花四溅；背景：深夜急流中，浪花翻滚，雨点砸出无数水涡，岸影模糊；构图与镜头：水面高度极特写（100mm，extreme_close_up，镜头手持晃动，强化溺水般的紧迫）；光线：深夜冷蓝，水花反着幽冷白光；情绪：恐慌、窒息般的危险、生死一线的紧张；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s02_sh02",
+      "scene_id": "ep10_s02",
+      "sequence": 6,
+      "description": "旺财被拖回浅滩，趴在湿漉漉的沙地上大口喘气，浑身发抖，望着湍急的河水，眼神里第一次有了惧意。黑爷后怕地骂：咳……你这小子……把命当什么了！就为过条河，值吗！",
+      "visual_elements": {
+        "characters": ["wang_cai", "hei_ye"],
+        "locations": ["loc_qingshui_he"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "slow_dolly_in",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_rain_cold",
+      "emotion": "后怕",
+      "duration_sec": 9.1,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财浑身湿透趴在浅滩沙地上大口喘气，四肢发抖，眼神惊惧地望着河面；黑爷站在旁边，毛发湿漉，神情后怕地呵斥；背景：深夜清水河浅滩，河水在近旁湍急流过，雨点细密，岸石与草丛湿黑；构图与镜头：侧面中景（50mm，mid_shot，镜头缓慢推近）；光线：深夜冷蓝，湿沙反着微光；情绪：后怕、劫后余生的虚脱、第一次真正畏惧；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s02_sh03",
+      "scene_id": "ep10_s02",
+      "sequence": 7,
+      "description": "旺财委屈地呜了一声。黑爷催促道：雨要来了。前面有座桥，先躲躲——快走！",
+      "visual_elements": {
+        "characters": ["wang_cai", "hei_ye"],
+        "locations": ["loc_qingshui_he"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_rain_cold",
+      "emotion": "催促",
+      "duration_sec": 4.6,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷急促地回头催旺财快走，尾巴绷直；旺财垂着耳朵、委屈地跟在后面，湿毛贴紧身体；背景：深夜河岸边，雨势渐密，远处老桥的黑影横跨河面；构图与镜头：正面特写（85mm，close_up，镜头静止）；光线：深夜冷蓝，雨丝在微光中斜织；情绪：催促、紧迫、雨夜里的赶路；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s03_sh01",
+      "scene_id": "ep10_s03",
+      "sequence": 8,
+      "description": "暴雨倾盆，雨点砸在河面上溅起白雾。旺财和黑爷挤进桥洞的干角落。忽然，一群流浪狗从暗处围过来，嗅着陌生的气味，低声咆哮，眼睛在雨夜里发着冷光。",
+      "visual_elements": {
+        "characters": ["wang_cai", "hei_ye", "stray_dog_leader"],
+        "locations": ["loc_qiaodong"],
+        "props": []
+      },
+      "camera": {
+        "angle": "low_angle",
+        "lens": "35mm",
+        "movement": "slow_dolly_in",
+        "framing": "wide_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_rain_cold",
+      "emotion": "戒备",
+      "duration_sec": 4.6,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：桥洞下，旺财和黑爷挤在干角落，身前被一群流浪狗从暗处围拢，领头狗低伏着身体、眼睛在雨夜里发着冷光；背景：暴雨中的老桥桥洞，雨帘在洞口倾泻，河面溅起白雾，洞内昏暗潮湿；构图与镜头：低角度广角全景（35mm，wide_shot，镜头缓慢推近），流浪狗群形成包围的压迫感；光线：雨夜冷调，洞外闪电偶尔照亮狗群轮廓；情绪：戒备、敌意、被包围的紧张；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s03_sh02",
+      "scene_id": "ep10_s03",
+      "sequence": 9,
+      "description": "流浪狗头领低吼着说：这儿是我们的地盘。滚出去。旺财畏惧地发出呜声。",
+      "visual_elements": {
+        "characters": ["stray_dog_leader", "wang_cai"],
+        "locations": ["loc_qiaodong"],
+        "props": []
+      },
+      "camera": {
+        "angle": "low_angle",
+        "lens": "85mm",
+        "movement": "handheld",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_rain_cold",
+      "emotion": "敌意",
+      "duration_sec": 3.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：流浪狗头领龇牙低吼，毛竖立，眼神凶狠地逼近；旺财缩着身子贴在墙根，耳朵后压，畏惧地呜咽；背景：昏暗桥洞内，雨帘封住洞口，洞壁水渍斑驳；构图与镜头：低角度对峙特写（85mm，close_up，镜头轻微手持晃动），两狗一高一低构成压迫；光线：雨夜冷调，狗眼反着幽冷绿光；情绪：敌意、畏惧、领地之争的剑拔弩张；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s03_sh03",
+      "scene_id": "ep10_s03",
+      "sequence": 10,
+      "description": "黑爷沉稳地说：别理它们。我们躲完这场雨……就走。流浪狗头领轻蔑地嘲讽：窝囊废，带个崽子还敢过河？天亮前，别让我再看见你们！",
+      "visual_elements": {
+        "characters": ["hei_ye", "stray_dog_leader"],
+        "locations": ["loc_qiaodong"],
+        "props": []
+      },
+      "camera": {
+        "angle": "low_angle",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_rain_cold",
+      "emotion": "屈辱",
+      "duration_sec": 9.6,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷神色沉稳地挡在旺财身前，不卑不亢；流浪狗头领居高临下地轻蔑斜视，嘴角抽动；背景：昏暗桥洞，雨帘封口，旺财缩在角落里；构图与镜头：低角度特写（85mm，close_up，镜头静止），流浪狗头领居于画面高位；光线：雨夜冷调，暗影压在黑爷半边脸上；情绪：屈辱、隐忍、老狗的沉稳与流浪狗的轻蔑；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s03_sh04",
+      "scene_id": "ep10_s03",
+      "sequence": 11,
+      "description": "黑爷深沉地对旺财说：旺财，我老了，走不动了。前面就是你惦记的家——替我，好好活着。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai"],
+        "locations": ["loc_qiaodong"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "slow_dolly_in",
+        "framing": "mid_shot"
+      },
+      "composition": "centered",
+      "lighting": "night_rain_cold",
+      "emotion": "深沉",
+      "duration_sec": 6.4,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷（黑色大土狗、左眼有道疤、毛发灰白）望着桥洞外的雨幕，神情深沉地交代；旺财抬头望着他，眼里含泪；背景：桥洞一角，洞外雨幕如帘，洞口透进一线微弱天光；构图与镜头：侧面中景（50mm，mid_shot，镜头缓慢推近），两狗相对而立；光线：雨夜冷调，洞口微光勾勒老狗轮廓；情绪：深沉、托付、离别前的郑重；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s04_sh01",
+      "scene_id": "ep10_s04",
+      "sequence": 12,
+      "description": "雨越下越大。黑爷一瘸一拐地走进雨里，再也没有回头。旺财的腿像灌了铅，走几步就栽一下，终于趴在泥水里，把脸埋进前爪，再也迈不动一步。暴雨声不止。",
+      "visual_elements": {
+        "characters": ["hei_ye", "wang_cai"],
+        "locations": ["loc_qingshui_he"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "slow_dolly_back",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "night_rain_cold",
+      "emotion": "绝望",
+      "duration_sec": 4.8,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：黑爷一瘸一拐走进大雨中，背影渐远、不再回头；旺财栽倒在泥水里，把脸埋进前爪，浑身湿透；背景：雨夜乡间泥泞路，暴雨倾盆，雨幕将远处吞没；构图与镜头：侧面中景（50mm，mid_shot，镜头缓慢后拉），两只狗的距离在雨里拉远；光线：雨夜冷蓝压抑，泥地反着暗光；情绪：绝望、疲惫、被离别的孤独；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s04_sh02",
+      "scene_id": "ep10_s04",
+      "sequence": 13,
+      "description": "旺财趴在泥水里，疲惫地想：好累……好想回家……可是家还有多远呢……我真的还能见到甜甜吗……她一定等急了……",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_qingshui_he"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_rain_cold",
+      "emotion": "疲惫",
+      "duration_sec": 7.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：旺财趴在泥水里，瘦削的小黄狗、右耳缺口，眼睛半睁、湿毛贴在身上，眼神疲惫而空洞，望着雨幕；背景：雨夜泥泞处，雨水不断砸落，四周灰暗；构图与镜头：正面特写（85mm，close_up，镜头静止），旺财的脸占画面主体；光线：雨夜冷蓝压抑，微弱天光；情绪：疲惫、濒临放弃、想家的酸楚；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s04_sh03",
+      "scene_id": "ep10_s04",
+      "sequence": 14,
+      "description": "旺财虚弱地想：要是甜甜在……她一定会摸摸我的头……说……别怕……雨声渐小，风里隐隐传来一个声音。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_qingshui_he"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "100mm",
+        "movement": "static",
+        "framing": "extreme_close_up"
+      },
+      "composition": "centered",
+      "lighting": "night_rain_cold",
+      "emotion": "虚弱",
+      "duration_sec": 4.7,
+      "transition_in": "硬切",
+      "transition_out": "叠化",
+      "drawing_prompt": "主体：旺财极特写，湿润的狗眼半闭，眼角含着水光，耳朵微微竖起，仿佛在捕捉风里传来的声音；背景：雨幕渐疏的夜，虚化的泥泞与雨丝，风过处带起一丝微光；构图与镜头：正面极特写（100mm，extreme_close_up，镜头静止）；光线：雨夜冷调渐缓，一丝柔光从云缝漏下；情绪：虚弱、思念、最后一线的牵挂；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s05_sh01",
+      "scene_id": "ep10_s05",
+      "sequence": 15,
+      "description": "闪回·暖色。甜甜蹲在村口，温柔地说：小狗狗，你别怕……以后，我来保护你，好不好？我们拉钩！记忆中的雨声带着暖意。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_cunko"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "slow_dolly_in",
+        "framing": "close_up"
+      },
+      "composition": "centered",
+      "lighting": "flashback_warm",
+      "emotion": "温柔",
+      "duration_sec": 5.4,
+      "transition_in": "叠化",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：闪回画面中，8岁小女孩甜甜（齐刘海短发、圆脸、红色连衣裙、白色布鞋）蹲在村口，温柔地伸出小拇指，笑着对眼前的小黄狗说我们拉钩；旺财（幼小的黄色土狗、右耳缺口）抬头望着她；背景：回忆中的青禾村村口，暖色调，记忆中的雨带着暖光，石板路湿润泛光；构图与镜头：正面特写（85mm，close_up，镜头缓慢推近），两双眼睛相对；光线：记忆暖金柔光，画面边缘微微虚化如回忆；情绪：温柔、初遇的暖意、被保护的承诺；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s05_sh02",
+      "scene_id": "ep10_s05",
+      "sequence": 16,
+      "description": "甜甜坚定地说：妈妈不让我养你……可我有办法！我偷偷省下早饭钱给你买肉骨头！旺财欢喜地汪了一声。",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_cunko"],
+        "props": []
+      },
+      "camera": {
+        "angle": "front",
+        "lens": "85mm",
+        "movement": "static",
+        "framing": "close_up"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "flashback_warm",
+      "emotion": "欢喜",
+      "duration_sec": 7.6,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜握着小拳头，眼睛亮晶晶，表情坚定又得意地说着悄悄话；旺财竖起耳朵，欢快地汪了一声，尾巴摇出残影；背景：回忆中的村口，暖色屋檐与石板路，阳光般暖光洒落；构图与镜头：正面特写（85mm，close_up，镜头静止），女孩与小狗同框；光线：记忆暖金，柔和高饱和；情绪：欢喜、坚定、两个小生命的默契；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s05_sh03",
+      "scene_id": "ep10_s05",
+      "sequence": 17,
+      "description": "甜甜期盼地说：那就说定了，拉钩！旺财……回来……我等你……",
+      "visual_elements": {
+        "characters": ["tian_tian", "wang_cai"],
+        "locations": ["loc_cunko"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "50mm",
+        "movement": "slow_dolly_in",
+        "framing": "mid_shot"
+      },
+      "composition": "rule_of_thirds",
+      "lighting": "flashback_warm",
+      "emotion": "期盼",
+      "duration_sec": 3.9,
+      "transition_in": "硬切",
+      "transition_out": "硬切",
+      "drawing_prompt": "主体：甜甜蹲着，小拇指与旺财的前爪相勾，她笑着轻声说拉钩，眼里满是期盼；旺财乖乖伸爪回应，耳朵微垂；背景：回忆中的村口石阶，暖色斜阳，背景虚化；构图与镜头：侧面中景（50mm，mid_shot，镜头缓慢推近），拉钩的小手小爪居画面中心；光线：记忆暖金逆光，轮廓泛着柔光；情绪：期盼、约定、牢牢系住的心愿；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    },
+    {
+      "shot_id": "ep10_s05_sh04",
+      "scene_id": "ep10_s05",
+      "sequence": 18,
+      "description": "画面碎裂，回到现实。旺财的耳朵猛地竖起来，眼眶湿了，摇摇晃晃地站起来。天边泛起鱼肚白，风里除了雨后的泥腥味，还有一丝熟悉的稻香。旺财拖着湿透的身子，一步一步，向稻香的方向走去。记忆中的温暖雨声与现实冰凉的雨声交叠，晨光渐亮，风过稻田。",
+      "visual_elements": {
+        "characters": ["wang_cai"],
+        "locations": ["loc_qingshui_he"],
+        "props": []
+      },
+      "camera": {
+        "angle": "side",
+        "lens": "35mm",
+        "movement": "tracking",
+        "framing": "wide_shot"
+      },
+      "composition": "leading_lines",
+      "lighting": "dawn_blue",
+      "emotion": "希望",
+      "duration_sec": 5.6,
+      "transition_in": "硬切",
+      "transition_out": "淡出",
+      "drawing_prompt": "主体：旺财从泥水里摇摇晃晃站起来，耳朵竖得笔直，眼眶湿润，拖着湿透瘦削的身体，一步一步朝稻香的方向走去；背景：雨后的乡间，天边泛起鱼肚白，晨雾中远处的稻田轮廓浮现，一条泥路延伸向稻香的方向；构图与镜头：侧面广角跟拍（35mm，wide_shot，镜头跟随旺财缓慢前行），泥路形成引导线；光线：黎明蓝灰调渐亮，天边透出暖色晨光，与冷雨夜形成转折；情绪：希望、振作、重新燃起回家的执念；美术风格：手绘水彩、日系治愈动漫风、线条柔和、上色清透、柔和笔触、2D动画非真人。"
+    }
+  ],
+  "ip_summary": {
+    "characters": ["wang_cai", "hei_ye", "tian_tian", "stray_dog_leader"],
+    "scenes": ["ep10_s01", "ep10_s02", "ep10_s03", "ep10_s04", "ep10_s05"],
+    "locations": ["loc_qingshui_he", "loc_qiaodong", "loc_cunko"],
+    "props": [],
+    "bgm": ["bgm_ep10_opening", "bgm_ep10_ending", "bgm_ep10_rainy_journey"],
+    "music": []
+  }
+}
